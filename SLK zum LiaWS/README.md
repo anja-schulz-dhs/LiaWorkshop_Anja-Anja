@@ -1,0 +1,281 @@
+<!--
+language: de
+-->
+
+# Titel des Selbstlernkurses
+
+![](da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
+
+# Einführung
+
+Dieses Selbstlernangebot ist Bestandteil des Online-Workshops "Lehre aktivierend gestalten mit LiaScript. Wie interaktive Lehr-Lernmaterialien einfach erstellt, mit Studierenden und Lehrenden aus aller Welt geteilt und kollaborativ bearbeitet werden können".
+
+__Inhaltliche Schwerpunkte__ 
+* Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen
+* Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien 
+
+__Lernziele__
+
+Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenperspektive ein und können daraus Erkenntnisse für die Gestaltung Ihrer eigenen Lehre bzw. Ihrer eigenen Lehr- und Lernmaterialien gewinnen. Entsprechend können Sie nach dem Durcharbeiten dieses asynchronen Workshopteils:
+
+* Kriterien für gelungene Input- und Selbstlernphasen auf die eigene Lehre beziehen.
+* Ausgehend von grundlegenden Prinzipien der Gestaltung aktivierender Lehr-Lernmaterialien konkrete Anpassungsbedarfe für die Materialien in Ihrer eigenen Lehre ableiten.
+
+__Zeitbedarf__
+
+Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die kleinen Aufgaben ein.
+
+__Kontaktinfos__
+
+Kontaktieren Sie uns gerne bei Fragen oder Anmerkungen: 
+
+>Wir wünschen Ihnen viel Freude mit dem Selbstlernmaterial und freuen uns auf den Austausch mit Ihnen!
+
+---
+# Einstieg: Warum ist das Thema so wichtig?
+
+„Studierende bereiten sich nicht vor“, „Studierende nutzen bereitgestellte Materialien nicht“, „Studierende kommen nicht in die Vorlesung“, „Studierende sind in Inputphasen passiv“, „Studierende beschäftigen sich während der Lehrveranstaltung mit anderen Dingen“ oder „Studierende haben Schwierigkeiten, Inhalte selbstständig zu vertiefen“ – viele Lehrende kennen solche Situationen aus ihrem Lehralltag.
+
+Diese Beobachtungen sind keineswegs auf einzelne Lehrveranstaltungen oder Lehrpersonen beschränkt. Studien zur Hochschullehre zeigen beispielsweise, dass die Aktivierung von Studierenden in Lehrveranstaltungen nicht nur eine Herausforderung für Lehrende darstellt, sondern dass Studierende Lehre, in denen aktivierende Methoden genutzt werden teilweise als weniger lernwirksam wahrnehmen, als Lehre ohne Aktivierung (vgl. Carpenter, Witherby & Tauber, 2020). Die Frage, warum Lernprozesse manchmal nicht so gelingen wie erhofft, lässt sich nicht auf einfache Erklärungen reduzieren. Weder sind mangelnde Motivation oder „die heutige Studierendengeneration“ allein verantwortlich, noch hängt Lernerfolg ausschließlich von der Lehrperson ab. Forschungsergebnisse der Lehr-Lernforschung zeigen jedoch, dass die Gestaltung von Lehre trotz aller Herausforderungen einen relevanten Einfluss darauf hat, wie intensiv sich Lernende mit Inhalten auseinandersetzen und wie erfolgreich Lernprozesse verlaufen (Schneider & Preckel, 2017).
+
+Wie können Lehr-Lernprozesse also so gestaltet werden, dass Lernen möglichst gut unterstützt wird?  Damit wollen wir uns im Folgenden beschäftigen.
+
+
+__Stellen Sie sich einmal selbst folgende Frage:__
+
+>Wodurch werden die Lernprozesse Ihrer Studierenden in Inputphasen in der Präsenzlehre sowie in Selbstlernphasen außerhalb des Hörsaals aus Ihrer Sicht besonders gut unterstützt?
+
+Notieren Sie Ihre Antworten stichpunktartig auf einem analogen oder digitalen "Stück Papier". In den folgenden Kapiteln geben wir Ihnen einen Überblick dazu, welche Antworten zu dieser Frage die Wissenschaft hat.
+
+Überlegen Sie beim Durcharbeiten:
+
+- Wo stimmen Ihre Perspektiven mit denen, die im Kurs behandelt werden, überein?
+- Wo gibt es Unterschiede?
+
+
+---
+
+# Grundlegendes zu lernförderlicher Gestaltung von Lehre
+
+Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante Faktoren sind, um den Lernerfolg Ihrer Studierenden zu fördern und welche so nicht zutreffen!
+
+- [ ] Inputs dürfen nicht länger als 10 bis 15 Minuten sein, um die Aufmerksamkeitsspanne nicht zu überschreiten
+- [ ] in Inputphasen sollten aktivierende Elemente integriert werden
+- [ ] Ziele von Lernaktivitäten sollten klar kommuniziert werden
+- [ ] Studierende merken sich Inhalte aus Vorträgen besonders schlecht, viel besser ist es, wenn sie Dinge tun können
+- [ ] die Aktivierung des Vorwissens unterstützt Studierende bei der kognitiven Verarbeitung
+- [ ] je nach Vorwissen benötigen Studierende unterschiedlich viel didaktische Unterstützung
+
+> Die Auflösung finden Sie im folgenden Abschnitt!
+
+---
+
+## Gestaltung lernwirksamer Lernaktivitäten
+
+Bitte schauen Sie sich die folgende Grafik aus einem Artikel von Shaaruddin & Mohamad (2017) an.
+
+![Grafik "Cone of Experience"](efb65635dd59250f63c51f0dde6d2f3f7f3c5349.png)
+
+Wie Sie sehen, werden aktive und passive Formen des Lernens unterschieden und sind jeweils mit Prozentangaben zum Erinnern der Inhalte versehen.
+
+Personen, die eine passive Aktivität ausführen, wie z.B. einen Text zu lesen, erinnern sich demnach deutlich schlechter an Inhalte als Personen, die aktiv tätig sind und z.B. an einer Diskussion teilnehmen.
+
+Überlegen Sie einmal selber:
+
+Deckt sich das mit Ihren Erfahrungen bezüglich Ihres eigenen Lernens?
+
+Diese Darstellung trifft man in dieser oder leicht abgewandelter Form häufig in Büchern und Texten über lernwirksames Lehren. Intuitiv klingt das im ersten Moment sehr einleuchtend. Denkt man etwas intensiver darüber nach, fängt man zunehmend an zu zweifeln, ob sich solche pauschalen Aussagen über das Lernen als reliabel erweisen. Zwei der Aussagen aus der Grafik sollen im Folgenden mit Erkenntnissen aus wissenschaftlichen Studien der Lehr-Lern-Forschung kontrastiert werden.
+
+Frage 1: Werden gehörte Texte wirklich besser erinnert als gelesene?
+
+Antwort: Diese Aussage lässt sich so pauschal nicht halten, da dieser Effekt (auch als Modalitätseffekt bekannt) nur unter bestimmten Bedingungen auftritt:
+Wenn Lernende mit einer Kombination aus visuellem Material (z. B. einer Grafik) und Text lernen sollen, führt eine Kombination aus Grafik und Audio zu einem besseren Lernerfolg als die Kombination aus derselben Grafik und geschriebenem Text (Ginns, 2005). Dies gilt jedoch nicht für lange oder sehr komplexe Texte. Diese werden besser erinnert und verstanden, wenn sie dem Lernenden nicht auditiv, sondern als geschriebener Text zur Verfügung gestellt werden (vgl. Leahy & Sweller, 2016).
+
+---
+
+Frage 2: Die untere Ebene in der Darstellung („Simulation the Real Experience“, „Doing the Real Thing“) korrespondiert eng mit konstruktivistischen sowie handlungsorientierten Ansätzen des Lehrens und Lernens, wie etwa dem entdeckenden Lernen. Sind diese für den Lernerfolg wirklich besser als das vermeintlich passive Lernen während der direkten Instruktion (z.B. durch einen Vortrag)?
+
+Antwort: Die Ergebnisse von Studien deuten darauf hin, dass die didaktische Unterstützung der Lernenden entscheidenden Anteil für den Erfolg oder Misserfolg von Lernprozessen hat. In einer Meta-Analyse konnten Alfieri, Brooks, Aldrich & Tenenbaum (2011) z.B. zeigen, dass Formen des entdeckenden Lernens ohne didaktische Unterstützung in der Regel weniger Lernerfolg nach sich ziehen als direkte Instruktion. Besonders effektiv sind Lernprozesse immer dann, wenn handlungsorientierte Formen des Lernens um didaktische Anleitung und Unterstützung der Lernenden ergänzt werden.
+
+__Fazit für die Lehre__
+
+Die Dichotomie von passiven Lernenden, die mit Texten, Vorträgen oder Videos lernen versus aktiven Lernenden, die mit handlungsorientierten Methoden lernen, führt in die Irre. Der Kognitionspsychologe Richard E. Mayer hat es einmal wie folgt auf den Punkt gebracht:
+
+“Activity may help promote meaningful learning, but instead of behavioral activity per se (e.g., hands-on activity, discussion, and free exploration), the kind of activity that really promotes meaningful learning is cognitive activity (e.g., selecting, organizing, and integrating knowledge).” (Mayer, 2004, S. 17)
+
+
+---
+
+> Entscheidend ist nicht, wie aktiv Lernende äußerlich sind, sondern wie aktiv und tiefgehend sie Inhalte kognitiv verarbeiten. Dabei gibt es nicht DIE Methode oder DAS Format – diese müssen zu den Lernzielen, den Lernenden und zu Ihnen als Lehrperson passen![^1]
+
+---
+
+[^1] Und woher kommt der „Cone of Experience“ nun eigentlich?
+Der „Cone of Experience“ oder auch „Cone of Learning“ geht auf eine Visualisierung der unterschiedlichen Arten des Lernens mit Medien von Dale (1946/1969) zurück, so wie die Abbildungsunterschrift in der Publikation von Shaaruddin & Mohamad (2017) auch suggeriert. Dale (1946) visualisiert in der ursprünglichen Grafik jedoch lediglich den Abstraktionsgrad von Lernerfahrungen, ohne davon auf das Behalten von Lerninhalten zu schließen. Auf welchem Weg die ursprüngliche Visualisierung zu einer Art pädagogischen Anleitung und damit zu einem Lernmythos geworden ist, lässt sich heute kaum noch rekonstruieren.
+
+---
+
+## Gestaltung lernwirksamer Lernaktivitäten – jetzt aber wirklich
+
+Im Folgenden stellen wir auf der Basis der Ergebnisse eines systematischen Reviews von Metaanalysen (Schneider & Preckel, 2017) relevante Einflussfaktoren für Lernerfolg in der hochschulischen Bildung vor. Auf Studierendencharakteristika, die einen großen Einfluss auf den Lernerfolg haben, gehen wir hierbei nicht vertiefend ein. Genannt sollen diese aber zumindest einmal werden: Besonders wirksam sind: 
+- motivationale Variablen, wie Selbstwirksamkeitserwartungen und selbst gesetzte Lernziele, 
+- kognitive Variablen wie Vorwissen und Intelligenz sowie 
+- Kompetenzen in der Anwendung von Lernstrategien, z.B. die Regulation der mentalen Anstrengung in Abhängigkeit der Lernaufgabe oder das Zeitmanagement.
+
+Wir fokussieren jedoch in diesem Kurs auf Variablen, die Lehrende gezielt beeinflussen können. Die im Text angegebenen Ränge beziehen sich auf die 138 in den Meta-Analysen untersuchten Variablen, die Schneider & Preckel nach ihren Effektstärken gerankt haben.
+
+Auf den nächsten Seiten finden Sie die wichtigsten Tipps:
+
+---
+
+### (1) Investieren Sie Zeit in die didaktische Planung und Organisation Ihrer Lehrveranstaltungen!
+
+Uns ist natürlich bewusst, dass die zeitlichen Kapazitäten für die Lehre begrenzt sind aber wir wollen hier dennoch zentral darauf hinweisen, dass hier ein starker empirischer Zusammenhang besteht: Von allen in der Meta-Analyse untersuchten Variablen, die Lehrende direkt beeinflussen können, ist die Zeit und Anstrengung, die Lehrende für die didaktische Planung und Organisation investieren die Variable mit der größten Wirkung auf den Lernerfolg. 
+
+
+_Unser Tipp zur Vertiefung: Wenn Sie wenig Erfahrung mit der didaktischen Planung von Lehrveranstaltungen haben, nutzen Sie auch gerne unseren kostenfreien Selbstlernkurs "Lehrveranstaltungen planen. Ein praxisorientierter Grundkurs" um eine Lehrveranstaltung von Grund auf didaktisch zu planen (Zeitbedarf: ca. 135 Minuten Rezeption und 225 Minuten Bearbeitung Transferaufgaben (= 8 AE)). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg:_ [https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538) 
+
+> Übrigens: Ihr Enthusiasmus als Lehrperson in Bezug auf die Lehrveranstaltung und/oder die Inhalte trägt auch zum Lernerfolg bei (Rang 23).
+
+### (2) Kombinieren Sie instruktionsorientierte und handlungsorientierte Lehr-Lernformen
+Eine Kombination von lehrendenzentrierten bzw. instruktionsorientierten Formen der Lehre (z.B. Vorträge) und studierendenzentrierten bzw. handlungsorientierten Formen (z.B. Gruppenarbeiten oder Projektarbeiten) hat eine stärkere Wirkung auf den Lernerfolg als eine Form der Instruktion alleine. Instruktionsorientierte Lehr-Lernformen sind effektiv, wenn sie die Lernenden motivieren und durch aktivierende Methoden angereichert werden (vgl. Punkt 5). Stärker handlungsorientierte Lehr-Lernformen sind effektiv, wenn sie durch Lehrende didaktisch angeleitet und begleitet werden.
+
+### (3) Teilnahme der Studierenden
+Sie haben sich sicherlich schon häufig über fehlende Studierende in Ihren Lehrveranstaltungen geärgert oder gegrämt. Ihr professionelles Wissen, dass das ein wichtiger Aspekt für den Lernerfolg ist, wird auch durch empirische Studien bestätigt! 
+
+> Machen Sie Ihren Studierenden deutlich, dass "frequent class attendance" die Variable mit dem stärksten Zusammenhang mit Lernerfolg ist (Rang 6), die von den Studierenden direkt beeinflusst werden kann (vgl. Schneider & Preckel, 2017, S. 26)! 
+
+
+### (4) Kognitive Belastung an Lernendenvoraussetzungen anpassen
+
+Warum ist es wichtig, die kognitive Belastung der Lernenden an Lernendenvoraussetzungen anzupassen?
+
+Bevor Informationen in das Langzeitgedächtnis kommen, müssen sie im Arbeitsgedächtnis verarbeitet werden. Die Verarbeitungskapazität des menschlichen Arbeitsgedächtnisses ist begrenzt. Lernen wird erschwert, wenn Lernende zu viele Informationen gleichzeitig verarbeiten müssen oder mit lernirrelevanten Verarbeitungsprozessen belastet werden (z.B. bei der Navigation durch eine unübersichtliche Lernumgebung). Lernaktivitäten, Aufgaben und Lernumgebungen sollten deshalb so gestaltet werden, dass verfügbare kognitive Ressourcen optimal für lernrelevante Verarbeitung genutzt werden können und Lernende weder über- noch unterfordert werden (Sweller, Ayres & Kalyuga, 2011). Daher benötigen auch nicht alle Lernenden gleich viel didaktische Unterstützung: 
+
+> Lernende mit wenig Vorwissen profitieren stärker von Strukturierung und Anleitung, für fortgeschrittene Lernende ist diese nicht im gleichen Maße notwendig, teilweise sogar kontraproduktiv (Kalyuga & Renkl, 2010).
+
+Und wie kann man die Komplexität von Aufgaben und Inhalten gut anpassen? Einige Beispiele: 
+- Beispielhafte Schritt-für-Schritt-Lösungen (Worked-Examples) zur Unterstützung des Problemlösens (Paas & Van Gog, 2006). Erläuterung: Problemlöseaufgaben sind kognitiv sehr anspruchsvoll. Lernende mit wenig Vorwissen lernen deswegen besonders gut, wenn sie zunächst mit ausgearbeiteten Worked-Examples in das Problemlösen starten und sich auf das Verstehen der zugrunde liegenden Konzepte konzentrieren können. Im nächsten Schritt können sie das Vorgehen dann auf neue Aufgaben des gleichen Typs transferieren. Für Lernende mit viel Vorwissen sind schrittweise Lösungsanleitung dagegen redundant, für sie ist eigenständiges Arbeiten ohne Worked Examples lernwirksamer.
+- Inhalte segmentieren: Komplexe Inhalte in kleinere Verarbeitungseinheiten aufteilen (Rey et al., 2019). Erläuterung: Die Designempfehlung betrifft die Segmentierung von Lerninhalten. Durch eine Einteilung von Lerninhalten in kleinere Segmente, die die Lernenden selbstgesteuert bearbeiten können, wird es diesen ermöglicht, zunächst Teilaspekte des Lerninhalts zu verarbeiten. Erst in einem zweiten Schritt werden diese dann integriert. Auf diese Weise wird die Anzahl von Informationen deutlich kleiner, die der Lernende gleichzeitig im Arbeitsgedächtnis behalten und verarbeiten muss und somit die Komplexität reduziert. 
+- Hervorheben relevanter Elemente des Lehr-Lern-Materials (Schneider et al., 2018). Um die Lernenden bei der Aufmerksamkeitssteuerung zu unterstützen und die kognitive Belastung durch die Verarbeitung lernirrelevanter Details zu minimieren, werden häufig Methoden des "Signalings" oder "Cueings" genutzt. Beispiele für Signaling sind die farbige Hervorhebung von Schlüsselwörtern in einem Text oder Schlüsselprozessen in einer Grafik oder die Nutzung von Pfeilen, um auf bestimmte Aspekte hinzuweisen.
+
+---
+
+### (5) Kleine Änderungen große Wirkung
+
+Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große Wirkung erzielen. Die Wirkung von Lehr-Lernmethoden hängt jedoch davon ab, ob sie zu den Lernzielen, den Studierenden und nicht zuletzt zu Ihnen als Lehrperson passen. 
+
+---
+
+__(5.1) Lernende kognitiv (!) aktivieren:__
+- Fragen und Diskussionen anregen (Rang 11). 
+- Offen formulierte Fragen an die Studierenden regen zur elaborierten Verarbeitung von Inhalten an, z.B.: „Wie bewerten Sie ..." (Rang 16)
+- Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung wichtig!
+- Studierende Concept Maps zentraler Ideen, Konzepte, Vorgehensweisen konstruieren und diskutieren lassen (Rang 45).
+
+_Unser Tipp zur Durchführung: Gruppenarbeiten sind für Studierende mit wenig Vorerfahrung in der Gruppenarbeit herausfordernd. Das Team muss sich koordinieren und regulieren. Probleme entstehen z.B. häufig aufgrund von mangelndem Engagement von Teammitgliedern. Wir haben gute Erfahrungen mit der didaktische Anleitung von Gruppenarbeit mittels Kollaborationsskripten gemacht, d.h. Anleitungen, wie die Teammitglieder miteinander interagieren und zusammenarbeiten sollen (z.B. Verteilen von Rollen und Zuständigkeiten) und wie der Ablauf der Zusammenarbeit aussehen soll (vgl. Hawlitschek, Rudolf & Zug, 2022)._
+
+---
+__(5.2) Meaningful learning ermöglichen/fördern:__
+Meaningful Learning (bitte melden Sie sich, wenn Ihnen eine gute deutsche Übersetzung bekannt ist) bedeutet, dass den Lernenden die Relevanz und der Mehrwert von Lerninhalten und Lernaktivitäten bewusst ist und sie diese in Bezug zu ihren eigenen Erfahrungen und ihrem eigenen Vorwissen setzen können. Dies hat positive Effekte auf Motivation, Interesse und Lernerfolg (Schneider & Preckel, 2017). 
+- Klare Lernziele and Erfolgskriterien für den Kurs kommunizieren (Rang 13). 
+- Die Bedeutsamkeit des Inhalt für die Studierenden deutlich machen (Rang 17). Dafür können Sie Lerninhalte mit authentischen Problemen, Praxisbeispielen oder beruflichen Anwendungskontexten verknüpfen sowie Lernende reflektieren lassen, welche Bedeutung die Inhalte für eigene Erfahrungen, Interessen oder berufliche Ziele haben.
+- Jede thematische Einheit mit einem Advance Organizer beginnen (Rang 64).
+
+> Unser Tipp:
+
+---
+__(5.3) Wissensüberprüfung und Feedback:__
+Feedback gehört zu den wirksamsten Einflussfaktoren auf Lernen. Lernende profitieren davon, Rückmeldung darüber zu erhalten: was sie bereits verstanden haben und wie sie ihren Lernprozess verbessern können. Doch die Wirkung auf den Lernerfolg hängt stark von der Forms des Feedbacks ab. Verallgemeinert kann festgehalten werden: Je mehr Inhalt ein Feedback enthält, desto lernwirksamer ist es (Wisniewski, Zierer & Hattie, 2020). 
+- Regelmäßige Selbsttests/Tests zur Überprüfung des eigenen Wissens durchführen/bereitstellen (Rang 69).
+- Feedback geben, dass detailliert und aufgabenorientiert ist und Verbesserungsmöglichkeiten für die Studierenden aufzeigt (Rang 30). 
+- Eine Wissensüberprüfung vor Einführung von neuem Stoff durchführen (Rang 25).
+
+_Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Reflexion über den eigenen Wissensstand anzuregen und dies zum Ausgangspunkt der nächsten Lehrveranstaltung zu nehmen, sind 2-Minuten-Lerntagebücher. Hier bekommen die Studierenden am Ende jedes Kurses zwei Minuten Zeit, um anonym in einem digitalen Tool aufzuschreiben, was sie in dem Kurs gerlernt haben, was sie noch nicht verstanden haben und wo sie sich Unterstützung wünschen. Die Lehrperson liest sich die Beiträge durch und greift diese zu Beginn jedes Kurses auf, um Wissenslücken zu schließen und auf Bedarfe zur Unterstützung einzugehen (vgl. Köppen & Hawlitschek, 2025)._ 
+
+---
+__(5.4) Lehr-Lernmaterialien und Input:__
+- Inhalte verständlich formulieren (Rang 4), z.B. Fachbegriffe für Lernende mit wenig Vorwissen zunächst einordnen und erläutern. 
+- Das Interesse der Studierenden wecken (Rang 9), z.B. durch Storytelling oder der Anregung von Inkongruenzerfahrungen (wenn vorhandene Erfahrungen nicht mit den Lerninhalten übereinstimmen).
+- Lernende mit einer Kombination aus gesprochenem Text und visuellem Material (z. B. Folien mit Grafiken) lernen lassen (Rang 42), allerdings dürfen die Inhalte nicht redundant sein (Ginns, 2005). 
+- Auf Präsentationsfolien: Anstriche (bullet points) anstelle von ganzen Sätzen nutzen (Redundanzproblem, siehe oben!) und dekorative aber ablenkende Inhalte vermeiden (Rang 101).
+
+_Unser Tipp zur Vertiefung: Gute Präsentationen zu gestalten, ist eine Herausforderungen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten", wenn Sie sich mit der Thematik vertiefend beschäftigen wollen (Zeitbedarf: 90 Minuten Rezeption (= 2 AE). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333) 
+
+---
+__(5.5) Interaktion mit Studierenden:__
+- Inwieweit die Lehrperson als erreichbar und hilfreich wahrgenommen wird, hat Einfluss auf den Lernerfolg der Studierenden (Rang 11). Dies lässt sich z.B. durch verlässliche Sprechzeiten und die Kommunikation von Rückmeldezeiten bei Anfragen beeinflussen.
+- Ebenso wichtig ist, inwiefern der Umgang mit den Studierenden als freundlich und respektvoll wahrgenommen wird (Rang 30).
+
+_Unser Tipp zur Vertiefung: Grade in der Online-Lehre und in Selbstlernphasen ist es mitunter schwer, eine stabile Arbeitsbeziehung zu den Studierenden herzustellen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Impulse zur Beziehungsgestaltung und emotionalen Sicherheit in der Online-Lehre (Zeitbedarf: ca. 45 Minuten Rezeption und 45 Minuten Bearbeitung Transferaufgaben (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)  
+
+
+## Quiz
+Zum Abschluss dieses Kapitels dürfen Sie die Fragen vom Anfang nochmal als Quiz beantworten. 
+
+Welches sind aus Ihrer Sicht relevante Faktoren, um den Lernerfolg Ihrer Studierenden zu fördern?
+- [[ ]]Inputs dürfen nicht länger als 10 bis 15 Minuten sein, um die Aufmerksamkeitsspanne nicht zu überschreiten.
+- [[X]]In Inputphasen sollten aktivierende Elemente integriert werden.
+- [[X]]Ziele von Lernaktivitäten sollten klar kommuniziert werden.
+- [[ ]]Studierende merken sich Inhalte aus Vorträgen besonders schlecht, besser für den Lernerfolg ist es, wenn sie Dinge tun können.
+- [[X]]Die Aktivierung des Vorwissens unterstützt Studierende bei der kognitiven Verarbeitung.
+- [[X]]Je nach Vorwissen benötigen Studierende unterschiedlich viel didaktische Unterstützung.
+**************
+Sehr gut, Sie haben die Lernmythen richtig identifiziert!
+**************
+
+---
+# Und was gibt es zur lernwirksamem Gestaltung von Lehre noch zu sagen?
+
+Denken Sie noch einmal an die Frage vom Anfang, wozu Sie sich Antworten auf einem "Stück Papier" notiert hatten:  Wodurch werden die Lernprozesse Ihrer Studierenden in Inputphasen in der Präsenzlehre sowie in Selbstlernphasen außerhalb des Hörsaals aus Ihrer Sicht besonders gut unterstützt?
+
+Welche Ihrer Antworten würden Sie gerne mit den anderen Workshop-Teilnehmenden teilen, da sie hier nicht oder nicht ausreichend behandelt wurden?
+Notieren Sie diese auf folgendem Edupad:
+??[Edupad](https://edupad.ch/p/j0b0KyWopb)
+
+---
+
+# Transferaufgabe zum Abschluss: Lernwirksame Lehrmaterialien mit LiaScript gestalten
+
+Wählen Sie ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre aus, das Sie zukünftig in LiaScript umsetzen oder überarbeiten möchten. Das kann z.B. eine Präsentation für eine Vorlesung sein oder ein Selbstlernmaterial oder eine komplexere Übungsaufgabe.
+
+Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen Gestaltung von Lehre möchten Sie bei der Weiterentwicklung/Neuentwicklung besonders berücksichtigen?
+
+Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum Präsenzworkshop am 09.06.2026 mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript.
+
+---
+# Literaturverweise
+
+Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? Journal of educational psychology, 103(1), 1.
+
+Biard, N., Cojean, S., & Jamet, E. (2018). Effects of segmentation and pacing on procedural learning by video. Computers in Human Behavior, 89, 411-417.
+
+Carpenter, S. K., Witherby, A. E., & Tauber, S. K. (2020). On students’(mis) judgments of learning and teaching effectiveness. Journal of Applied research in Memory and cognition, 9(2), 137-151.
+
+Dale, E. (1946). Audio-visual methods in teaching. New York: Dryden Press.
+
+Ginns, P. (2005). Meta-analysis of the modality effect. Learning and instruction, 15(4), 313-331.
+
+Hawlitschek, A., Rudolf, G., & Zug, S. (2022). Informatikstudierende als Teamplayer. Wie die Integration von Teamarbeit in die Lehre gelingen kann. In 20. Fachtagung Bildungstechnologien (DELFI) (pp. 99-104). Gesellschaft für Informatik eV.
+
+Köppen, V., & Hawlitschek, A. (2025). Supporting Program Comprehension with Digital Learning Journals: Experiences from a Course with Non-CS Students. In 23. Fachtagung Bildungstechnologien (DELFI 2025) (pp. 307-311). Gesellschaft für Informatik eV.
+
+Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. 10.1007/s11251-009-9102-0. 
+
+Leahy, W., & Sweller, J. (2016). Cognitive load theory and the effects of transient information on the modality effect. Instructional science, 44(1), 107-123.
+
+Mayer, R. E. (2004). Should there be a three-strikes rule against pure discovery learning? American psychologist, 59(1).
+
+Paas, F., & Van Gog, T. (2006). Optimising worked example instruction: Different ways to increase germane cognitive load. Learning and Instruction, 16, 87-91.
+
+Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S. (2019). A meta-analysis of the segmenting effect. Educational Psychology Review, 31(2), 389-419.
+
+Schneider, S., Beege, M., Nebel, S., & Rey, G. D. (2018). A meta-analysis of how signaling affects learning with media. Educational Research Review, 23, 1-24.
+
+Schneider, M. & Preckel, F. (2017). Variables associated with achievement in higher education: A systematic review of meta-analyses. Psychological Bulletin, 143(6), 565–600. https://doi.org/10.1037/bul0000098
+
+Shaaruddin, J., & Mohamad, M. (2017). Identifying the effectiveness of active learning strategies and benefits in curriculum and pedagogy course for undergraduate TESL students. Creative Education, 8(14), 2312-2324.
+
+Sweller, J.; Ayres, P. & Kalyuga, S. (2011). Cognitive Load Theory. New York: Springer Science+Business Media LLC.
+
+Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. Frontiers in psychology, 10, 487662.
