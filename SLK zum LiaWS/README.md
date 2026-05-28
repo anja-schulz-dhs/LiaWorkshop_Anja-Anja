@@ -4,7 +4,7 @@ language: de
 
 # Titel des Selbstlernkurses
 
-![](da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
+![](SLK zum LiaWS/da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
 
 # Einführung
 
