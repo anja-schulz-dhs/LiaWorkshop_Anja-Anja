@@ -4,7 +4,7 @@ language: de
 
 # Titel des Selbstlernkurses
 
-![](https://cloud.ovgu.de/s/xXaqbLoB7zPRJfJ?dir=/&editing=false&openfile=true)
+![](Medien/da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
 
 # Einführung
 
