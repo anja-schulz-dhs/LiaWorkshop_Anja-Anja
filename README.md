@@ -74,7 +74,7 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
 
 Bitte schauen Sie sich die folgende Grafik aus einem Artikel von Shaaruddin & Mohamad (2017) an.
 
-![Grafik "Cone of Experience"](https://cloud.ovgu.de/s/xXaqbLoB7zPRJfJ?dir=/&editing=false&openfile=true)
+![Grafik "Cone of Experience"](Medien/efb65635dd59250f63c51f0dde6d2f3f7f3c5349.png)
 
 Wie Sie sehen, werden aktive und passive Formen des Lernens unterschieden und sind jeweils mit Prozentangaben zum Erinnern der Inhalte versehen.
 
