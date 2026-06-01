@@ -390,7 +390,7 @@ _Dieses Selbstlernangebot entstand in Kooperation der [Hochschuldidaktik Sachsen
 
 ---
 
-![](Medien/Bildschirmfoto2026-06-01um20.01.50.png)
+![](Medien/Logos)
 
 
 ---
