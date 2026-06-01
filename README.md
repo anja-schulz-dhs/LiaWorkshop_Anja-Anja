@@ -269,7 +269,7 @@ Wiederholung: Welches sind Prinzipien des multimedialen Lernens, die sich positi
 - [[X]] Segmentierungs-Prinzip: Teilen Sie Lerninhalte in kleinere Segmente auf, die Lernende im eigenen Tempo bearbeiten können.
 - [[X]]Kohärenzprinzip: Lassen Sie für das Verstehen nicht notwendige Töne, Bilder oder Texte weg.
 **************
-Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wurde? Sie haben natürlich recht! Die Wirkung von solchen Prinzipien ist (wie teilweise auch schon in Abschnitt 1 behandelt) oft auch von den Rahmenbedingungen und dem Einsatzszenario abhängig, z.B. beim Modalitätsprinzip von der Länge und Komplexität von Texten, beim Segmentierungsprinzip von dem Vorwissen der Lernenden oder beim Redundanzprinzip davon, ob Lernende die Modalitäten auswählen können.
+Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wurde? Sie haben natürlich recht! Die Wirkung von solchen Prinzipien ist (wie teilweise auch schon in Abschnitt 1 und im Video behandelt) oft von den Rahmenbedingungen und dem Einsatzszenario abhängig, z.B. beim Modalitätsprinzip von der Länge und Komplexität von Texten, beim Segmentierungsprinzip von dem Vorwissen der Lernenden oder beim Redundanzprinzip davon, ob Lernende die Modalitäten auswählen können. 
 **************
 
 ---
