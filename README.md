@@ -135,15 +135,17 @@ _Unser Tipp zur Vertiefung: Wenn Sie wenig Erfahrung mit der didaktischen Planun
 
 > Übrigens: Ihr Enthusiasmus als Lehrperson in Bezug auf die Lehrveranstaltung und/oder die Inhalte trägt auch zum Lernerfolg bei (Rang 23).
 
+---
 ### (2) Kombinieren Sie instruktionsorientierte und handlungsorientierte Lehr-Lernformen
 Eine Kombination von lehrendenzentrierten bzw. instruktionsorientierten Formen der Lehre (z.B. Vorträge) und studierendenzentrierten bzw. handlungsorientierten Formen (z.B. Gruppenarbeiten oder Projektarbeiten) hat eine stärkere Wirkung auf den Lernerfolg als eine Form der Instruktion alleine. Instruktionsorientierte Lehr-Lernformen sind effektiv, wenn sie die Lernenden motivieren und durch aktivierende Methoden angereichert werden (vgl. Punkt 5). Stärker handlungsorientierte Lehr-Lernformen sind effektiv, wenn sie durch Lehrende didaktisch angeleitet und begleitet werden.
 
+---
 ### (3) Teilnahme der Studierenden
 Sie haben sich sicherlich schon häufig über fehlende Studierende in Ihren Lehrveranstaltungen geärgert oder gegrämt. Ihr professionelles Wissen, dass das ein wichtiger Aspekt für den Lernerfolg ist, wird auch durch empirische Studien bestätigt! 
 
 > Machen Sie Ihren Studierenden deutlich, dass "frequent class attendance" die Variable mit dem stärksten Zusammenhang mit Lernerfolg ist (Rang 6), die von den Studierenden direkt beeinflusst werden kann (vgl. Schneider & Preckel, 2017, S. 26)! 
 
-
+---
 ### (4) Kognitive Belastung an Lernendenvoraussetzungen anpassen
 
 Warum ist es wichtig, die kognitive Belastung der Lernenden an Lernendenvoraussetzungen anzupassen?
@@ -171,6 +173,7 @@ Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große 
 - Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung wichtig!
 - Studierende Concept Maps zentraler Ideen, Konzepte, Vorgehensweisen konstruieren und diskutieren lassen (Rang 45).
 
+---
 _Unser Tipp zur Durchführung: Gruppenarbeiten sind für Studierende mit wenig Vorerfahrung in der Gruppenarbeit herausfordernd. Das Team muss sich koordinieren und regulieren. Probleme entstehen z.B. häufig aufgrund von mangelndem Engagement von Teammitgliedern. Wir haben gute Erfahrungen mit der didaktische Anleitung von Gruppenarbeit mittels Kollaborationsskripten gemacht, d.h. Anleitungen, wie die Teammitglieder miteinander interagieren und zusammenarbeiten sollen (z.B. Verteilen von Rollen und Zuständigkeiten) und wie der Ablauf der Zusammenarbeit aussehen soll (vgl. Hawlitschek, Rudolf & Zug, 2022)._
 
 ---
@@ -180,6 +183,7 @@ Meaningful Learning (bitte melden Sie sich, wenn Ihnen eine gute deutsche Übers
 - Die Bedeutsamkeit des Inhalt für die Studierenden deutlich machen (Rang 17). Dafür können Sie Lerninhalte mit authentischen Problemen, Praxisbeispielen oder beruflichen Anwendungskontexten verknüpfen sowie Lernende reflektieren lassen, welche Bedeutung die Inhalte für eigene Erfahrungen, Interessen oder berufliche Ziele haben.
 - Jede thematische Einheit mit einem [Advance Organizer](https://lehrblick.de/advance-organizer-fuer-einen-guten-ueberblick/) beginnen (Rang 64).
 
+---
 _Unser Tipp: _
 
 ---
@@ -189,6 +193,7 @@ Feedback gehört zu den wirksamsten Einflussfaktoren auf Lernen. Lernende profit
 - Feedback geben, dass detailliert und aufgabenorientiert ist und Verbesserungsmöglichkeiten für die Studierenden aufzeigt (Rang 30). 
 - Eine Wissensüberprüfung vor Einführung von neuem Stoff durchführen (Rang 25).
 
+---
 _Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Reflexion über den eigenen Wissensstand anzuregen und dies zum Ausgangspunkt der nächsten Lehrveranstaltung zu nehmen, sind 2-Minuten-Lerntagebücher. Hier bekommen die Studierenden am Ende jedes Kurses zwei Minuten Zeit, um anonym in einem digitalen Tool aufzuschreiben, was sie in dem Kurs gerlernt haben, was sie noch nicht verstanden haben und wo sie sich Unterstützung wünschen. Die Lehrperson liest sich die Beiträge durch und greift diese zu Beginn jedes Kurses auf, um Wissenslücken zu schließen und auf Bedarfe zur Unterstützung einzugehen (vgl. Köppen & Hawlitschek, 2025)._ 
 
 ---
@@ -198,6 +203,7 @@ _Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Re
 - Lernende mit einer Kombination aus gesprochenem Text und visuellem Material (z. B. Folien mit Grafiken) lernen lassen (Rang 42), allerdings dürfen die Inhalte nicht redundant sein (Ginns, 2005). 
 - Auf Präsentationsfolien: Anstriche (bullet points) anstelle von ganzen Sätzen nutzen (Redundanzproblem, siehe oben!) und dekorative aber ablenkende Inhalte vermeiden (Rang 101).
 
+---
 _Unser Tipp zur Vertiefung: Gute Präsentationen zu gestalten, ist eine Herausforderungen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten", wenn Sie sich mit der Thematik vertiefend beschäftigen wollen (Zeitbedarf: 90 Minuten Rezeption (= 2 AE). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333) 
 
 ---
@@ -205,9 +211,10 @@ _Unser Tipp zur Vertiefung: Gute Präsentationen zu gestalten, ist eine Herausfo
 - Inwieweit die Lehrperson als erreichbar und hilfreich wahrgenommen wird, hat Einfluss auf den Lernerfolg der Studierenden (Rang 11). Dies lässt sich z.B. durch verlässliche Sprechzeiten und die Kommunikation von Rückmeldezeiten bei Anfragen beeinflussen.
 - Ebenso wichtig ist, inwiefern der Umgang mit den Studierenden als freundlich und respektvoll wahrgenommen wird (Rang 30).
 
+---
 _Unser Tipp zur Vertiefung: Grade in der Online-Lehre und in Selbstlernphasen ist es mitunter schwer, eine stabile Arbeitsbeziehung zu den Studierenden herzustellen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Impulse zur Beziehungsgestaltung und emotionalen Sicherheit in der Online-Lehre (Zeitbedarf: ca. 45 Minuten Rezeption und 45 Minuten Bearbeitung Transferaufgaben (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)  
 
-
+---
 ## Quiz
 Zum Abschluss dieses Kapitels dürfen Sie die Fragen vom Anfang nochmal als Quiz beantworten. 
 
