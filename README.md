@@ -412,7 +412,7 @@ Fyfield, M., Henderson, M., & Phillips, M. (2022). Improving instructional video
 
 Ginns, P. (2005). Meta-analysis of the modality effect. Learning and instruction, 15(4), 313-331.
 
-Guo, P. J., Kim, J. & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. In Proceedings of the first ACM conference on Learning@ scale (pp. 41–50). Atlanta: ACM. [https://doi.org/10.1145/2556325.2566239](https://dl.acm.org/doi/10.1145/2556325.2566239).
+Guo, P. J., Kim, J. & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. In Proceedings of the first ACM conference on Learning@ scale (pp. 41–50). Atlanta: ACM. https://doi.org/10.1145/2556325.2566239.
 
 Hawlitschek, A., Rudolf, G., & Zug, S. (2022). Informatikstudierende als Teamplayer. Wie die Integration von Teamarbeit in die Lehre gelingen kann. In 20. Fachtagung Bildungstechnologien (DELFI) (pp. 99-104). Gesellschaft für Informatik e.V.
 
