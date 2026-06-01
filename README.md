@@ -10,9 +10,14 @@ language: de
 
 Dieses Selbstlernangebot ist Bestandteil des Online-Workshops "Lehre aktivierend gestalten mit LiaScript. Wie interaktive Lehr-Lernmaterialien einfach erstellt, mit Studierenden und Lehrenden aus aller Welt geteilt und kollaborativ bearbeitet werden können".
 
+| __Inhaltliche Schwerpunkte__ | __Zeitbedarf__ |
+| -------- | ------ | ------- |
+| Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen & Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien | Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die kleinen Aufgaben ein. |
+
 __Inhaltliche Schwerpunkte__ 
+
 * Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen
-* Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien 
+* Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien
 
 __Lernziele__
 
@@ -163,7 +168,7 @@ Und wie kann man die Komplexität von Aufgaben und Inhalten gut anpassen? Einige
 
 ### (5) Kleine Änderungen große Wirkung
 
-Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große Wirkung erzielen. Die Wirkung von Lehr-Lernmethoden hängt jedoch davon ab, ob sie zu den Lernzielen, den Studierenden und nicht zuletzt zu Ihnen als Lehrperson passen. 
+Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große Wirkung erzielen. Die Wirkung von Lehr-Lernmethoden hängt jedoch davon ab, ob sie zu den Lernzielen, den Studierenden und nicht zuletzt zu Ihnen als Lehrperson passen. Wir haben für Sie auf den folgenden Seiten auf der Basis der Ergebnisse von Schneider & Preckel (2017) Tipps zur Anpassung Ihrer Lehre zusammengestellt.
 
 ---
 
@@ -176,16 +181,16 @@ Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große 
 _Unser Tipp zur Durchführung: Gruppenarbeiten sind für Studierende mit wenig Vorerfahrung in der Gruppenarbeit herausfordernd. Das Team muss sich koordinieren und regulieren. Probleme entstehen z.B. häufig aufgrund von mangelndem Engagement von Teammitgliedern. Wir haben gute Erfahrungen mit der didaktische Anleitung von Gruppenarbeit mittels Kollaborationsskripten gemacht, d.h. Anleitungen, wie die Teammitglieder miteinander interagieren und zusammenarbeiten sollen (z.B. Verteilen von Rollen und Zuständigkeiten) und wie der Ablauf der Zusammenarbeit aussehen soll (vgl. Hawlitschek, Rudolf & Zug, 2022)._
 
 ---
-__(5.2) Meaningful learning ermöglichen/fördern:__
+#### (5.2) Meaningful learning ermöglichen/fördern:
 Meaningful Learning (bitte melden Sie sich, wenn Ihnen eine gute deutsche Übersetzung bekannt ist) bedeutet, dass den Lernenden die Relevanz und der Mehrwert von Lerninhalten und Lernaktivitäten bewusst ist und sie diese in Bezug zu ihren eigenen Erfahrungen und ihrem eigenen Vorwissen setzen können. Dies hat positive Effekte auf Motivation, Interesse und Lernerfolg (Schneider & Preckel, 2017). 
 - Klare Lernziele and Erfolgskriterien für den Kurs kommunizieren (Rang 13). 
 - Die Bedeutsamkeit des Inhalt für die Studierenden deutlich machen (Rang 17). Dafür können Sie Lerninhalte mit authentischen Problemen, Praxisbeispielen oder beruflichen Anwendungskontexten verknüpfen sowie Lernende reflektieren lassen, welche Bedeutung die Inhalte für eigene Erfahrungen, Interessen oder berufliche Ziele haben.
 - Jede thematische Einheit mit einem Advance Organizer beginnen (Rang 64).
 
-> Unser Tipp:
+_Unser Tipp: _
 
 ---
-__(5.3) Wissensüberprüfung und Feedback:__
+#### (5.3) Wissensüberprüfung und Feedback:
 Feedback gehört zu den wirksamsten Einflussfaktoren auf Lernen. Lernende profitieren davon, Rückmeldung darüber zu erhalten: was sie bereits verstanden haben und wie sie ihren Lernprozess verbessern können. Doch die Wirkung auf den Lernerfolg hängt stark von der Forms des Feedbacks ab. Verallgemeinert kann festgehalten werden: Je mehr Inhalt ein Feedback enthält, desto lernwirksamer ist es (Wisniewski, Zierer & Hattie, 2020). 
 - Regelmäßige Selbsttests/Tests zur Überprüfung des eigenen Wissens durchführen/bereitstellen (Rang 69).
 - Feedback geben, dass detailliert und aufgabenorientiert ist und Verbesserungsmöglichkeiten für die Studierenden aufzeigt (Rang 30). 
@@ -194,7 +199,7 @@ Feedback gehört zu den wirksamsten Einflussfaktoren auf Lernen. Lernende profit
 _Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Reflexion über den eigenen Wissensstand anzuregen und dies zum Ausgangspunkt der nächsten Lehrveranstaltung zu nehmen, sind 2-Minuten-Lerntagebücher. Hier bekommen die Studierenden am Ende jedes Kurses zwei Minuten Zeit, um anonym in einem digitalen Tool aufzuschreiben, was sie in dem Kurs gerlernt haben, was sie noch nicht verstanden haben und wo sie sich Unterstützung wünschen. Die Lehrperson liest sich die Beiträge durch und greift diese zu Beginn jedes Kurses auf, um Wissenslücken zu schließen und auf Bedarfe zur Unterstützung einzugehen (vgl. Köppen & Hawlitschek, 2025)._ 
 
 ---
-__(5.4) Lehr-Lernmaterialien und Input:__
+#### (5.4) Lehr-Lernmaterialien und Input:
 - Inhalte verständlich formulieren (Rang 4), z.B. Fachbegriffe für Lernende mit wenig Vorwissen zunächst einordnen und erläutern. 
 - Das Interesse der Studierenden wecken (Rang 9), z.B. durch Storytelling oder der Anregung von Inkongruenzerfahrungen (wenn vorhandene Erfahrungen nicht mit den Lerninhalten übereinstimmen).
 - Lernende mit einer Kombination aus gesprochenem Text und visuellem Material (z. B. Folien mit Grafiken) lernen lassen (Rang 42), allerdings dürfen die Inhalte nicht redundant sein (Ginns, 2005). 
@@ -203,7 +208,7 @@ __(5.4) Lehr-Lernmaterialien und Input:__
 _Unser Tipp zur Vertiefung: Gute Präsentationen zu gestalten, ist eine Herausforderungen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten", wenn Sie sich mit der Thematik vertiefend beschäftigen wollen (Zeitbedarf: 90 Minuten Rezeption (= 2 AE). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333) 
 
 ---
-__(5.5) Interaktion mit Studierenden:__
+#### (5.5) Interaktion mit Studierenden:
 - Inwieweit die Lehrperson als erreichbar und hilfreich wahrgenommen wird, hat Einfluss auf den Lernerfolg der Studierenden (Rang 11). Dies lässt sich z.B. durch verlässliche Sprechzeiten und die Kommunikation von Rückmeldezeiten bei Anfragen beeinflussen.
 - Ebenso wichtig ist, inwiefern der Umgang mit den Studierenden als freundlich und respektvoll wahrgenommen wird (Rang 30).
 
