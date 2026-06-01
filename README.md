@@ -246,17 +246,17 @@ Notieren Sie diese auf folgendem Edupad:
 
 # Gestaltung aktivierender Lehr-Lernmaterialien 
 
-Sie wollen für Ihre Studierenden neue Lehr-Lern-Materialien erstellen oder bereits vorhandene überarbeiten? Wie Sie im vorhergehenden Abschnitt erfahren haben, ist eine gute didaktische Planung entscheidend dafür, ob Ihre Materialien lernwirksam, also kognitiv aktivierend, sind oder nicht.
+Sie wollen für Ihre Studierenden neue Lehr-Lern-Materialien erstellen oder bereits vorhandene überarbeiten? Wie Sie in den vorhergehenden Abschnitten erfahren haben, ist eine gute didaktische Planung entscheidend dafür, ob Ihre Materialien lernwirksam, also kognitiv aktivierend, sind oder nicht.
 
-Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzeption von Lernangeboten. Was viele dieser Modelle eint, ist, dass in einem ersten Schritt eine didaktische Analyse erfolgt (vgl. Niegemann et al., 2008), in deren Rahmen sich mit folgenden Fragen auseinandergesetzt werden sollte:
+Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzeption von Lernangeboten. Was viele dieser Modelle eint, ist, dass in einem ersten Schritt eine __didaktische Analyse__ erfolgt (vgl. Niegemann et al., 2008), in deren Rahmen sich mit folgenden Fragen auseinandergesetzt werden sollte:
 
 - Welche Lehr-Lernziele verfolgen Sie mit dem Material?
 - Welchen Mehrwert hat das Lehr-Lernmaterial?
 - Welche Charakteristika der Zielgruppe sollten Sie beachten?
 
-Darüber hinaus müssen Sie im Rahmen des didaktischen Designs Ihrer Lehr-Lernmaterialien verschiedene Entscheidungen treffen, etwa zur Auswahl der Lerninhalte, zu Lernaktivitäten, zur Strukturierung der Inhalte, zur (multi-)medialen Gestaltung, zum Grafik- und Interaktionsdesign sowie zur Motivation und Aktivierung der Lernenden (Niegemann et al, 2008).
+Darüber hinaus müssen Sie im Rahmen des didaktischen Designs Ihrer Lehr-Lernmaterialien verschiedene __Entscheidungen__ treffen, etwa zur Auswahl der Lerninhalte, zu Lernaktivitäten, zur Strukturierung der Inhalte, zur (multi-)medialen Gestaltung, zum Grafik- und Interaktionsdesign sowie zur Motivation und Aktivierung der Lernenden (Niegemann et al, 2008).
 
-In diesem Abschnitt fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernforschung, die bei der konkreten Gestaltung von Lehr-Lernmaterialien beachtet werden sollten. Ansprechend für die Lernenden ist hierbei der Einsatz von multimedialen Elementen bzw. ein gelungener Medienmix. Weniger ist hier allerdings oft mehr. Zu viele Angebote überfordern die Lernenden und bringen sie schnell an ihre Grenzen. Das richtige Maß ist gefragt.
+In diesem Abschnitt fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernforschung, die bei der konkreten __Gestaltung von Lehr-Lernmaterialien__ beachtet werden sollten. Ansprechend für die Lernenden ist hierbei der Einsatz von multimedialen Elementen bzw. ein gelungener Medienmix. Weniger ist hier allerdings oft mehr. Zu viele Angebote überfordern die Lernenden und bringen sie schnell an ihre Grenzen. Das richtige Maß ist gefragt.
 
 ---
 
@@ -264,7 +264,7 @@ In diesem Abschnitt fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernfors
 
 Wie findet man nun aber dieses richtige Maß? Ein Exkurs in die Kognitionspsychologie bietet Orientierung und liefert wichtige Hinweise.
 
-Sehen Sie sich das folgende Video zu grundlegenden Gestaltungsprinzipien von Multimedia an. Notieren Sie stichpunktartig die für Sie relevantesten Aspekte, die Sie bei der Erstellung Ihrer Lehr-Lernmaterialien berücksichtigen möchten!
+Sehen Sie sich das folgende Video zu grundlegenden Gestaltungsprinzipien von Multimedia an. Nutzen Sie das Ihnen schon vertraute "Stück Papier" und notieren Sie stichpunktartig die für Sie relevantesten Aspekte, welche Sie bei der Erstellung Ihrer Lehr-Lernmaterialien berücksichtigen möchten!
 
 !?[Video: Grundlegende Designprinzipien bei der Erstellung von Multimedia](https://vimeo.com/799090705?fl=pl&fe=cm)
 
@@ -274,28 +274,14 @@ Sehen Sie sich das folgende Video zu grundlegenden Gestaltungsprinzipien von Mul
 Wiederholung: Welches sind Prinzipien des multimedialen Lernens, die sich positiv auf den Lernerfolg auswirken (empirisch nachgewiesen)?
 
 - [[X]]Personalisierungsprinzip: Sprechen Sie Ihre Lernenden im Material persönlich an.  
-- [[X]]Modalitätsprinzip: Sprechen Sie verschiedene Sinneskanäle an, nutzen Sie z.B. Grafiken mit gesprochenen statt geschriebenen Erläuterungen. 
-- [[X]]Redundanzprinzip: Präsentieren Sie keine redundanten Informationen, z.B. den gleichen Text als Ton und als schriftlichen Text. 
-- [[X]]Split-Attention-Prinzip: Bringen Sie Informationselemente, die zusammengehören (z.B. eine Grafik und ein erläuternder Text), in größtmögliche zeitliche und räumliche Nähe.
+- [[X]]Modalitätsprinzip: Sprechen Sie verschiedene Sinneskanäle an, nutzen Sie z. B. Grafiken mit gesprochenen statt geschriebenen Erläuterungen. 
+- [[X]]Redundanzprinzip: Präsentieren Sie keine redundanten Informationen, z. B. den gleichen Text als Ton und als schriftlichen Text. 
+- [[X]]Split-Attention-Prinzip: Bringen Sie Informationselemente, die zusammengehören (z. B. eine Grafik und ein erläuternder Text), in größtmögliche zeitliche und räumliche Nähe.
 - [[X]] Segmentierungs-Prinzip: Teilen Sie Lerninhalte in kleinere Segmente auf, die Lernende im eigenen Tempo bearbeiten können.
 - [[X]]Kohärenzprinzip: Lassen Sie für das Verstehen nicht notwendige Töne, Bilder oder Texte weg.
 **************
-Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wurde? Sie haben natürlich recht! Die Wirkung von solchen Prinzipien ist (wie teilweise auch schon in Abschnitt 1 und im Video behandelt) oft von den Rahmenbedingungen und dem Einsatzszenario abhängig, z.B. beim Modalitätsprinzip von der Länge und Komplexität von Texten, beim Segmentierungsprinzip von dem Vorwissen der Lernenden oder beim Redundanzprinzip davon, ob Lernende die Modalitäten auswählen können. 
+Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wurde? Sie haben natürlich recht! Die Wirkung solcher Prinzipien ist - wie teilweise auch schon im Abschnitt zur lernförderlichen Gestaltung von Lehre und im Video behandelt - oft von den Rahmenbedingungen und dem Einsatzszenario abhängig, z. B. beim Modalitätsprinzip von der Länge und Komplexität von Texten, beim Segmentierungsprinzip vom Vorwissen der Lernenden oder beim Redundanzprinzip davon, ob Lernende die Modalitäten auswählen können.
 **************
-
----
-Die nachfolgende Tabelle fasst die zentralen Prinzipien des multimedialen Lernens nach Mayer (2026) noch einmal überblicksartig zusammen:
-
-| Prinzpien multimedialen Lernens | Erläuterung | Merksatz |
-| -------- | ------ | ------- |
-| Personalisierungsprinzip     |   Das Prinzip der individuellen Unterschiede oder Personalisierungsprinzip besagt, dass eine persönliche Ansprache sowie pädagogische Agenten das Lernen unterstützen können. Außerdem wirken Designeffekte bei geringem Vorwissen der Lernenden mehr, als bei hohem Vorwissen, da Lernende mit hohem Vorwissen imstande sind, ihr Vorwissen dazu zu gebrauchen, Mängel der Instruktionsqualität auszugleichen.   |     Lernende direkt ansprechen |
-| Modalitätsprinzip | Behaltens- und Transferleistungen werden erhöht, wenn Grafiken und Animationen mit gesprochenen statt geschriebenen Erläuterungen dargeboten werden, da so der visuelle Kanal entlastet und die Information zeitgleich über beide Kanäle aufgenommen wird. Demnach ist der Einsatz eines gesprochenen Textes zur Erläuterung eines Bildes besser als ein geschriebener Text zu einem Bild. | verschiedene Sinneskanäle ansprechen |
-| Redundanzprinzip | Die audiovisuelle Darstellung (z. B. Filme und Animationen) von Lerninhalten durch Bild und Ton ist effektiver als die redundante Präsentation der gleichen Information von Bild, Ton und schriftlichem Text. Ebenso ist die zeitgleiche Darbietung derselben Information durch gesprochenen und geschriebenen Text zu vermeiden. | Aufnahme- und Verarbeitungskapazitäten sind begrenzt |
-| Multimediaprinzip | Die Darbietung des Lerninhalts mittels Kombination aus Texten und Bildern verspricht ebenfalls eine bessere Behaltens- und Transferleistung als die rein textuelle Informationspräsentation. Dies gilt vor allem bei Lernenden mit geringem Vorwissen. Wichtig ist, dass das Verbale dem Bildlichen inhaltlich entspricht. Verschiedene Medien ergänzen sich idealerweise bei der Vermittlung des Lerninhalts. | ein Bild sagt mehr als tausend Worte |
-| Kontiguitätsprinzip | Bilder, Grafiken, Animationen etc. und erläuternde Texte sollten in größtmöglicher zeitlicher und räumlicher Nähe zueinander zu sehen sein. Ein positiver Effekt ergibt sich allerdings nur, wenn sich visuelle Präsentation und Text ergänzen und die dargestellte visuelle Information nicht selbsterklärend ist. | Zusammen, was zusammen gehört |		
-| Kohärenzprinzip | Für das Verstehen nicht notwendige Töne, Bilder oder Texte sollten weggelassen werden, damit das Arbeitsgedächtnis nicht überbelastet, der Lernende nicht vom eigentlichen Lerninhalt abgelenkt und der Lernprozess auf diese Weise beeinträchtigt wird. | Weniger ist mehr |
-
-DARAUS EIN QUIZ MACHEN?
 
 ---
 
