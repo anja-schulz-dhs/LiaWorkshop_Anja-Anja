@@ -239,11 +239,11 @@ Notieren Sie diese auf folgendem Edupad:
 
 Sie wollen für Ihre Studierenden neue Lehr-Lern-Materialien erstellen oder bereits vorhandene überarbeiten? Wie Sie im vorhergehenden Abschnitt erfahren haben, ist eine gute didaktische Planung entscheidend dafür, ob Ihre Materialien lernwirksam, also kognitiv aktivierend, sind oder nicht.
 
-_Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzeption von Lernangeboten. Was viele dieser Modelle eint, ist, dass in einem ersten Schritt eine didaktische Analyse erfolgt (vgl. Niegemann et al., 2008), in deren Rahmen sich mit folgenden Fragen auseinandergesetzt werden sollte:
+Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzeption von Lernangeboten. Was viele dieser Modelle eint, ist, dass in einem ersten Schritt eine didaktische Analyse erfolgt (vgl. Niegemann et al., 2008), in deren Rahmen sich mit folgenden Fragen auseinandergesetzt werden sollte:
 
-_- Welche Lehr-Lernziele verfolgen Sie mit dem Material?
-_- Welchen Mehrwert hat das Lehr-Lernmaterial?
-_- Welche Charakteristika der Zielgruppe sollten Sie beachten?
+- Welche Lehr-Lernziele verfolgen Sie mit dem Material?
+- Welchen Mehrwert hat das Lehr-Lernmaterial?
+- Welche Charakteristika der Zielgruppe sollten Sie beachten?
 
 Darüber hinaus müssen Sie im Rahmen des didaktischen Designs Ihrer Lehr-Lernmaterialien verschiedene Entscheidungen treffen, etwa zur Auswahl der Lerninhalte, zu Lernaktivitäten, zur Strukturierung der Inhalte, zur (multi-)medialen Gestaltung, zum Grafik- und Interaktionsdesign sowie zur Motivation und Aktivierung der Lernenden (Niegemann et al, 2008).
 
@@ -255,7 +255,18 @@ In diesem Abschnitt fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernfors
 
 Wie findet man nun aber dieses richtige Maß? Als Orientierung für die Gestaltung und den Einsatz multimedialer Lehr-Lerninhalte können folgende Prinzipien des multimedialen Lernens nach Mayer (2016) dienen:
 
+| Prinzpien multimedialen Lernens | Erläuterung | Merksatz |
+| -------- | :------: | -------: |
+| Personalisierungsprinzip     |   Das Prinzip der individuellen Unterschiede oder Personalisierungsprinzip besagt, dass eine persönliche Ansprache sowie pädagogische Agenten das Lernen unterstützen können. Außerdem wirken Designeffekte bei geringem Vorwissen der Lernenden mehr, als bei hohem Vorwissen, da Lernende mit hohem Vorwissen imstande sind, ihr Vorwissen dazu zu gebrauchen, Mängel der Instruktionsqualität auszugleichen.   |     Lernende direkt ansprechen |
+| Kohärenzprinzip | Für das Verstehen nicht notwendige Töne, Bilder oder Texte sollten weggelassen werden, damit das Arbeitsgedächtnis nicht überbelastet, der Lernende nicht vom eigentlichen Lerninhalt abgelenkt und der Lernprozess auf diese Weise beeinträchtigt wird. | Weniger ist mehr |
+| Redundanzprinzip | Die audiovisuelle Darstellung (z. B. Filme und Animationen) von Lerninhalten durch Bild und Ton ist effektiver als die redundante Präsentation der gleichen Information von Bild, Ton und schriftlichem Text. Ebenso ist die zeitgleiche Darbietung derselben Information durch gesprochenen und geschriebenen Text zu vermeiden. | Aufnahme- und Verarbeitungskapazitäten sind begrenzt |
+| Multimodalitätsprinzip | Behaltens- und Transferleistungen werden erhöht, wenn Grafiken und Animationen mit gesprochenen statt geschriebenen Erläuterungen dargeboten werden, da so der visuelle Kanal entlastet und die Information zeitgleich über beide Kanäle aufgenommen wird. Demnach ist der Einsatz eines gesprochenen Textes zur Erläuterung eines Bildes besser als ein geschriebener Text zu einem Bild. | verschiedene Sinneskanäle ansprechen |
+| Multimediaprinzip | Die Darbietung des Lerninhalts mittels Kombination aus Texten und Bildern verspricht ebenfalls eine bessere Behaltens- und Transferleistung als die rein textuelle Informationspräsentation. Dies gilt vor allem bei Lernenden mit geringem Vorwissen. Wichtig ist, dass das Verbale dem Bildlichen inhaltlich entspricht. Verschiedene Medien ergänzen sich idealerweise bei der Vermittlung des Lerninhalts. | ein Bild sagt mehr als tausend Worte |
+| Kontiguitätsprinzip | Bilder, Grafiken, Animationen etc. und erläuternde Texte sollten in größtmöglicher zeitlicher und räumlicher Nähe zueinander zu sehen sein. Ein positiver Effekt ergibt sich allerdings nur, wenn sich visuelle Präsentation und Text ergänzen und die dargestellte visuelle Information nicht selbsterklärend ist. | Zusammen, was zusammen gehört |		
 
+		
+
+		
 
 Im folgenden Video lernen Sie grundlegende Gestaltungsprinzipien von Multimedia kennen.
 
