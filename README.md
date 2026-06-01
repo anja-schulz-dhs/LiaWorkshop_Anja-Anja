@@ -167,7 +167,7 @@ Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große 
 
 ---
 
-__(5.1) Lernende kognitiv (!) aktivieren:__
+#### (5.1) Lernende kognitiv (!) aktivieren:
 - Fragen und Diskussionen anregen (Rang 11). 
 - Offen formulierte Fragen an die Studierenden regen zur elaborierten Verarbeitung von Inhalten an, z.B.: „Wie bewerten Sie ..." (Rang 16)
 - Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung wichtig!
