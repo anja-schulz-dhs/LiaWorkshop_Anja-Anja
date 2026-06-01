@@ -385,7 +385,7 @@ Wir freuen uns unsererseits nun sehr über Feedback zum Selbstlernangebot - insb
 
 ??[](https://uni-leipzig.taskcards.app/#/board/677796ea-0e93-4909-8a04-0842a2d487d4?token=ce2a513d-1c31-41f0-8f10-57e318e34fde)
 
----
+
 
 # Herzlichen Dank für Ihre Teilnahme! 🙏
 
