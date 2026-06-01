@@ -2,7 +2,7 @@
 language: de
 -->
 
-# Titel des Selbstlernkurses
+# Gestaltung lernwirksamer Lehr-Lernaktivitäten und -materialien
 
 ![](Medien/da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
 
