@@ -251,26 +251,37 @@ In diesem Abschnitt fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernfors
 
 ---
 
-## Prinzipien des multimedialen Lernens
+## Designprinzipien für die Erstellung von Multimedia
 
-Wie findet man nun aber dieses richtige Maß? Als Orientierung für die Gestaltung und den Einsatz multimedialer Lehr-Lerninhalte können folgende Prinzipien des multimedialen Lernens nach Mayer (2016) dienen:
+Wie findet man nun aber dieses richtige Maß? 
 
-| Prinzpien multimedialen Lernens | Erläuterung | Merksatz |
-| -------- | :------: | -------: |
-| Personalisierungsprinzip     |   Das Prinzip der individuellen Unterschiede oder Personalisierungsprinzip besagt, dass eine persönliche Ansprache sowie pädagogische Agenten das Lernen unterstützen können. Außerdem wirken Designeffekte bei geringem Vorwissen der Lernenden mehr, als bei hohem Vorwissen, da Lernende mit hohem Vorwissen imstande sind, ihr Vorwissen dazu zu gebrauchen, Mängel der Instruktionsqualität auszugleichen.   |     Lernende direkt ansprechen |
-| Kohärenzprinzip | Für das Verstehen nicht notwendige Töne, Bilder oder Texte sollten weggelassen werden, damit das Arbeitsgedächtnis nicht überbelastet, der Lernende nicht vom eigentlichen Lerninhalt abgelenkt und der Lernprozess auf diese Weise beeinträchtigt wird. | Weniger ist mehr |
-| Redundanzprinzip | Die audiovisuelle Darstellung (z. B. Filme und Animationen) von Lerninhalten durch Bild und Ton ist effektiver als die redundante Präsentation der gleichen Information von Bild, Ton und schriftlichem Text. Ebenso ist die zeitgleiche Darbietung derselben Information durch gesprochenen und geschriebenen Text zu vermeiden. | Aufnahme- und Verarbeitungskapazitäten sind begrenzt |
-| Multimodalitätsprinzip | Behaltens- und Transferleistungen werden erhöht, wenn Grafiken und Animationen mit gesprochenen statt geschriebenen Erläuterungen dargeboten werden, da so der visuelle Kanal entlastet und die Information zeitgleich über beide Kanäle aufgenommen wird. Demnach ist der Einsatz eines gesprochenen Textes zur Erläuterung eines Bildes besser als ein geschriebener Text zu einem Bild. | verschiedene Sinneskanäle ansprechen |
-| Multimediaprinzip | Die Darbietung des Lerninhalts mittels Kombination aus Texten und Bildern verspricht ebenfalls eine bessere Behaltens- und Transferleistung als die rein textuelle Informationspräsentation. Dies gilt vor allem bei Lernenden mit geringem Vorwissen. Wichtig ist, dass das Verbale dem Bildlichen inhaltlich entspricht. Verschiedene Medien ergänzen sich idealerweise bei der Vermittlung des Lerninhalts. | ein Bild sagt mehr als tausend Worte |
-| Kontiguitätsprinzip | Bilder, Grafiken, Animationen etc. und erläuternde Texte sollten in größtmöglicher zeitlicher und räumlicher Nähe zueinander zu sehen sein. Ein positiver Effekt ergibt sich allerdings nur, wenn sich visuelle Präsentation und Text ergänzen und die dargestellte visuelle Information nicht selbsterklärend ist. | Zusammen, was zusammen gehört |		
-
-		
-
-		
-
-Im folgenden Video lernen Sie grundlegende Gestaltungsprinzipien von Multimedia kennen.
+Sehen Sie sich das folgende Video zu grundlegenden Gestaltungsprinzipien von Multimedia an. Notieren Sie sich wichtige Aspekte, die Sie bei der Erstellung Ihrer Lehr-Lernmaterialien berücksichtigen möchten!
 
 !?[Video: Grundlegende Designprinzipien bei der Erstellung von Multimedia](https://vimeo.com/799090705?fl=pl&fe=cm)
+
+---
+
+Die nachfolgende Tabelle fasst die zentralen Prinzipien des multimedialen Lernens nach Mayer (2026) zusammen
+
+Als Orientierung für die Gestaltung und den Einsatz multimedialer Lehr-Lerninhalte können folgende Prinzipien des multimedialen Lernens nach Mayer (2016) dienen:
+
+| Prinzpien multimedialen Lernens | Erläuterung | Merksatz |
+| -------- | ------ | ------- |
+| Personalisierungsprinzip     |   Das Prinzip der individuellen Unterschiede oder Personalisierungsprinzip besagt, dass eine persönliche Ansprache sowie pädagogische Agenten das Lernen unterstützen können. Außerdem wirken Designeffekte bei geringem Vorwissen der Lernenden mehr, als bei hohem Vorwissen, da Lernende mit hohem Vorwissen imstande sind, ihr Vorwissen dazu zu gebrauchen, Mängel der Instruktionsqualität auszugleichen.   |     Lernende direkt ansprechen |
+| Modalitätsprinzip | Behaltens- und Transferleistungen werden erhöht, wenn Grafiken und Animationen mit gesprochenen statt geschriebenen Erläuterungen dargeboten werden, da so der visuelle Kanal entlastet und die Information zeitgleich über beide Kanäle aufgenommen wird. Demnach ist der Einsatz eines gesprochenen Textes zur Erläuterung eines Bildes besser als ein geschriebener Text zu einem Bild. | verschiedene Sinneskanäle ansprechen |
+| Redundanzprinzip | Die audiovisuelle Darstellung (z. B. Filme und Animationen) von Lerninhalten durch Bild und Ton ist effektiver als die redundante Präsentation der gleichen Information von Bild, Ton und schriftlichem Text. Ebenso ist die zeitgleiche Darbietung derselben Information durch gesprochenen und geschriebenen Text zu vermeiden. | Aufnahme- und Verarbeitungskapazitäten sind begrenzt |
+| Multimediaprinzip | Die Darbietung des Lerninhalts mittels Kombination aus Texten und Bildern verspricht ebenfalls eine bessere Behaltens- und Transferleistung als die rein textuelle Informationspräsentation. Dies gilt vor allem bei Lernenden mit geringem Vorwissen. Wichtig ist, dass das Verbale dem Bildlichen inhaltlich entspricht. Verschiedene Medien ergänzen sich idealerweise bei der Vermittlung des Lerninhalts. | ein Bild sagt mehr als tausend Worte |
+| Kontiguitätsprinzip | Bilder, Grafiken, Animationen etc. und erläuternde Texte sollten in größtmöglicher zeitlicher und räumlicher Nähe zueinander zu sehen sein. Ein positiver Effekt ergibt sich allerdings nur, wenn sich visuelle Präsentation und Text ergänzen und die dargestellte visuelle Information nicht selbsterklärend ist. | Zusammen, was zusammen gehört |		
+| Kohärenzprinzip | Für das Verstehen nicht notwendige Töne, Bilder oder Texte sollten weggelassen werden, damit das Arbeitsgedächtnis nicht überbelastet, der Lernende nicht vom eigentlichen Lerninhalt abgelenkt und der Lernprozess auf diese Weise beeinträchtigt wird. | Weniger ist mehr |
+
+		
+
+		
+
+
+---
+
+## Tipps für die Gestaltung verschiedener Materialarten
 
 
 
