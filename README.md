@@ -258,7 +258,21 @@ Sehen Sie sich das folgende Video zu grundlegenden Gestaltungsprinzipien von Mul
 !?[Video: Grundlegende Designprinzipien bei der Erstellung von Multimedia](https://vimeo.com/799090705?fl=pl&fe=cm)
 
 ---
+## Prinzipien multimedialen Lernens: Quiz 
 
+Wiederholung: Welches sind Prinzipien des multimedialen Lernens, die sich positiv auf den Lernerfolg auswirken (empirisch nachgewiesen)?
+
+- [[X]]Personalisierungsprinzip: Sprechen Sie Ihre Lernenden im Material persönlich an.  
+- [[X]]Modalitätsprinzip: Sprechen Sie verschiedene Sinneskanäle an, nutzen Sie z.B. Grafiken mit gesprochenen statt geschriebenen Erläuterungen. 
+- [[X]]Redundanzprinzip: Präsentieren Sie keine redundanten Informationen, z.B. den gleichen Text als Ton und als schriftlichen Text. 
+- [[X]]Split-Attention-Prinzip: Bringen Sie Informationselemente, die zusammengehören (z.B. eine Grafik und ein erläuternder Text), in größtmögliche zeitliche und räumliche Nähe.
+- [[X]] Segmentierungs-Prinzip: Teilen Sie Lerninhalte in kleinere Segmente auf, die Lernende im eigenen Tempo bearbeiten können.
+- [[X]]Kohärenzprinzip: Lassen Sie für das Verstehen nicht notwendige Töne, Bilder oder Texte weg.
+**************
+Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wurde? Sie haben natürlich recht! Die Wirkung von solchen Prinzipien ist (wie teilweise auch schon in Abschnitt 1 behandelt) oft auch von den Rahmenbedingungen und dem Einsatzszenario abhängig, z.B. beim Modalitätsprinzip von der Länge und Komplexität von Texten, beim Segmentierungsprinzip von dem Vorwissen der Lernenden oder beim Redundanzprinzip davon, ob Lernende die Modalitäten auswählen können.
+**************
+
+---
 Die nachfolgende Tabelle fasst die zentralen Prinzipien des multimedialen Lernens nach Mayer (2026) noch einmal überblicksartig zusammen:
 
 | Prinzpien multimedialen Lernens | Erläuterung | Merksatz |
