@@ -384,9 +384,7 @@ Wir freuen uns unsererseits sehr über Feedback zum Selbstlernkurs! Nur durch Ih
 
 ---
 
-# Herzlichen Dank für Ihre Teilnahme!
-
-🙏 thank you 🙏
+# Herzlichen Dank für Ihre Teilnahme! 🙏
 
 _Dieses Selbstlernangebot entstand in Kooperation der [Hochschuldidaktik Sachsen](https://www.hd-sachsen.de/), der [eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA) an der Universität Magdeburg](https://www.esalsa.ovgu.de/) und der [Professur für Softwaretechnologie und Robotik der TU Bergakademie Freiberg](https://tu-freiberg.de/soro)._
 
