@@ -287,7 +287,9 @@ Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wur
 
 ## Tipps für die Gestaltung verschiedener Materialarten
 
-In den folgenden Abschnitten haben wir Hinweise für die Gestaltung verschiedener Materialarten zusammengetragen, welche die vorgestellten Designprinzipien berücksichtigen.
+In den folgenden Abschnitten haben wir Hinweise für die Gestaltung verschiedener Materialarten zusammengetragen, welche die vorgestellten Designprinzipien berücksichtigen. 
+
+>Sollten Sie ausschließlich an Informationen zu bestimmten Materialarten interessiert sein, können Sie gern direkt in das entsprechende Unterkapitel springen. Nutzen Sie das Selbstlernangebot so, wie es Ihren Bedarfen entspricht!
 
 ---
 
