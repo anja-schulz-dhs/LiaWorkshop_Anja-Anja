@@ -389,21 +389,41 @@ Biard, N., Cojean, S., & Jamet, E. (2018). Effects of segmentation and pacing on
 
 Carpenter, S. K., Witherby, A. E., & Tauber, S. K. (2020). On students’(mis) judgments of learning and teaching effectiveness. Journal of Applied research in Memory and cognition, 9(2), 137-151.
 
+Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69
+
 Dale, E. (1946). Audio-visual methods in teaching. New York: Dryden Press.
+
+Downs, E., Boyson, A. R., Alley, H., & Bloom, N. R. (2011). iPedagogy: Using multimedia learning theory to identify best practices for MP3 player use in higher education. Journal of Applied Communication Research, 39(2), 184-200.
+
+Fyfield, M., Henderson, M., & Phillips, M. (2022). Improving instructional video design: A systematic review. Australasian Journal of Educational Technology, 38(3), 155-183.
 
 Ginns, P. (2005). Meta-analysis of the modality effect. Learning and instruction, 15(4), 313-331.
 
+Guo, P. J., Kim, J. & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. In Proceedings of the first ACM conference on Learning@ scale (pp. 41–50). Atlanta: ACM. doi.org/10.1145/2556325.2566239
+
 Hawlitschek, A., Rudolf, G., & Zug, S. (2022). Informatikstudierende als Teamplayer. Wie die Integration von Teamarbeit in die Lehre gelingen kann. In 20. Fachtagung Bildungstechnologien (DELFI) (pp. 99-104). Gesellschaft für Informatik eV.
 
-Köppen, V., & Hawlitschek, A. (2025). Supporting Program Comprehension with Digital Learning Journals: Experiences from a Course with Non-CS Students. In 23. Fachtagung Bildungstechnologien (DELFI 2025) (pp. 307-311). Gesellschaft für Informatik eV.
+Hoogerheide, V., Loyens, S. M. M. & van Gog, T. (2014). Comparing the effects of worked examples and modeling examples on learning, Computers in Human Behavior, 41, 80–91. doi.org/10.1016/j.chb.2014.09.013
 
 Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. 10.1007/s11251-009-9102-0. 
 
+Köppen, V., & Hawlitschek, A. (2025). Supporting Program Comprehension with Digital Learning Journals: Experiences from a Course with Non-CS Students. In 23. Fachtagung Bildungstechnologien (DELFI 2025) (pp. 307-311). Gesellschaft für Informatik eV.
+
+Krist, S. et al. (2015). PowerPoint-Präsentation. In Schneider, M., Mustafić, M. (eds) Gute Hochschullehre: Eine evidenzbasierte Orientierungshilfe. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-45062-8_5
+
 Leahy, W., & Sweller, J. (2016). Cognitive load theory and the effects of transient information on the modality effect. Instructional science, 44(1), 107-123.
+
+Lischka, K. (2019). Einsatz von Lernmaterialien in Online-Umgebungen - Gestaltungsimplikationen zur Aufarbeitung von Lernmaterialien. In: Leimeister, J. M. & David, K. (Hrsg.), Chancen und Herausforderungen des digitalen Lernens. Methoden und Werkzeuge für innovative Lehr-Lernkonzepte. (1. Aufl., S. 35-50). Springer-Verlag GmbH. 
+
+Mayer, R. E. (2014), The Cambridge handbook of multimedia learning (2. Aufl.). New York: Cambridge University Press.
 
 Mayer, R. E. (2004). Should there be a three-strikes rule against pure discovery learning? American psychologist, 59(1).
 
+Niegemann, H. M., Domagk, S., Hessel, S., Hein, A., & Hupfer, M. (Hg.) (2008). Kompendium multimediales Lernen. Springer: Heidelberg, Berlin.
+
 Paas, F., & Van Gog, T. (2006). Optimising worked example instruction: Different ways to increase germane cognitive load. Learning and Instruction, 16, 87-91.
+
+Rey. G. D. (2009). E-Learning. Theorien, Gestaltungsempfehlungen und Forschung. https://www.elearning-psychologie.de/index.html 
 
 Rey, G. D., Beege, M., Nebel, S., Wirzberger, M., Schmitt, T. H., & Schneider, S. (2019). A meta-analysis of the segmenting effect. Educational Psychology Review, 31(2), 389-419.
 
@@ -414,5 +434,7 @@ Schneider, M. & Preckel, F. (2017). Variables associated with achievement in hig
 Shaaruddin, J., & Mohamad, M. (2017). Identifying the effectiveness of active learning strategies and benefits in curriculum and pedagogy course for undergraduate TESL students. Creative Education, 8(14), 2312-2324.
 
 Sweller, J.; Ayres, P. & Kalyuga, S. (2011). Cognitive Load Theory. New York: Springer Science+Business Media LLC.
+
+Taylor, L., & Clark, S. (2010). Educational design of short, audio-only podcasts: The teacher and student experience. Australasian Journal of Educational Technology, 26 (3), 386-399.
 
 Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. Frontiers in psychology, 10, 487662.
