@@ -376,9 +376,9 @@ Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bi
 
 _Dieses Selbstlernangebot entstand in Kooperation der [Hochschuldidaktik Sachsen](https://www.hd-sachsen.de/), der [eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA) an der Universität Magdeburg](https://www.esalsa.ovgu.de/) und der [Professur für Softwaretechnologie und Robotik der TU Bergakademie Freiberg](https://tu-freiberg.de/soro)._
 
-![Logo HDS]()
+![Logo HDS](Medien/2_HDS_bunt.png)
 
-![Logo eSALSA] ()
+![Logo eSALSA] (Medien/esalsa_logo_1_druck.tif)
 
 ---
 # Literaturverweise
