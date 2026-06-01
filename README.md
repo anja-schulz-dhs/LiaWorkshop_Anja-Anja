@@ -204,7 +204,7 @@ _Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Re
 - Lernende mit einer Kombination aus gesprochenem Text und visuellem Material (z. B. Folien mit Grafiken) lernen lassen (Rang 42), allerdings dürfen die Inhalte nicht redundant sein (Ginns, 2005). 
 
 ---
-_Unser Tipp zur Vertiefung: Sie haben sich vielleicht gefragt, was ein Beispiel für das Erzeugen kognitiver Spannung durch Irritation in Lehr-Lernszenarien sein könnte. Wir haben versucht, genau das bei Ihnen durch den Einstieg mit dem "Cone of Experience" zu erreichen - eine Darstellung, die völlig überzeugend wirkt und an Erfahrungen aus der eigenen Lehre anzuknüpfen scheint aber sich beim genauen Hinsehen als Mythos erweist. Wenn Sie sich vertiefend damit beschäftigen wollen, mit welchen Methoden man zum Sitzungeinstieg Interesse und Aufmerksamkeit wecken kann, schauen Sie einmal in das [Material der Uni Osnabrück](https://lehrportal.uni-osnabrueck.de/sitzungseinstiege-gestalten/). 
+_Unser Tipp zur Vertiefung: Sie haben sich vielleicht gefragt, was ein Beispiel für das Erzeugen kognitiver Spannung durch Irritation in Lehr-Lernszenarien sein könnte. Wir haben versucht, genau das bei Ihnen durch den Einstieg mit dem "Cone of Experience" zu erreichen - eine Darstellung, die völlig überzeugend wirkt und an Erfahrungen aus der eigenen Lehre anzuknüpfen scheint aber sich beim genauen Hinsehen als Mythos erweist. Wenn Sie sich vertiefend damit beschäftigen wollen, mit welchen Methoden man zum Sitzungseinstieg Interesse und Aufmerksamkeit wecken kann, schauen Sie einmal in das [Material der Uni Osnabrück](https://lehrportal.uni-osnabrueck.de/sitzungseinstiege-gestalten/). 
 
 ---
 #### (5.5) Interaktion mit Studierenden:
