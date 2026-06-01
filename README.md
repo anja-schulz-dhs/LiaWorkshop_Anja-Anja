@@ -362,11 +362,23 @@ Um die Gestaltung von Lehr-Lernmaterialien zu vervollständigen, fehlen als letz
 
 # Transferaufgabe zum Abschluss: Lernwirksame Lehrmaterialien mit LiaScript gestalten
 
-Wählen Sie ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre aus, das Sie zukünftig in LiaScript umsetzen oder überarbeiten möchten. Das kann z.B. eine Präsentation für eine Vorlesung sein oder ein Selbstlernmaterial oder eine komplexere Übungsaufgabe.
+Wählen Sie ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre aus, das Sie zukünftig in LiaScript umsetzen oder überarbeiten möchten. Das kann z. B. eine Präsentation für eine Vorlesung sein oder ein Selbstlernmaterial oder eine komplexere Übungsaufgabe.
 
 Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen Gestaltung von Lehre möchten Sie bei der Weiterentwicklung/Neuentwicklung besonders berücksichtigen?
 
-Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum Präsenzworkshop am 09.06.2026 mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript.
+Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum Online-Präsenzworkshop am 09.06.2026 mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript.
+
+---
+
+# Herzlichen Dank für Ihre Teilnahme!
+
+
+
+_Dieses Selbstlernangebot entstand in Kooperation der [Hochschuldidaktik Sachsen](https://www.hd-sachsen.de/), der [eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA) an der Universität Magdeburg](https://www.esalsa.ovgu.de/) und der [Professur für Softwaretechnologie und Robotik der TU Bergakademie Freiberg](https://tu-freiberg.de/soro)._
+
+![Logo HDS]()
+
+![Logo eSALSA] ()
 
 ---
 # Literaturverweise
