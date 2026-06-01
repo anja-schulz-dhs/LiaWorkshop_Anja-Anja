@@ -116,12 +116,12 @@ Der „Cone of Experience“ oder auch „Cone of Learning“ geht auf eine Visu
 
 ## Gestaltung lernwirksamer Lernaktivitäten – jetzt aber wirklich
 
-Im Folgenden stellen wir auf der Basis der Ergebnisse eines systematischen Reviews von Metaanalysen (Schneider & Preckel, 2017) relevante Einflussfaktoren für Lernerfolg in der hochschulischen Bildung vor. Auf Studierendencharakteristika, die einen großen Einfluss auf den Lernerfolg haben, gehen wir hierbei nicht vertiefend ein. Genannt sollen diese aber zumindest einmal werden: Besonders wirksam sind: 
+Im Folgenden stellen wir auf der Basis der Ergebnisse eines systematischen Reviews von Meta-Analysen (Schneider & Preckel, 2017) relevante Einflussfaktoren für Lernerfolg in der hochschulischen Bildung vor. Auf Studierendencharakteristika, die einen großen Einfluss auf den Lernerfolg haben, gehen wir hierbei nicht vertiefend ein. Genannt sollen diese aber zumindest einmal werden. Besonders wirksam sind: 
 - motivationale Variablen, wie Selbstwirksamkeitserwartungen und selbst gesetzte Lernziele, 
 - kognitive Variablen wie Vorwissen und Intelligenz sowie 
-- Kompetenzen in der Anwendung von Lernstrategien, z.B. die Regulation der mentalen Anstrengung in Abhängigkeit der Lernaufgabe oder das Zeitmanagement.
+- Kompetenzen in der Anwendung von Lernstrategien, z. B. die Regulation der mentalen Anstrengung in Abhängigkeit der Lernaufgabe oder das Zeitmanagement.
 
-Wir fokussieren jedoch in diesem Kurs auf Variablen, die Lehrende gezielt beeinflussen können. Die im Text angegebenen Ränge beziehen sich auf die 138 in den Meta-Analysen untersuchten Variablen, die Schneider & Preckel nach ihren Effektstärken gerankt haben.
+Wir fokussieren jedoch in diesem Kurs auf Variablen, die Lehrende gezielt beeinflussen können. Die im Text angegebenen Ränge beziehen sich auf die 138 in den Meta-Analysen untersuchten Variablen, die Schneider und Preckel (2017) nach ihren Effektstärken gerankt haben.
 
 Auf den nächsten Seiten finden Sie die wichtigsten Tipps:
 
@@ -129,7 +129,7 @@ Auf den nächsten Seiten finden Sie die wichtigsten Tipps:
 
 ### (1) Investieren Sie Zeit in die didaktische Planung und Organisation Ihrer Lehrveranstaltungen!
 
-Uns ist natürlich bewusst, dass die zeitlichen Kapazitäten für die Lehre begrenzt sind aber wir wollen hier dennoch zentral darauf hinweisen, dass ein starker empirischer Zusammenhang besteht: Von allen in der Meta-Analyse untersuchten Variablen, die Lehrende direkt beeinflussen können, ist die Zeit und Anstrengung, die Lehrende für die didaktische Planung und Organisation investieren die Variable mit der größten Wirkung auf den Lernerfolg. 
+Uns ist natürlich bewusst, dass die zeitlichen Kapazitäten für die Lehre begrenzt sind, aber wir wollen hier dennoch zentral darauf hinweisen, dass ein starker empirischer Zusammenhang besteht: Von allen in der Meta-Analyse untersuchten Variablen, die Lehrende direkt beeinflussen können, ist die Zeit und Anstrengung, die Lehrende für die didaktische Planung und Organisation investieren, die Variable mit der größten Wirkung auf den Lernerfolg. 
 
 
 _Unser Tipp zur Vertiefung: Wenn Sie wenig Erfahrung mit der didaktischen Planung von Lehrveranstaltungen haben, nutzen Sie auch gerne unseren kostenfreien Selbstlernkurs "Lehrveranstaltungen planen. Ein praxisorientierter Grundkurs" um eine Lehrveranstaltung von Grund auf didaktisch zu planen (Zeitbedarf: ca. 135 Minuten Rezeption und 225 Minuten Bearbeitung Transferaufgaben (= 8 AE)). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg:_ [https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538) 
@@ -138,7 +138,7 @@ _Unser Tipp zur Vertiefung: Wenn Sie wenig Erfahrung mit der didaktischen Planun
 
 ---
 ### (2) Kombinieren Sie instruktionsorientierte und handlungsorientierte Lehr-Lernformen
-Eine Kombination von lehrendenzentrierten bzw. instruktionsorientierten Formen der Lehre (z.B. Vorträge) und studierendenzentrierten bzw. handlungsorientierten Formen (z.B. Gruppenarbeiten oder Projektarbeiten) hat eine stärkere Wirkung auf den Lernerfolg als eine Form der Instruktion alleine. Instruktionsorientierte Lehr-Lernformen sind effektiv, wenn sie die Lernenden motivieren und durch aktivierende Methoden angereichert werden (vgl. Punkt 5). Stärker handlungsorientierte Lehr-Lernformen sind effektiv, wenn sie durch Lehrende didaktisch angeleitet und begleitet werden.
+Eine Kombination von lehrendenzentrierten bzw. instruktionsorientierten Formen der Lehre (z. B. Vorträge) und studierendenzentrierten bzw. handlungsorientierten Formen (z. B. Gruppen- oder Projektarbeiten) hat eine stärkere Wirkung auf den Lernerfolg als eine Form der Instruktion alleine. Instruktionsorientierte Lehr-Lernformen sind effektiv, wenn sie die Lernenden motivieren und durch aktivierende Methoden angereichert werden (vgl. Punkt 5). Stärker handlungsorientierte Lehr-Lernformen sind effektiv, wenn sie durch Lehrende didaktisch angeleitet und begleitet werden.
 
 ---
 ### (3) Teilnahme der Studierenden
@@ -151,7 +151,7 @@ Sie haben sich sicherlich schon häufig über fehlende Studierende in Ihren Lehr
 
 Warum ist es wichtig, die kognitive Belastung der Lernenden an Lernendenvoraussetzungen anzupassen?
 
-Bevor Informationen in das Langzeitgedächtnis kommen, müssen sie im Arbeitsgedächtnis verarbeitet werden. Die Verarbeitungskapazität des menschlichen Arbeitsgedächtnisses ist begrenzt. Lernen wird erschwert, wenn Lernende zu viele Informationen gleichzeitig verarbeiten müssen oder mit lernirrelevanten Verarbeitungsprozessen belastet werden (z.B. bei der Navigation durch eine unübersichtliche Lernumgebung). Lernaktivitäten, Aufgaben und Lernumgebungen sollten deshalb so gestaltet werden, dass verfügbare kognitive Ressourcen optimal für lernrelevante Verarbeitung genutzt werden können und Lernende weder über- noch unterfordert werden (Sweller, Ayres & Kalyuga, 2011). Daher benötigen auch nicht alle Lernenden gleich viel didaktische Unterstützung: 
+Bevor Informationen in das Langzeitgedächtnis kommen, müssen sie im Arbeitsgedächtnis verarbeitet werden. Die Verarbeitungskapazität des menschlichen Arbeitsgedächtnisses ist begrenzt. Lernen wird erschwert, wenn Lernende zu viele Informationen gleichzeitig verarbeiten müssen oder mit lernirrelevanten Verarbeitungsprozessen belastet werden (z. B. bei der Navigation durch eine unübersichtliche Lernumgebung). Lernaktivitäten, Aufgaben und Lernumgebungen sollten deshalb so gestaltet werden, dass verfügbare kognitive Ressourcen optimal für lernrelevante Verarbeitung genutzt werden können und Lernende weder über- noch unterfordert werden (Sweller, Ayres & Kalyuga, 2011, vgl. auch den Abschnitt zu den Designprinzipien für die Erstellung von Multimedia). Daher benötigen auch nicht alle Lernenden gleich viel didaktische Unterstützung: 
 
 > Lernende mit wenig Vorwissen profitieren stärker von Strukturierung und Anleitung, für fortgeschrittene Lernende ist diese nicht im gleichen Maße notwendig, teilweise sogar kontraproduktiv (Kalyuga & Renkl, 2010).
 
@@ -164,18 +164,18 @@ Und wie kann man die Komplexität von Aufgaben und Inhalten gut anpassen? Einige
 
 ### (5) Kleine Änderungen große Wirkung
 
-Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große Wirkung erzielen. Die Wirkung von Lehr-Lernmethoden hängt jedoch davon ab, ob sie zu den Lernzielen, den Studierenden und nicht zuletzt zu Ihnen als Lehrperson passen. Wir haben für Sie auf den folgenden Seiten auf der Basis der Ergebnisse von Schneider & Preckel (2017) Tipps zu kleinen (und einigen wenigen größeren) Änderungen zusammengestellt.
+Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große Wirkung erzielen. Die Wirkung von Lehr-Lernmethoden hängt jedoch davon ab, ob sie zu den Lernzielen, den Studierenden und nicht zuletzt zu Ihnen als Lehrperson passen. Wir haben für Sie auf den folgenden Seiten auf der Basis der Ergebnisse von Schneider und Preckel (2017) Tipps zu kleinen (und einigen wenigen größeren) Änderungen zusammengestellt.
 
 ---
 
 #### (5.1) Lernende kognitiv (!) aktivieren:
 - Fragen und Diskussionen anregen (Rang 11). 
-- Offen formulierte Fragen an die Studierenden regen zur elaborierten Verarbeitung von Inhalten an, z.B.: „Wie bewerten Sie ..." (Rang 16)
+- Offen formulierte Fragen an die Studierenden regen zur elaborierten Verarbeitung von Inhalten an, z. B.: „Wie bewerten Sie ..." (Rang 16)
 - Lernen in Kleingruppen (2-4 Studierende) ist lernwirksamer als Einzellernen oder Lernen in großen Gruppen (Rang 27). Aber Achtung: didaktische Anleitung wichtig!
 - Studierende Concept Maps zentraler Ideen, Konzepte, Vorgehensweisen konstruieren und diskutieren lassen (Rang 45).
 
 ---
-_Unser Tipp zur Durchführung: Gruppenarbeiten sind für Studierende mit wenig Vorerfahrung in der Gruppenarbeit herausfordernd. Das Team muss sich koordinieren und regulieren. Probleme entstehen z.B. häufig aufgrund von mangelndem Engagement von Teammitgliedern. Wir haben gute Erfahrungen mit der didaktische Anleitung von Gruppenarbeit mittels Kollaborationsskripten gemacht, d.h. Anleitungen, wie die Teammitglieder miteinander interagieren und zusammenarbeiten sollen (z.B. Verteilen von Rollen und Zuständigkeiten) und wie der Ablauf der Zusammenarbeit aussehen soll (vgl. Hawlitschek, Rudolf & Zug, 2022)._
+_Unser Tipp zur Durchführung: Gruppenarbeiten sind für Studierende mit wenig Vorerfahrung in der Gruppenarbeit herausfordernd. Das Team muss sich koordinieren und regulieren. Probleme entstehen z. B. häufig aufgrund von mangelndem Engagement von Teammitgliedern. Wir haben gute Erfahrungen mit der didaktische Anleitung von Gruppenarbeit mittels Kollaborationsskripten gemacht, d. h. Anleitungen, wie die Teammitglieder miteinander interagieren und zusammenarbeiten sollen (z. B. Verteilen von Rollen und Zuständigkeiten) und wie der Ablauf der Zusammenarbeit aussehen soll (vgl. Hawlitschek, Rudolf & Zug, 2022)._
 
 ---
 #### (5.2) Meaningful learning ermöglichen/fördern:
@@ -185,7 +185,7 @@ Meaningful Learning (bitte melden Sie sich, wenn Ihnen eine gute deutsche Übers
 - Jede thematische Einheit mit einem [Advance Organizer](https://lehrblick.de/advance-organizer-fuer-einen-guten-ueberblick/) beginnen (Rang 64).
 
 ---
-_Unser Tipp: _
+_Unser Tipp: Ein Ansatz, der unserer Ansicht nach gut dafür geeignet ist, Meaningful Learning zu unterstützen, ist das Service Learning. Dabei handelt es sich um eine Seminarform, bei der fachliche Lerninhalte mit projektartigem Handeln in gemeinnützigen Kontexten verbunden werden. Im Rahmen des Service Learning realisieren Studierende passend zum jeweiligen theoretischen Inhalt zeitlich begrenzte soziale, ökologische oder kulturelle Projekte in gemeinnützigen Zusammenhängen. So kann theoretisches Wissen in der Praxis eingesetzt werden und zugleich reflektiert werden. Neben dem fachlichen Lernen kann Service Learning auch eine Vielzahl von weiteren Kompetenzen stärken, wie z.B. Sozial- und Selbstkompetenzen. Wie das in der Praxis aussehen kann, können Sie auf den Seiten der TU Chemnitz erfahren, die seit 2024 mit einem [Pilotprojekt](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12405) das Lernen von Studierenden im gemeinnützigen Kontext fördert._
 
 ---
 #### (5.3) Wissensüberprüfung und Feedback:
