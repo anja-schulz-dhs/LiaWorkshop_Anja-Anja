@@ -231,7 +231,7 @@ Sehr gut, Sie haben die Lernmythen richtig identifiziert!
 **************
 
 ---
-# Und was gibt es zur lernwirksamem Gestaltung von Lehre noch zu sagen?
+## Und was gibt es zur lernwirksamem Gestaltung von Lehre noch zu sagen?
 
 Denken Sie noch einmal an die Frage vom Anfang, wozu Sie sich Antworten auf einem "Stück Papier" notiert hatten:  Wodurch werden die Lernprozesse Ihrer Studierenden in Inputphasen in der Präsenzlehre sowie in Selbstlernphasen außerhalb des Hörsaals aus Ihrer Sicht besonders gut unterstützt?
 
@@ -255,15 +255,19 @@ Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzept
 
 Darüber hinaus müssen Sie im Rahmen des didaktischen Designs Ihrer Lehr-Lernmaterialien verschiedene __Entscheidungen__ treffen, etwa zur Auswahl der Lerninhalte, zu Lernaktivitäten, zur Strukturierung der Inhalte, zur (multi-)medialen Gestaltung, zum Grafik- und Interaktionsdesign sowie zur Motivation und Aktivierung der Lernenden (Niegemann et al, 2008).
 
-In diesem Abschnitt fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernforschung, die bei der konkreten __Gestaltung von Lehr-Lernmaterialien__ beachtet werden sollten. Ansprechend für die Lernenden ist hierbei der Einsatz von multimedialen Elementen bzw. ein gelungener Medienmix. Weniger ist hier allerdings oft mehr. Zu viele Angebote überfordern die Lernenden und bringen sie schnell an ihre Grenzen. Das richtige Maß ist gefragt.
+Im Folgenden fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernforschung, die bei der konkreten __Gestaltung von Lehr-Lernmaterialien__ beachtet werden sollten.
 
 ---
 
 ## Designprinzipien für die Erstellung von Multimedia
 
-Wie findet man nun aber dieses richtige Maß? Ein Exkurs in die Kognitionspsychologie bietet Orientierung und liefert wichtige Hinweise.
+Grundsätzlich ist der Einsatz von multimedialen Elementen bzw. ein gelungener Medienmix ansprechend für die Lernenden. Weniger ist hier allerdings oft mehr. Zu viele Angebote überfordern Lernende und bringen sie schnell an ihre Grenzen. Das richtige Maß ist gefragt. Wie findet man aber dieses richtige Maß? Ein Exkurs in die Kognitionspsychologie bietet Orientierung und liefert wichtige Hinweise.
 
-Sehen Sie sich das folgende Video zu grundlegenden Gestaltungsprinzipien von Multimedia an. Nutzen Sie das Ihnen schon vertraute "Stück Papier" und notieren Sie stichpunktartig die für Sie relevantesten Aspekte, welche Sie bei der Erstellung Ihrer Lehr-Lernmaterialien berücksichtigen möchten!
+---
+
+>Sehen Sie sich das folgende Video zu grundlegenden Gestaltungsprinzipien von Multimedia an (Länge ca. 10 min). Nutzen Sie das Ihnen schon vertraute "Stück Papier" und notieren Sie stichpunktartig die für Sie relevantesten Aspekte, welche Sie bei der Erstellung Ihrer Lehr-Lernmaterialien berücksichtigen möchten!
+
+---
 
 !?[Video: Grundlegende Designprinzipien bei der Erstellung von Multimedia](https://vimeo.com/799090705?fl=pl&fe=cm)
 
@@ -286,7 +290,7 @@ Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wur
 
 ## Tipps für die Gestaltung verschiedener Materialarten
 
-In den folgenden Abschnitten haben wir Hinweise für die Gestaltung verschiedener Materialarten zusammengetragen, welche die vorgestellten Designprinzipien berücksichtigen. 
+In den folgenden Kapiteln haben wir Hinweise für die Gestaltung verschiedener Materialarten zusammengetragen, welche die vorgestellten Designprinzipien berücksichtigen. 
 
 >Sollten Sie ausschließlich an Informationen zu bestimmten Materialarten interessiert sein, können Sie gern direkt in das entsprechende Unterkapitel springen. Nutzen Sie das Selbstlernangebot so, wie es Ihren Bedarfen entspricht!
 
@@ -309,7 +313,7 @@ Ein paar Merksätze:
 - Nutzen Sie Bulletpoints bei Aufzählungen (Katt et al., 2008).
 - Vermeiden Sie Redundanz - insbesondere: Lesen Sie Ihre Folien nicht vor (Rey, 2009).
 
->Wollen Sie sich mit der Gestaltung von Folien vertiefend beschäftigen? Dann schauen Sie in folgenden Selbstlernkurs: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_333&client_id=il_hsm_weiterbildung
+>Unser Tipp zur Vertiefung: Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten" (Zeitbedarf: ca. 90 Minuten Rezeption (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)
 
 ---
 
@@ -336,7 +340,7 @@ Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar
 - Vergrößerung – Verkleinerung
 - Änderung von Hintergrundfarben, Lichtverhältnissen" (Lischka, 2019).
 
->Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bieten für Lehrende an sächsischen Hochschulen im September 2026 einen Workshop zum Thema "[KI-Visualisierung in der Lehre](https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren)" an.
+>Unser Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bieten für Lehrende an sächsischen Hochschulen im September 2026 einen Workshop zum Thema "[KI-Visualisierung in der Lehre](https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren)" an.
 ---
 
 ### (5) Videos
@@ -365,7 +369,18 @@ Wählen Sie ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre aus, da
 
 Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen Gestaltung von Lehre möchten Sie bei der Weiterentwicklung/Neuentwicklung besonders berücksichtigen?
 
-Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum Online-Präsenzworkshop am 09.06.2026 mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript.
+>Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bitte zum __Online-Präsenzworkshop am 09.06.2026__ mit. Dort greifen wir Ihre Beispiele auf und Sie entwickeln daraus erste Umsetzungen in LiaScript.
+
+---
+
+# Feedback
+
+Sie haben sich dabei mit Analysen der Lehr-Lernziele, der Ziele, die mit dem Lernmaterial verfolgt werden sollen und der Zielgruppe beschäftigt. Sie haben Designentscheidungen zur Auswahl der Lerninhalte, Lernaktivitäten, Strukturierung der Lerninhalte, Gestaltung der Lerninhalte sowie Motivation und Aktivierung der Lernenden getroffen.
+
+Wir hoffen, die gewonnenen Erkenntnisse unterstützen Sie bei der Erstellung Ihrer Lehr-Lernmaterialien und wünschen Ihnen dabei viel Freude!
+
+Wir freuen uns unsererseits sehr über Feedback zum Selbstlernkurs! Nur durch Ihr Feedback können wir den Kurs bedarfsorientiert weiterentwickeln. Klicken Sie einfach auf "Feedback geben"!
+
 
 ---
 
@@ -375,9 +390,9 @@ Bringen Sie Ihre Überlegungen und – wenn vorhanden – das Material selbst bi
 
 _Dieses Selbstlernangebot entstand in Kooperation der [Hochschuldidaktik Sachsen](https://www.hd-sachsen.de/), der [eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA) an der Universität Magdeburg](https://www.esalsa.ovgu.de/) und der [Professur für Softwaretechnologie und Robotik der TU Bergakademie Freiberg](https://tu-freiberg.de/soro)._
 
-![Logo HDS](Medien/2_HDS_bunt.png)
+![Logos](Medien/2_HDS_bunt.png)
 
-![Logo eSALSA] (Medien/esalsa_logo_1_druck.tif)
+
 
 ---
 # Literaturverweise
@@ -405,6 +420,8 @@ Hawlitschek, A., Rudolf, G., & Zug, S. (2022). Informatikstudierende als Teampla
 Hoogerheide, V., Loyens, S. M. M. & van Gog, T. (2014). Comparing the effects of worked examples and modeling examples on learning, Computers in Human Behavior, 41, 80–91. https://doi.org/10.1016/j.chb.2014.09.013
 
 Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. 10.1007/s11251-009-9102-0. 
+
+Katt, J., Murdock, J., Butler, J., & Pryor, B. (2008). Establishing best practices for the use of PowerPoint™ as a presentation aid. Human Communication, 11(2), 189–196.
 
 Köppen, V., & Hawlitschek, A. (2025). Supporting Program Comprehension with Digital Learning Journals: Experiences from a Course with Non-CS Students. In 23. Fachtagung Bildungstechnologien (DELFI 2025) (pp. 307-311). Gesellschaft für Informatik eV.
 
