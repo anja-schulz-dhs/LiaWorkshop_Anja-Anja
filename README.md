@@ -402,7 +402,7 @@ Biard, N., Cojean, S., & Jamet, E. (2018). Effects of segmentation and pacing on
 
 Carpenter, S. K., Witherby, A. E., & Tauber, S. K. (2020). On students’(mis) judgments of learning and teaching effectiveness. Journal of Applied research in Memory and cognition, 9(2), 137-151.
 
-Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69
+Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69.
 
 Dale, E. (1946). Audio-visual methods in teaching. New York: Dryden Press.
 
@@ -412,13 +412,13 @@ Fyfield, M., Henderson, M., & Phillips, M. (2022). Improving instructional video
 
 Ginns, P. (2005). Meta-analysis of the modality effect. Learning and instruction, 15(4), 313-331.
 
-Guo, P. J., Kim, J. & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. In Proceedings of the first ACM conference on Learning@ scale (pp. 41–50). Atlanta: ACM. https://doi.org/10.1145/2556325.2566239
+Guo, P. J., Kim, J. & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. In Proceedings of the first ACM conference on Learning@ scale (pp. 41–50). Atlanta: ACM. [https://doi.org/10.1145/2556325.2566239](https://dl.acm.org/doi/10.1145/2556325.2566239).
 
 Hawlitschek, A., Rudolf, G., & Zug, S. (2022). Informatikstudierende als Teamplayer. Wie die Integration von Teamarbeit in die Lehre gelingen kann. In 20. Fachtagung Bildungstechnologien (DELFI) (pp. 99-104). Gesellschaft für Informatik e.V.
 
 Hoogerheide, V., Loyens, S. M. M. & van Gog, T. (2014). Comparing the effects of worked examples and modeling examples on learning, Computers in Human Behavior, 41, 80–91. https://doi.org/10.1016/j.chb.2014.09.013
 
-Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. 10.1007/s11251-009-9102-0. 
+Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. [10.1007/s11251-009-9102-0](https://doi.org/10.1007/s11251-009-9102-0). 
 
 Katt, J., Murdock, J., Butler, J., & Pryor, B. (2008). Establishing best practices for the use of PowerPoint™ as a presentation aid. Human Communication, 11(2), 189–196.
 
