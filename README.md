@@ -185,22 +185,22 @@ Meaningful Learning (bitte melden Sie sich, wenn Ihnen eine gute deutsche Übers
 - Jede thematische Einheit mit einem [Advance Organizer](https://lehrblick.de/advance-organizer-fuer-einen-guten-ueberblick/) beginnen (Rang 64).
 
 ---
-_Unser Tipp: Ein Ansatz, der unserer Ansicht nach gut dafür geeignet ist, Meaningful Learning zu unterstützen, ist das Service Learning. Dabei handelt es sich um eine Seminarform, bei der fachliche Lerninhalte mit projektartigem Handeln in gemeinnützigen Kontexten verbunden werden. Im Rahmen des Service Learning realisieren Studierende passend zum jeweiligen theoretischen Inhalt zeitlich begrenzte soziale, ökologische oder kulturelle Projekte in gemeinnützigen Zusammenhängen. So kann theoretisches Wissen in der Praxis eingesetzt werden und zugleich reflektiert werden. Neben dem fachlichen Lernen kann Service Learning auch eine Vielzahl von weiteren Kompetenzen stärken, wie z.B. Sozial- und Selbstkompetenzen. Wie das in der Praxis aussehen kann, können Sie auf den Seiten der TU Chemnitz erfahren, die seit 2024 mit einem [Pilotprojekt](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12405) das Lernen von Studierenden im gemeinnützigen Kontext fördert._
+_Unser Tipp: Ein Ansatz, der unserer Ansicht nach gut dafür geeignet ist, Meaningful Learning zu unterstützen, ist das Service Learning. Dabei handelt es sich um eine Seminarform, bei der fachliche Lerninhalte mit projektartigem Handeln in gemeinnützigen Kontexten verbunden werden. Im Rahmen des Service Learning realisieren Studierende passend zum jeweiligen theoretischen Inhalt zeitlich begrenzte soziale, ökologische oder kulturelle Projekte in gemeinnützigen Zusammenhängen. So kann theoretisches Wissen in der Praxis eingesetzt werden und zugleich reflektiert werden. Neben dem fachlichen Lernen kann Service Learning auch eine Vielzahl von weiteren Kompetenzen stärken, wie z.B. Sozial- und Selbstkompetenzen. Wie das in der Praxis aussehen kann, können Sie auf den [Seiten der TU Chemnitz](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12405) erfahren, die seit 2024 mit einem Pilotprojekt das Lernen von Studierenden im gemeinnützigen Kontext fördert._
 
 ---
 #### (5.3) Wissensüberprüfung und Feedback:
-Feedback gehört zu den wirksamsten Einflussfaktoren auf Lernen. Lernende profitieren davon, Rückmeldung darüber zu erhalten: was sie bereits verstanden haben und wie sie ihren Lernprozess verbessern können. Doch die Wirkung auf den Lernerfolg hängt stark von der Forms des Feedbacks ab. Verallgemeinert kann festgehalten werden: Je mehr Inhalt ein Feedback enthält, desto lernwirksamer ist es (Wisniewski, Zierer & Hattie, 2020). 
+Feedback gehört zu den wirksamsten Einflussfaktoren auf Lernen. Lernende profitieren davon, Rückmeldung darüber zu erhalten: was sie bereits verstanden haben und wie sie ihren Lernprozess verbessern können. Doch die Wirkung auf den Lernerfolg hängt stark von der Form des Feedbacks ab. Verallgemeinert kann festgehalten werden: Je mehr Inhalt ein Feedback enthält, desto lernwirksamer ist es (Wisniewski, Zierer & Hattie, 2020). 
 - Regelmäßige Selbsttests/Tests zur Überprüfung des eigenen Wissens durchführen/bereitstellen (Rang 69).
 - Feedback geben, dass detailliert und aufgabenorientiert ist und Verbesserungsmöglichkeiten für die Studierenden aufzeigt (Rang 30). 
 - Eine Wissensüberprüfung vor Einführung von neuem Stoff durchführen (Rang 25).
 
 ---
-_Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Reflexion über den eigenen Wissensstand anzuregen und dies zum Ausgangspunkt der nächsten Lehrveranstaltung zu nehmen, sind 2-Minuten-Lerntagebücher. Hier bekommen die Studierenden am Ende jedes Kurses zwei Minuten Zeit, um anonym in einem digitalen Tool aufzuschreiben, was sie in dem Kurs gerlernt haben, was sie noch nicht verstanden haben und wo sie sich Unterstützung wünschen. Die Lehrperson liest sich die Beiträge durch und greift diese zu Beginn jedes Kurses auf, um Wissenslücken zu schließen und auf Bedarfe zur Unterstützung einzugehen (vgl. Köppen & Hawlitschek, 2025)._ 
+_Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Reflexion über den eigenen Wissensstand anzuregen und dies zum Ausgangspunkt der nächsten Lehrveranstaltung zu machen, sind 2-Minuten-Lerntagebücher. Hier bekommen die Studierenden am Ende jedes Kurses zwei Minuten Zeit, um anonym in einem digitalen Tool aufzuschreiben, was sie in dem Kurs gerlernt haben, was sie noch nicht verstanden haben und wo sie sich Unterstützung wünschen. Die Lehrperson liest sich die Beiträge durch und greift diese zu Beginn jedes Kurses auf, um Wissenslücken zu schließen und auf Bedarfe zur Unterstützung einzugehen (vgl. Köppen & Hawlitschek, 2025)._ 
 
 ---
 #### (5.4) Lehr-Lernmaterialien und Input:
-- Inhalte verständlich formulieren (Rang 4), z.B. Fachbegriffe für Lernende mit wenig Vorwissen zunächst einordnen und erläutern. 
-- Das Interesse der Studierenden wecken (Rang 9), z.B. durch Storytelling oder der Anregung von Inkongruenzerfahrungen (wenn vorhandene Erfahrungen nicht mit den Lerninhalten übereinstimmen).
+- Inhalte verständlich formulieren (Rang 4), z. B. Fachbegriffe für Lernende mit wenig Vorwissen zunächst einordnen und erläutern. 
+- Das Interesse der Studierenden wecken (Rang 9), z. B. durch Storytelling oder der Anregung von Inkongruenzerfahrungen (wenn vorhandene Erfahrungen nicht mit den Lerninhalten übereinstimmen).
 - Lernende mit einer Kombination aus gesprochenem Text und visuellem Material (z. B. Folien mit Grafiken) lernen lassen (Rang 42), allerdings dürfen die Inhalte nicht redundant sein (Ginns, 2005). 
 - Auf Präsentationsfolien: Anstriche (bullet points) anstelle von ganzen Sätzen nutzen (Redundanzproblem, siehe oben!) und dekorative aber ablenkende Inhalte vermeiden (Rang 101).
 
@@ -209,17 +209,18 @@ _Unser Tipp zur Vertiefung: Gute Präsentationen zu gestalten, ist eine Herausfo
 
 ---
 #### (5.5) Interaktion mit Studierenden:
-- Inwieweit die Lehrperson als erreichbar und hilfreich wahrgenommen wird, hat Einfluss auf den Lernerfolg der Studierenden (Rang 11). Dies lässt sich z.B. durch verlässliche Sprechzeiten und die Kommunikation von Rückmeldezeiten bei Anfragen beeinflussen.
+- Inwieweit die Lehrperson als erreichbar und hilfreich wahrgenommen wird, hat Einfluss auf den Lernerfolg der Studierenden (Rang 11). Dies lässt sich z. B. durch verlässliche Sprechzeiten und die Kommunikation von Rückmeldezeiten bei Anfragen beeinflussen.
 - Ebenso wichtig ist, inwiefern der Umgang mit den Studierenden als freundlich und respektvoll wahrgenommen wird (Rang 30).
 
 ---
-_Unser Tipp zur Vertiefung: Grade in der Online-Lehre und in Selbstlernphasen ist es mitunter schwer, eine stabile Arbeitsbeziehung zu den Studierenden herzustellen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Impulse zur Beziehungsgestaltung und emotionalen Sicherheit in der Online-Lehre (Zeitbedarf: ca. 45 Minuten Rezeption und 45 Minuten Bearbeitung Transferaufgaben (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)  
+_Unser Tipp zur Vertiefung: Gerade in der Online-Lehre und in Selbstlernphasen ist es mitunter schwer, eine stabile Arbeitsbeziehung zu den Studierenden herzustellen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Impulse zur Beziehungsgestaltung und emotionalen Sicherheit in der Online-Lehre (Zeitbedarf: ca. 45 Minuten Rezeption und 45 Minuten Bearbeitung Transferaufgaben (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)
 
 ---
 ## Quiz
 Zum Abschluss dieses Kapitels dürfen Sie die Fragen vom Anfang nochmal als Quiz beantworten. 
 
 Welches sind aus Ihrer Sicht relevante Faktoren, um den Lernerfolg Ihrer Studierenden zu fördern?
+
 - [[ ]]Inputs dürfen nicht länger als 10 bis 15 Minuten sein, um die Aufmerksamkeitsspanne nicht zu überschreiten.
 - [[X]]In Inputphasen sollten aktivierende Elemente integriert werden.
 - [[X]]Ziele von Lernaktivitäten sollten klar kommuniziert werden.
