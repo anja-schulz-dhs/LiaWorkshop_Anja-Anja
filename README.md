@@ -237,7 +237,9 @@ Sehr gut, Sie haben die Lernmythen richtig identifiziert!
 Denken Sie noch einmal an die Frage vom Anfang, wozu Sie sich Antworten auf einem "Stück Papier" notiert hatten:  Wodurch werden die Lernprozesse Ihrer Studierenden in Inputphasen in der Präsenzlehre sowie in Selbstlernphasen außerhalb des Hörsaals aus Ihrer Sicht besonders gut unterstützt?
 
 Welche Ihrer Antworten würden Sie gerne mit den anderen Workshop-Teilnehmenden teilen, da sie hier nicht oder nicht ausreichend behandelt wurden?
-Notieren Sie diese auf folgendem Edupad:
+
+Notieren Sie diese auf folgendem Edupad: 
+
 ??[Edupad](https://edupad.ch/p/j0b0KyWopb)
 
 ---
