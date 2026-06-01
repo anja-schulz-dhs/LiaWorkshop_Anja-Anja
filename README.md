@@ -128,7 +128,7 @@ Auf den nächsten Seiten finden Sie die wichtigsten Tipps:
 
 ### (1) Investieren Sie Zeit in die didaktische Planung und Organisation Ihrer Lehrveranstaltungen!
 
-Uns ist natürlich bewusst, dass die zeitlichen Kapazitäten für die Lehre begrenzt sind aber wir wollen hier dennoch zentral darauf hinweisen, dass hier ein starker empirischer Zusammenhang besteht: Von allen in der Meta-Analyse untersuchten Variablen, die Lehrende direkt beeinflussen können, ist die Zeit und Anstrengung, die Lehrende für die didaktische Planung und Organisation investieren die Variable mit der größten Wirkung auf den Lernerfolg. 
+Uns ist natürlich bewusst, dass die zeitlichen Kapazitäten für die Lehre begrenzt sind aber wir wollen hier dennoch zentral darauf hinweisen, dass ein starker empirischer Zusammenhang besteht: Von allen in der Meta-Analyse untersuchten Variablen, die Lehrende direkt beeinflussen können, ist die Zeit und Anstrengung, die Lehrende für die didaktische Planung und Organisation investieren die Variable mit der größten Wirkung auf den Lernerfolg. 
 
 
 _Unser Tipp zur Vertiefung: Wenn Sie wenig Erfahrung mit der didaktischen Planung von Lehrveranstaltungen haben, nutzen Sie auch gerne unseren kostenfreien Selbstlernkurs "Lehrveranstaltungen planen. Ein praxisorientierter Grundkurs" um eine Lehrveranstaltung von Grund auf didaktisch zu planen (Zeitbedarf: ca. 135 Minuten Rezeption und 225 Minuten Bearbeitung Transferaufgaben (= 8 AE)). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg:_ [https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538) 
@@ -178,7 +178,7 @@ _Unser Tipp zur Durchführung: Gruppenarbeiten sind für Studierende mit wenig V
 Meaningful Learning (bitte melden Sie sich, wenn Ihnen eine gute deutsche Übersetzung bekannt ist) bedeutet, dass den Lernenden die Relevanz und der Mehrwert von Lerninhalten und Lernaktivitäten bewusst ist und sie diese in Bezug zu ihren eigenen Erfahrungen und ihrem eigenen Vorwissen setzen können. Dies hat positive Effekte auf Motivation, Interesse und Lernerfolg (Schneider & Preckel, 2017). 
 - Klare Lernziele and Erfolgskriterien für den Kurs kommunizieren (Rang 13). 
 - Die Bedeutsamkeit des Inhalt für die Studierenden deutlich machen (Rang 17). Dafür können Sie Lerninhalte mit authentischen Problemen, Praxisbeispielen oder beruflichen Anwendungskontexten verknüpfen sowie Lernende reflektieren lassen, welche Bedeutung die Inhalte für eigene Erfahrungen, Interessen oder berufliche Ziele haben.
-- Jede thematische Einheit mit einem Advance Organizer beginnen (Rang 64).
+- Jede thematische Einheit mit einem [Advance Organizer](https://lehrblick.de/advance-organizer-fuer-einen-guten-ueberblick/) beginnen (Rang 64).
 
 _Unser Tipp: _
 
