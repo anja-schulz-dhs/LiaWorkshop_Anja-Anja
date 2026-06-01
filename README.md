@@ -72,7 +72,7 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
 
 ## Gestaltung lernwirksamer Lehr-Lernaktivitäten
 
-Bitte schauen Sie sich die folgende Grafik aus einem Artikel von Shaaruddin und Mohamad (2017) an.
+Bitte schauen Sie sich die folgende Grafik mit einer Abbildung des "Cone of Experience" aus einem Artikel von Shaaruddin und Mohamad (2017) an.
 
 ![Grafik "Cone of Experience"](Medien/efb65635dd59250f63c51f0dde6d2f3f7f3c5349.png)
 
@@ -129,7 +129,7 @@ Auf den nächsten Seiten finden Sie die wichtigsten Tipps:
 
 ### (1) Investieren Sie Zeit in die didaktische Planung und Organisation Ihrer Lehrveranstaltungen!
 
-Uns ist natürlich bewusst, dass die zeitlichen Kapazitäten für die Lehre begrenzt sind, aber wir wollen hier dennoch zentral darauf hinweisen, dass ein starker empirischer Zusammenhang besteht: Von allen in der Meta-Analyse untersuchten Variablen, die Lehrende direkt beeinflussen können, ist die Zeit und Anstrengung, die Lehrende für die didaktische Planung und Organisation investieren, die Variable mit der größten Wirkung auf den Lernerfolg. 
+Uns ist natürlich bewusst, dass die zeitlichen Kapazitäten für die Lehre und die Lehrplanung begrenzt sind. Dennoch haben wir diesen Punkt hier zentral aufgenommen, da ein starker empirischer Zusammenhang besteht: Von allen in der Meta-Analyse untersuchten Variablen, die Lehrende direkt beeinflussen können, ist die Zeit und Anstrengung, die Lehrende für die didaktische Planung und Organisation investieren, die Variable mit der größten Wirkung auf den Lernerfolg. 
 
 
 _Unser Tipp zur Vertiefung: Wenn Sie wenig Erfahrung mit der didaktischen Planung von Lehrveranstaltungen haben, nutzen Sie auch gerne unseren kostenfreien Selbstlernkurs "Lehrveranstaltungen planen. Ein praxisorientierter Grundkurs" um eine Lehrveranstaltung von Grund auf didaktisch zu planen (Zeitbedarf: ca. 135 Minuten Rezeption und 225 Minuten Bearbeitung Transferaufgaben (= 8 AE)). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg:_ [https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=538) 
@@ -200,16 +200,15 @@ _Unser Tipp zur Umsetzung: Eine Möglichkeit schnell und niedrigschwellig zur Re
 ---
 #### (5.4) Lehr-Lernmaterialien und Input:
 - Inhalte verständlich formulieren (Rang 4), z. B. Fachbegriffe für Lernende mit wenig Vorwissen zunächst einordnen und erläutern. 
-- Das Interesse der Studierenden wecken (Rang 9), z. B. durch Storytelling oder der Anregung von Inkongruenzerfahrungen (wenn vorhandene Erfahrungen nicht mit den Lerninhalten übereinstimmen).
+- Das situationale Interesse der Studierenden wecken (Rang 9), z. B. durch Storytelling oder indem durch Irritation kognitive Spannung erzeugt wird.
 - Lernende mit einer Kombination aus gesprochenem Text und visuellem Material (z. B. Folien mit Grafiken) lernen lassen (Rang 42), allerdings dürfen die Inhalte nicht redundant sein (Ginns, 2005). 
-- Auf Präsentationsfolien: Anstriche (bullet points) anstelle von ganzen Sätzen nutzen (Redundanzproblem, siehe oben!) und dekorative aber ablenkende Inhalte vermeiden (Rang 101).
 
 ---
-_Unser Tipp zur Vertiefung: Gute Präsentationen zu gestalten, ist eine Herausforderungen. Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten", wenn Sie sich mit der Thematik vertiefend beschäftigen wollen (Zeitbedarf: 90 Minuten Rezeption (= 2 AE). Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=333) 
+_Unser Tipp zur Vertiefung: Sie haben sich vielleicht gefragt, was ein Beispiel für das Erzeugen kognitiver Spannung durch Irritation in Lehr-Lernszenarien sein könnte. Wir haben versucht, genau das bei Ihnen durch den Einstieg mit dem "Cone of Experience" zu erreichen - eine Darstellung, die völlig überezugend wirkt und an Erfahrungen aus der eigenen Lehre anzuknüpfen scheint aber sich beim genauen Hinsehen als Mythos erweist. 
 
 ---
 #### (5.5) Interaktion mit Studierenden:
-- Inwieweit die Lehrperson als erreichbar und hilfreich wahrgenommen wird, hat Einfluss auf den Lernerfolg der Studierenden (Rang 11). Dies lässt sich z. B. durch verlässliche Sprechzeiten und die Kommunikation von Rückmeldezeiten bei Anfragen beeinflussen.
+- Inwieweit die Lehrperson als erreichbar und hilfreich wahrgenommen wird, hat Einfluss auf den Lernerfolg der Studierenden (Rang 11). Dies lässt sich z. B. durch verlässliche Sprechzeiten und die Kommunikation von Rückmeldezeiten, die bei Anfragen eingehalten werden, beeinflussen.
 - Ebenso wichtig ist, inwiefern der Umgang mit den Studierenden als freundlich und respektvoll wahrgenommen wird (Rang 30).
 
 ---
