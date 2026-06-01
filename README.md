@@ -381,7 +381,7 @@ Wir hoffen, die durch die Bearbeitung unseres Selbstlernangebots gewonnenen Erke
 
 Wir freuen uns unsererseits nun sehr über Feedback zum Selbstlernangebot - insbesondere __zur gestalterischen Umsetzung mit LiaScript__ - in folgendem Taskcards-Board! Nur durch Ihr Feedback können wir dieses bedarfsorientiert weiterentwickeln.
 
-<iframe src="https://uni-leipzig.taskcards.app/#/board/677796ea-0e93-4909-8a04-0842a2d487d4?token=ce2a513d-1c31-41f0-8f10-57e318e34fde" style="border:0px;width:100%;height:500px"        allowfullscreen="true"        webkitallowfullscreen="true"        mozallowfullscreen="true">    </iframe>
+??[](https://uni-leipzig.taskcards.app/#/board/677796ea-0e93-4909-8a04-0842a2d487d4?token=ce2a513d-1c31-41f0-8f10-57e318e34fde)
 
 ---
 
