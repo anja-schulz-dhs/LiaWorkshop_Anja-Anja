@@ -374,7 +374,7 @@ Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen 
 
 ---
 
-# Feedback
+# Bitte um Feedback
 
 Sie haben nun ausgewählte Prinzipien für die Gestaltung lernwirksamer Lehr-Lernaktivitäten sowie aktivierender Lehr-Lernmaterialien kennengelernt.
 
