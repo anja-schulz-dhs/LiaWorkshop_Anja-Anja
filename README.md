@@ -313,7 +313,7 @@ Ein paar Merksätze:
 - Nutzen Sie Bulletpoints bei Aufzählungen (Katt et al., 2008).
 - Vermeiden Sie Redundanz - insbesondere: Lesen Sie Ihre Folien nicht vor (Rey, 2009).
 
->Unser Tipp zur Vertiefung: Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten" (Zeitbedarf: ca. 90 Minuten Rezeption (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)
+>Unser Tipp zur Vertiefung: Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten" (Zeitbedarf: ca. 90 Minuten Rezeption (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Darin finden Sie auch Hinweise zur barrierefreien Gestaltung von Präsentationsfolien. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)
 
 ---
 
@@ -375,12 +375,13 @@ Machen Sie sich mentale oder reale Notizen: Welche Prinzipien zur lernwirksamen 
 
 # Feedback
 
-Sie haben sich dabei mit Analysen der Lehr-Lernziele, der Ziele, die mit dem Lernmaterial verfolgt werden sollen und der Zielgruppe beschäftigt. Sie haben Designentscheidungen zur Auswahl der Lerninhalte, Lernaktivitäten, Strukturierung der Lerninhalte, Gestaltung der Lerninhalte sowie Motivation und Aktivierung der Lernenden getroffen.
+Sie haben nun ausgewählte Prinzipien für die Gestaltung lernwirksamer Lehr-Lernaktivitäten sowie aktivierender Lehr-Lernmaterialien kennengelernt.
 
-Wir hoffen, die gewonnenen Erkenntnisse unterstützen Sie bei der Erstellung Ihrer Lehr-Lernmaterialien und wünschen Ihnen dabei viel Freude!
+Wir hoffen, die durch die Bearbeitung unseres Selbstlernangebots gewonnenen Erkenntnisse unterstützen Sie bei der Erstellung/Weiterentwicklung Ihrer Lehr-Lernmaterialien und wünschen Ihnen dabei viel Freude!
 
-Wir freuen uns unsererseits sehr über Feedback zum Selbstlernkurs! Nur durch Ihr Feedback können wir den Kurs bedarfsorientiert weiterentwickeln. Klicken Sie einfach auf "Feedback geben"!
+Wir freuen uns unsererseits nun sehr über Feedback zum Selbstlernangebot - insbesondere __zur gestalterischen Umsetzung mit LiaScript__ - in folgendem Taskcards-Board! Nur durch Ihr Feedback können wir dieses bedarfsorientiert weiterentwickeln.
 
+<iframe src="https://uni-leipzig.taskcards.app/#/board/677796ea-0e93-4909-8a04-0842a2d487d4?token=ce2a513d-1c31-41f0-8f10-57e318e34fde" style="border:0px;width:100%;height:500px"        allowfullscreen="true"        webkitallowfullscreen="true"        mozallowfullscreen="true">    </iframe>
 
 ---
 
