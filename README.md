@@ -12,7 +12,7 @@ Dieses Selbstlernangebot ist Bestandteil des Online-Workshops "Lehre aktivierend
 
 | __Inhaltliche Schwerpunkte__ | __Zeitbedarf__ |
 | -------- | ------ | ------- |
-| Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen & Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien | Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die kleinen Aufgaben ein. |
+| Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen & Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien | Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die Bearbeitung der kleinen Aufgaben ein. |
 
 
 __Lernziele__
