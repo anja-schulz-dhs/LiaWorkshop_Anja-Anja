@@ -2,7 +2,7 @@
 language: de
 -->
 
-# Gestaltung lernwirksamer Lehr-Lernaktivitäten und -materialien
+# Gestaltung lernwirksamer Lehr-Lernaktivitäten und Lehr-Lernmaterialien
 
 ![](Medien/da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
 
