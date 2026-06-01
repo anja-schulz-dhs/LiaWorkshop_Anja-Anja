@@ -287,19 +287,19 @@ Sind Sie darüber gestolpert, dass im Quiz mit Pauschalisierungen gearbeitet wur
 
 ## Tipps für die Gestaltung verschiedener Materialarten
 
-In den folgenden Abschnitten haben wir Hinweise für die Gestaltung verschiedener Materialarten formuliert, welche die vorgestellten Designprinzipien berücksichtigen.
+In den folgenden Abschnitten haben wir Hinweise für die Gestaltung verschiedener Materialarten zusammengetragen, welche die vorgestellten Designprinzipien berücksichtigen.
 
 ---
 
-###(1) Textgestaltung
+### (1) Textgestaltung
 
-Ein Text sollte vor allem einfach und prägnant sowie sinnvoll gegliedert werden, um für Lernende verständlich zu sein. Die Sätze sollten kurzgehalten und einfach strukturiert sein. Unnötige Darstellungen und lange, verschachtelte Sätze sollten in Ihrem Lernmaterial vermieden werden. Der Text sollte eine klare Gliederung beinhalten (Überschriften, Vorbemerkungen, Fazit und eine Zusammenfassung) und ein roter Faden sollte stets erkennbar sein. Unterstreichungen, Fettdruck und auch Nummerierungen dienen zum besseren Verständnis in schriftlich dargebotenem Lehr-Lernmaterial. Ein weiteres Merkmal ist die Kürze bzw. Prägnanz. Sie sollten versuchen, sich auf das Wesentliche zu beschränken, können jedoch ab und zu anregende Zusätze an Ihre Lernenden geben.
+Ein Text sollte vor allem einfach und __prägnant__ sowie sinnvoll gegliedert werden, um für Lernende verständlich zu sein. Die Sätze sollten kurzgehalten und __einfach strukturiert__ sein. Unnötige Darstellungen und lange, verschachtelte Sätze sollten in Ihrem Lernmaterial vermieden werden. Der Text sollte eine __klare Gliederung__ beinhalten (Überschriften, Vorbemerkungen, Fazit und eine Zusammenfassung) und ein roter Faden sollte stets erkennbar sein. __Unterstreichungen__, __Fettdruck__ und auch __Nummerierungen__ dienen zum besseren Verständnis in schriftlich dargebotenem Lehr-Lernmaterial. Ein weiteres Merkmal ist die Kürze bzw. Prägnanz. Sie sollten versuchen, sich auf das Wesentliche zu beschränken, können jedoch ab und zu anregende Zusätze an Ihre Lernenden geben.
 
->Generell gilt: Versuchen Sie abwechslungsreiche Formulierungen, einen interessanten Schreibstil, die persönliche Ansprache und Texte unterlegt mit Illustrationen zu verwenden. Geben Sie Ihren Lernenden Beispiele mit, damit diese sich ein Bild vor Augen führen können. Elemente wie Zitate und Fragen sollten ebenfalls mit in den Text einfließen, um den Inhalt aufzulockern. Sprechen Sie Ihre Lernenden persönlich an oder fordern Sie sie durch einfache Aufgaben auch mal auf, sich im Lernmodul etwas genauer umzuschauen (vgl. Lischka, 2019).
+Generell gilt: Versuchen Sie __abwechslungsreiche Formulierungen__, einen interessanten Schreibstil, die __persönliche Ansprache__ und Texte unterlegt mit Illustrationen zu verwenden. Geben Sie Ihren Lernenden Beispiele mit, damit diese sich ein Bild vor Augen führen können. Elemente wie Zitate und Fragen sollten ebenfalls mit in den Text einfließen, um den Inhalt aufzulockern. Sprechen Sie Ihre Lernenden persönlich an oder fordern Sie sie durch einfache Aufgaben auch mal auf, sich im Lernmodul etwas genauer umzuschauen (vgl. Lischka, 2019).
 
 ---
 
-__(2) Präsentationsfolien__
+### (2) Präsentationsfolien
 
 Präsentationsfolien eignen sich als Strukturierungshilfe und Visualisierungsmedium für Vorträge. Die wichtigste Überlegung, die Sie an den Anfang des Gestaltungsprozesses von Präsentationsfolien stellen sollten, ist die Frage, ob die Folien zur Begleitung eines Live-Vortrags gedacht sind oder ob Studierende mit der Präsentation im Nachgang selbständig lernen sollen. Folien zu erstellen, die für beide Ziele gleichzeitig optimal geeignet sind, ist nicht möglich. Dienen Ihre Folien zur Begleitung und Visualisierung von Lerninhalten in einer Vortragssituation, sollten Sie sich fragen, ob es dem Lernerfolg dient, wenn Studierende genau dieses oder jenes parallel zum Gehörten live mitlesen/ansehen/tun sollen.
 
@@ -308,25 +308,25 @@ Ein paar Merksätze:
 - Nutzen Sie Bulletpoints bei Aufzählungen (Katt et al., 2008).
 - Vermeiden Sie Redundanz - insbesondere: Lesen Sie Ihre Folien nicht vor (Rey, 2009).
 
-Wollen Sie sich mit der Gestaltung von Folien vertiefend beschäftigen? Dann schauen Sie in folgenden Selbstlernkurs: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_333&client_id=il_hsm_weiterbildung
+>Wollen Sie sich mit der Gestaltung von Folien vertiefend beschäftigen? Dann schauen Sie in folgenden Selbstlernkurs: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_333&client_id=il_hsm_weiterbildung
 
 ---
 
-__(4) Hörtexte__
+### (3) Hörtexte
 
-Neben den klassischen Textelementen können auch Hörtexte eingesetzt werden, um das auditive Lernen zu verstärken. Beim Erstellen von Hörtexten sollten Sie für Ihre Lernenden anfangs eine kurze Einleitung in die behandelten Themen geben, z.B.: „Heute möchte ich Ihnen die wichtigsten Gestaltungsprinzipien von Lehr-Lernmaterialien vorstellen“. Folgenden Hinweise sollten Sie bei der Erstellung von Hörtexten innerhalb Ihrer Lernmaterialien beachten:
+Neben den klassischen Textelementen können auch Hörtexte eingesetzt werden, um das auditive Lernen zu verstärken. Beim Erstellen von Hörtexten sollten Sie für Ihre Lernenden anfangs eine kurze Einleitung in die behandelten Themen geben, z. B.: „Heute möchte ich Ihnen die wichtigsten Gestaltungsprinzipien von Lehr-Lernmaterialien vorstellen“. Folgende Hinweise sollten Sie bei der Erstellung von Hörtexten innerhalb Ihrer Lernmaterialien beachten:
 
 - Packen Sie nicht zu viel Inhalt in einen Hörtext. Die Länge sollte in der Regel 10 bis 20 Minuten nicht überschreiten (vgl. Cho et al., 2017).
 - Authentizität und das Berichten persönlicher Erfahrungen/Anekdoten unterstützen den Lernerfolg (Downs et al., 2011; Cho et al., 2017).
 - Studierende präferieren Hörtexte ihrer Lehrenden im Vergleich zu Studioaufnahmen fremder Personen (Taylor & Clark, 2010).
 
-Mehr Informationen und viele praktive Übungen zur Erstellung von Hörtexten für die Lehre finden Sie in unserem Selbstlernkurs zur Podcasterstellung: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_335&client_id=il_hsm_weiterbildung
+>Mehr Informationen und viele praktive Übungen zur Erstellung von Hörtexten für die Lehre finden Sie in unserem Selbstlernkurs zur Podcasterstellung: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_335&client_id=il_hsm_weiterbildung
 
 ---
 
-__(5) Grafiken, Bilder und Animationen__
+### (4) Grafiken, Bilder und Animationen
 
-Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar wie Texte. Dies können selbst erstellte Bilder, Fotos, Diagramme oder Zeichnungen sein. Grafiken sind besonders dafür gedacht, komplexe Informationen zu reduzieren und einfach dargestellt zu vermitteln. So wird bspw. die grafische Darstellung eines Tortendiagramms wesentlicher schneller erfasst, als eine Darstellung im Text. Grafiken lassen sich vor allem für den Aufbau und das Aussehen von Gegenständen, Systemen, Maschinen, aber auch bei abstrakten Verhältnissen verwenden. Bilder lockern auf und können den Lernenden informieren und dokumentieren, können aber auch Aufmerksamkeit auf bestimmte Sachverhalte erregen oder eine bestimmte Stimmung hervorheben. Animationen eignen sich vor allem für folgende Inhalte:
+Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar wie Texte. Dies können selbst erstellte __Bilder__, __Fotos__, __Diagramme__ oder __Zeichnungen__ sein. Grafiken sind besonders dafür gedacht, __komplexe Informationen__ zu __reduzieren__ und einfach dargestellt zu vermitteln. So wird bspw. die grafische Darstellung eines Tortendiagramms wesentlicher schneller erfasst, als eine Darstellung im Text. Grafiken lassen sich vor allem für den Aufbau und das Aussehen von Gegenständen, Systemen, Maschinen, aber auch bei __abstrakten Verhältnissen__ verwenden. Bilder lockern auf und können den Lernenden informieren und dokumentieren, können aber auch Aufmerksamkeit auf bestimmte Sachverhalte erregen oder eine bestimmte Stimmung hervorheben. Animationen eignen sich vor allem für folgende Inhalte:
 
 - Chronologische Prozesse (z. B. Wachstum, Abfolge von Einzelereignissen)
 - Räumliche Darstellungen (z. B. durch das dreidimensionale Rotieren von Gegenständen)
@@ -335,11 +335,12 @@ Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar
 - Vergrößerung – Verkleinerung
 - Änderung von Hintergrundfarben, Lichtverhältnissen" (Lischka, 2019).
 
+>Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bieten für __Lehrende an sächsischen Hochschulen__ im September 2026 einen Workshop zum Thema "[KI-Visualisierung in der Lehre-](https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren)" an.
 ---
 
-__(6) Videos__
+### (5) Videos
 
-Für Videos generell gelten ebenso die Punkte, die auch für Grafiken, Animationen und Hörtexte gelten, da sie eine Kombination aller vorher genannten Darstellungstypen sind. Der Fokus sollte vor allem auf der grafischen Komponente liegen, unterstützt durch einen Hörtext. Durch Töne, Bilder und Bewegungen bekommen Lernende einen schnellen Überblick über das behandelte Thema. Der geschriebene Text dient dabei eher als visueller Aufhänger. In Videos können im Vergleich zu den anderen Darstellungsformen komplexe Prozesse am besten visualisiert werden, die Produktion ist jedoch am aufwendigsten.
+Für Videos generell gelten ebenso die Punkte, die auch für Grafiken, Animationen und Hörtexte gelten, da sie eine Kombination aller vorher genannten Darstellungstypen sind. Der Fokus sollte vor allem auf der grafischen Komponente liegen, unterstützt durch einen Hörtext. Durch Töne, Bilder und Bewegungen bekommen Lernende einen schnellen Überblick über das behandelte Thema. Der geschriebene Text dient dabei eher als visueller Aufhänger. In Videos können im Vergleich zu den anderen Darstellungsformen __komplexe Prozesse__ am besten __visualisiert__ werden, die Produktion ist jedoch am aufwendigsten.
 
 Berücksichtigen Sie:
 - Lernende sollen die Möglichkeit haben, die Geschwindigkeit der Darbietung von Informationen in dem Video mit Funktionen wie Stopp und „Spulen“ selbst zu bestimmen und so ihr eigenen Lerntempo zu bestimmen (Fyfield, Henderson & Phillips, 2022).
@@ -347,14 +348,13 @@ Berücksichtigen Sie:
 -  Videos, die länger als 10 Minuten sind, werden häufiger abgebrochen (Guo, Kim & Rubin, 2014).
 -  Die Sichtbarkeit der Lehrperson hat in einem Video nur dann positive Effekte auf den Lernerfolg, wenn die Sichtbarkeit für den Lernprozess relevant ist, z.B. die Mimik beim Fremdsprachenlernen oder die Nachvollziehbarkeit der Handhabung von Maschinen (Hoogerheide, Loyens & van Gog, 2014).
 
-Wenn Sie sich vertiefend mit der Erstellung von Lehr-Lernvideos beschäftigen wollen, können Sie unseren Selbstlernkurs zu den Grundlagen der Videoerstellung nutzen: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_311&client_id=il_hsm_weiterbildung
+>Wenn Sie sich vertiefend mit der Erstellung von Lehr-Lernvideos beschäftigen wollen, können Sie unseren Selbstlernkurs zu den Grundlagen der Videoerstellung nutzen: https://weiterbildung.hs-merseburg.de/goto.php?target=crs_311&client_id=il_hsm_weiterbildung
 
 ---
 
-__(6) Interaktive Übungen__
+### (6) Interaktive Übungen
 
-Um die Gestaltung von Lehr-Lernmaterialien zu vervollständigen, fehlen als letzter Punkt interaktive Übungen. Übungen beziehen sich besonders auf den Inhalt der gerade angezeigten Seite und sollen das Wissen der Lernenden nachhaltig verankern. Durch das Prüfen der richtig und falschen Lösungen, werden Anwender*innen somit auf falsche Lösungen aufmerksam gemacht und dazu motiviert, erneut über die Inhalte nachzudenken. Beispiele interaktiver Übungen können unter anderem Multiple-Choice-Aufgaben, Puzzle und Drap-und-Drop-Aufgaben sein (vgl. Lischka, 2019).
-
+Um die Gestaltung von Lehr-Lernmaterialien zu vervollständigen, fehlen als letzter Punkt interaktive Übungen. Übungen beziehen sich besonders auf den Inhalt der gerade angezeigten Seite und sollen das Wissen der Lernenden __nachhaltig verankern__. Durch das Prüfen der richtigen und falschen Lösungen werden Anwender*innen somit auf falsche Lösungen aufmerksam gemacht und dazu motiviert, erneut über die Inhalte nachzudenken. Beispiele für interaktive Übungen sind unter anderem __Multiple-Choice-Aufgaben__, __Puzzle__ und __Drag-und-Drop-Aufgaben__ (vgl. Lischka, 2019).
 
 ---
 
