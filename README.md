@@ -313,7 +313,7 @@ Ein paar Merksätze:
 - Nutzen Sie Bulletpoints bei Aufzählungen (Katt et al., 2008).
 - Vermeiden Sie Redundanz - insbesondere: Lesen Sie Ihre Folien nicht vor (Rey, 2009).
 
->Unser Tipp zur Vertiefung: Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten" (Zeitbedarf: ca. 90 Minuten Rezeption (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Darin finden Sie auch Hinweise zur barrierefreien Gestaltung von Präsentationsfolien. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: _[https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679](https://weiterbildung.hs-merseburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=679)
+>Unser Tipp zur Vertiefung: Nutzen Sie gerne unseren kostenfreien Selbstlernkurs "Präsentationen lernwirksam gestalten" (Zeitbedarf: ca. 90 Minuten Rezeption (= 2 AE)), wenn Sie sich mit der Thematik vertiefend beschäftigen wollen. Darin finden Sie auch Hinweise zur barrierefreien Gestaltung von Präsentationsfolien. Zugänglich nach Anmeldung (kostenfrei) im Weiterbildungs-ILIAS der Hochschule Merseburg: https://weiterbildung.hs-merseburg.de/goto.php/crs/333
 
 ---
 
@@ -340,7 +340,8 @@ Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar
 - Vergrößerung – Verkleinerung
 - Änderung von Hintergrundfarben, Lichtverhältnissen" (Lischka, 2019).
 
->Unser Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bieten für Lehrende an sächsischen Hochschulen im September 2026 einen Workshop zum Thema "[KI-Visualisierung in der Lehre](https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren)" an.
+>Unser Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bietet für Lehrende an sächsischen Hochschulen im September 2026 einen Workshop zum Thema "KI-Visualisierung in der Lehre" an: https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren
+
 ---
 
 ### (5) Videos
