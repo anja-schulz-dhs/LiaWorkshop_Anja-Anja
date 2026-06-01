@@ -235,6 +235,36 @@ Notieren Sie diese auf folgendem Edupad:
 
 ---
 
+# Gestaltung aktivierender Lehr-Lernmaterialien 
+
+Sie wollen für Ihre Studierenden neue Lehr-Lern-Materialien erstellen oder bereits vorhandene überarbeiten? Wie Sie im vorhergehenden Abschnitt erfahren haben, ist eine gute didaktische Planung entscheidend dafür, ob Ihre Materialien lernwirksam, also kognitiv aktivierend, sind oder nicht.
+
+_Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzeption von Lernangeboten. Was viele dieser Modelle eint, ist, dass in einem ersten Schritt eine didaktische Analyse erfolgt (vgl. Niegemann et al., 2008), in deren Rahmen sich mit folgenden Fragen auseinandergesetzt werden sollte:
+
+- Welche Lehr-Lernziele verfolgen Sie mit dem Material?
+- Welchen Mehrwert hat das Lehr-Lernmaterial?
+- Welche Charakteristika der Zielgruppe sollten Sie beachten?_
+
+Darüber hinaus müssen Sie im Rahmen des didaktischen Designs Ihrer Lehr-Lernmaterialien verschiedene Entscheidungen treffen, etwa zur Auswahl der Lerninhalte, zu Lernaktivitäten, zur Strukturierung der Inhalte, zur (multi-)medialen Gestaltung, zum Grafik- und Interaktionsdesign sowie zur Motivation und Aktivierung der Lernenden (Niegemann et al, 2008).
+
+In diesem Abschnitt fokussieren wir auf wissenswerte Tipps aus der Lehr-Lernforschung, die bei der konkreten Gestaltung von Lehr-Lernmaterialien beachtet werden sollten. Ansprechend für die Lernenden ist hierbei der Einsatz von multimedialen Elementen bzw. ein gelungener Medienmix. Weniger ist hier allerdings oft mehr. Zu viele Angebote überfordern die Lernenden und bringen sie schnell an ihre Grenzen. Das richtige Maß ist gefragt.
+
+---
+
+## Prinzipien des multimedialen Lernens
+
+Wie findet man nun aber dieses richtige Maß? Als Orientierung für die Gestaltung und den Einsatz multimedialer Lehr-Lerninhalte können folgende Prinzipien des multimedialen Lernens nach Mayer (2016) dienen:
+
+
+
+Im folgenden Video lernen Sie grundlegende Gestaltungsprinzipien von Multimedia kennen.
+
+!?[Video: Grundlegende Designprinzipien bei der Erstellung von Multimedia](https://vimeo.com/799090705?fl=pl&fe=cm)
+
+
+
+---
+
 # Transferaufgabe zum Abschluss: Lernwirksame Lehrmaterialien mit LiaScript gestalten
 
 Wählen Sie ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre aus, das Sie zukünftig in LiaScript umsetzen oder überarbeiten möchten. Das kann z.B. eine Präsentation für eine Vorlesung sein oder ein Selbstlernmaterial oder eine komplexere Übungsaufgabe.
