@@ -27,7 +27,7 @@ Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die kleinen Aufgab
 
 __Kontaktinfos__
 
-Kontaktieren Sie uns gerne bei Fragen oder Anmerkungen: 
+Kontaktieren Sie uns gerne bei Fragen oder Anmerkungen: [Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) oder [Anja Schulz](mailto:anja.schulz@hd-sachsen.de).
 
 >Wir wünschen Ihnen viel Freude mit dem Selbstlernmaterial und freuen uns auf den Austausch mit Ihnen!
 
