@@ -335,7 +335,7 @@ Grafiken sind bei der Erstellung Ihrer Lehr-Lernmaterialien ebenso unverzichtbar
 - Vergrößerung – Verkleinerung
 - Änderung von Hintergrundfarben, Lichtverhältnissen" (Lischka, 2019).
 
->Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bieten für Lehrende an sächsischen Hochschulen im September 2026 einen Workshop zum Thema "[KI-Visualisierung in der Lehre-](https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren)" an.
+>Tipp zur Vertiefung: Die Hochschuldidaktik Sachsen bieten für Lehrende an sächsischen Hochschulen im September 2026 einen Workshop zum Thema "[KI-Visualisierung in der Lehre](https://www.hd-sachsen.de/anmeldung/ki-visualisierung-in-der-lehre-wissenschaft-darstellen-erklaeren-kommunizieren)" an.
 ---
 
 ### (5) Videos
