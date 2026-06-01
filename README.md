@@ -25,7 +25,9 @@ Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenpers
 
 __Kontaktinfos__
 
-Kontaktieren Sie uns gerne bei inhaltlichen Fragen oder Anmerkungen: [Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) oder [Anja Schulz](mailto:anja.schulz@hd-sachsen.de). Für Fragen zu LiaScript wenden Sie sich bitte an [Sebastian Zug](mailto:Sebastian.Zug@informatik.tu-freiberg.de).
+Kontaktieren Sie uns gerne bei inhaltlichen Fragen oder Anmerkungen: [Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) oder [Anja Schulz](mailto:anja.schulz@hd-sachsen.de). 
+
+Für Fragen zu LiaScript wenden Sie sich bitte an [Sebastian Zug](mailto:Sebastian.Zug@informatik.tu-freiberg.de).
 
 >Wir wünschen Ihnen viel Freude mit dem Selbstlernmaterial und freuen uns auf den Austausch mit Ihnen!
 
@@ -68,15 +70,15 @@ Zum Einstieg: Überlegen Sie einmal für sich, welches aus Ihrer Sicht relevante
 
 ---
 
-## Gestaltung lernwirksamer Lernaktivitäten
+## Gestaltung lernwirksamer Lehr-Lernaktivitäten
 
-Bitte schauen Sie sich die folgende Grafik aus einem Artikel von Shaaruddin & Mohamad (2017) an.
+Bitte schauen Sie sich die folgende Grafik aus einem Artikel von Shaaruddin und Mohamad (2017) an.
 
 ![Grafik "Cone of Experience"](Medien/efb65635dd59250f63c51f0dde6d2f3f7f3c5349.png)
 
-Wie Sie sehen, werden aktive und passive Formen des Lernens unterschieden und sind jeweils mit Prozentangaben zum Erinnern der Inhalte versehen.
+Wie Sie sehen, werden aktive und passive Formen des Lernens unterschieden, die jeweils mit Prozentangaben zum Erinnern der Inhalte versehen sind.
 
-Personen, die eine passive Aktivität ausführen, wie z.B. einen Text zu lesen, erinnern sich demnach deutlich schlechter an Inhalte als Personen, die aktiv tätig sind und z.B. an einer Diskussion teilnehmen.
+Personen, die eine passive Aktivität ausführen, wie z. B. einen Text zu lesen, erinnern sich demnach deutlich schlechter an Inhalte als Personen, die aktiv tätig sind und z. B. an einer Diskussion teilnehmen.
 
 Überlegen Sie einmal selber:
 
@@ -86,14 +88,13 @@ Diese Darstellung trifft man in dieser oder leicht abgewandelter Form häufig in
 
 __Frage 1: Werden gehörte Texte wirklich besser erinnert als gelesene?__
 
-Antwort: Diese Aussage lässt sich so pauschal nicht halten, da dieser Effekt (auch als Modalitätseffekt bekannt) nur unter bestimmten Bedingungen auftritt:
-Wenn Lernende mit einer Kombination aus visuellem Material (z. B. einer Grafik) und Text lernen sollen, führt eine Kombination aus Grafik und Audio zu einem besseren Lernerfolg als die Kombination aus derselben Grafik und geschriebenem Text (Ginns, 2005). Dies gilt jedoch nicht für lange oder sehr komplexe Texte. Diese werden besser erinnert und verstanden, wenn sie dem Lernenden nicht auditiv, sondern als geschriebener Text zur Verfügung gestellt werden (vgl. Leahy & Sweller, 2016).
+Antwort: Diese Aussage lässt sich so pauschal nicht halten, da dieser Effekt (auch als Modalitätseffekt bekannt, vgl. auch den Abschnitt zu den Designprinzipien für die Erstellung von Multimedia) nur unter bestimmten Bedingungen auftritt: Wenn Lernende mit einer Kombination aus visuellem Material (z. B. einer Grafik) und Text lernen sollen, führt eine Kombination aus Grafik und Audio zu einem besseren Lernerfolg als die Kombination aus derselben Grafik und geschriebenem Text (Ginns, 2005). Dies gilt jedoch nicht für lange oder sehr komplexe Texte. Diese werden besser erinnert und verstanden, wenn sie dem Lernenden nicht auditiv, sondern als geschriebener Text zur Verfügung gestellt werden (vgl. Leahy & Sweller, 2016).
 
 ---
 
-__Frage 2: Die untere Ebene in der Darstellung („Simulation the Real Experience“, „Doing the Real Thing“) korrespondiert eng mit konstruktivistischen sowie handlungsorientierten Ansätzen des Lehrens und Lernens, wie etwa dem entdeckenden Lernen. Sind diese für den Lernerfolg wirklich besser als das vermeintlich passive Lernen während der direkten Instruktion (z.B. durch einen Vortrag)?__
+__Frage 2: Die untere Ebene in der Darstellung („Simulating the Real Experience“, „Doing the Real Thing“) korrespondiert eng mit konstruktivistischen sowie handlungsorientierten Ansätzen des Lehrens und Lernens, wie etwa dem entdeckenden Lernen. Sind diese für den Lernerfolg wirklich besser als das vermeintlich passive Lernen während der direkten Instruktion (z. B. durch einen Vortrag)?__
 
-Antwort: Die Ergebnisse von Studien deuten darauf hin, dass die didaktische Unterstützung der Lernenden entscheidenden Anteil für den Erfolg oder Misserfolg von Lernprozessen hat. In einer Meta-Analyse konnten Alfieri, Brooks, Aldrich & Tenenbaum (2011) z.B. zeigen, dass Formen des entdeckenden Lernens ohne didaktische Unterstützung in der Regel weniger Lernerfolg nach sich ziehen als direkte Instruktion. Besonders effektiv sind Lernprozesse immer dann, wenn handlungsorientierte Formen des Lernens um didaktische Anleitung und Unterstützung der Lernenden ergänzt werden.
+Antwort: Die Ergebnisse von Studien deuten darauf hin, dass die didaktische Unterstützung der Lernenden einen entscheidenden Anteil für den Erfolg oder Misserfolg von Lernprozessen hat. In einer Meta-Analyse konnten Alfieri, Brooks, Aldrich und Tenenbaum (2011) z. B. zeigen, dass Formen des entdeckenden Lernens ohne didaktische Unterstützung in der Regel weniger Lernerfolg nach sich ziehen als direkte Instruktion. Besonders effektiv sind Lernprozesse immer dann, wenn handlungsorientierte Formen des Lernens um didaktische Anleitung und Unterstützung der Lernenden ergänzt werden.
 
 __Fazit für die Lehre__
 
@@ -109,7 +110,7 @@ Die Dichotomie von passiven Lernenden, die mit Texten, Vorträgen oder Videos le
 ---
 
 [^1] Und woher kommt der „Cone of Experience“ nun eigentlich?
-Der „Cone of Experience“ oder auch „Cone of Learning“ geht auf eine Visualisierung der unterschiedlichen Arten des Lernens mit Medien von Dale (1946/1969) zurück, so wie die Abbildungsunterschrift in der Publikation von Shaaruddin & Mohamad (2017) auch suggeriert. Dale (1946) visualisiert in der ursprünglichen Grafik jedoch lediglich den Abstraktionsgrad von Lernerfahrungen, ohne davon auf das Behalten von Lerninhalten zu schließen. Auf welchem Weg die ursprüngliche Visualisierung zu einer Art pädagogischen Anleitung und damit zu einem Lernmythos geworden ist, lässt sich heute kaum noch rekonstruieren.
+Der „Cone of Experience“ oder auch „Cone of Learning“ geht auf eine Visualisierung der unterschiedlichen Arten des Lernens mit Medien von Dale (1946/1969) zurück, so wie die Abbildungsunterschrift in der Publikation von Shaaruddin und Mohamad (2017) auch suggeriert. Dale (1946) visualisiert in der ursprünglichen Grafik jedoch lediglich den Abstraktionsgrad von Lernerfahrungen, ohne davon auf das Behalten von Lerninhalten zu schließen. Auf welchem Weg die ursprüngliche Visualisierung zu einer Art pädagogischen Anleitung und damit zu einem Lernmythos geworden ist, lässt sich heute kaum noch rekonstruieren.
 
 ---
 
