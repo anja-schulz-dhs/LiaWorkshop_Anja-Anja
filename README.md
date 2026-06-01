@@ -239,11 +239,11 @@ Notieren Sie diese auf folgendem Edupad:
 
 Sie wollen für Ihre Studierenden neue Lehr-Lern-Materialien erstellen oder bereits vorhandene überarbeiten? Wie Sie im vorhergehenden Abschnitt erfahren haben, ist eine gute didaktische Planung entscheidend dafür, ob Ihre Materialien lernwirksam, also kognitiv aktivierend, sind oder nicht.
 
->Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzeption von Lernangeboten. Was viele dieser Modelle eint, ist, dass in einem ersten Schritt eine didaktische Analyse erfolgt (vgl. Niegemann et al., 2008), in deren Rahmen sich mit folgenden Fragen auseinandergesetzt werden sollte:
+_Es existieren unterschiedlichste Modelle zur systematischen didaktischen Konzeption von Lernangeboten. Was viele dieser Modelle eint, ist, dass in einem ersten Schritt eine didaktische Analyse erfolgt (vgl. Niegemann et al., 2008), in deren Rahmen sich mit folgenden Fragen auseinandergesetzt werden sollte:
 
->- Welche Lehr-Lernziele verfolgen Sie mit dem Material?
->- Welchen Mehrwert hat das Lehr-Lernmaterial?
->- Welche Charakteristika der Zielgruppe sollten Sie beachten?
+_- Welche Lehr-Lernziele verfolgen Sie mit dem Material?
+_- Welchen Mehrwert hat das Lehr-Lernmaterial?
+_- Welche Charakteristika der Zielgruppe sollten Sie beachten?
 
 Darüber hinaus müssen Sie im Rahmen des didaktischen Designs Ihrer Lehr-Lernmaterialien verschiedene Entscheidungen treffen, etwa zur Auswahl der Lerninhalte, zu Lernaktivitäten, zur Strukturierung der Inhalte, zur (multi-)medialen Gestaltung, zum Grafik- und Interaktionsdesign sowie zur Motivation und Aktivierung der Lernenden (Niegemann et al, 2008).
 
