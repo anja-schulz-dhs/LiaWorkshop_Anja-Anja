@@ -291,7 +291,7 @@ In den folgenden Abschnitten haben wir Hinweise für die Gestaltung verschiedene
 
 ---
 
-__(1) Textgestaltung__
+###(1) Textgestaltung
 
 Ein Text sollte vor allem einfach und prägnant sowie sinnvoll gegliedert werden, um für Lernende verständlich zu sein. Die Sätze sollten kurzgehalten und einfach strukturiert sein. Unnötige Darstellungen und lange, verschachtelte Sätze sollten in Ihrem Lernmaterial vermieden werden. Der Text sollte eine klare Gliederung beinhalten (Überschriften, Vorbemerkungen, Fazit und eine Zusammenfassung) und ein roter Faden sollte stets erkennbar sein. Unterstreichungen, Fettdruck und auch Nummerierungen dienen zum besseren Verständnis in schriftlich dargebotenem Lehr-Lernmaterial. Ein weiteres Merkmal ist die Kürze bzw. Prägnanz. Sie sollten versuchen, sich auf das Wesentliche zu beschränken, können jedoch ab und zu anregende Zusätze an Ihre Lernenden geben.
 
