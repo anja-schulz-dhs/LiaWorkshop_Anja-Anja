@@ -402,7 +402,7 @@ Biard, N., Cojean, S., & Jamet, E. (2018). Effects of segmentation and pacing on
 
 Carpenter, S. K., Witherby, A. E., & Tauber, S. K. (2020). On students’(mis) judgments of learning and teaching effectiveness. Journal of Applied research in Memory and cognition, 9(2), 137-151.
 
-Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69.
+Cho, D., Cosimini, M., & Espinoza, J. (2017). Podcasting in medical education: a review of the literature. Korean Journal of Medical Education, 29 (4), 229-239. https://doi.org/10.3946/kjme.2017.69
 
 Dale, E. (1946). Audio-visual methods in teaching. New York: Dryden Press.
 
@@ -418,7 +418,7 @@ Hawlitschek, A., Rudolf, G., & Zug, S. (2022). Informatikstudierende als Teampla
 
 Hoogerheide, V., Loyens, S. M. M. & van Gog, T. (2014). Comparing the effects of worked examples and modeling examples on learning, Computers in Human Behavior, 41, 80–91. https://doi.org/10.1016/j.chb.2014.09.013
 
-Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. [10.1007/s11251-009-9102-0](https://doi.org/10.1007/s11251-009-9102-0). 
+Kalyuga, S. & Renkl, A. (2010). Expertise reversal effect and its instructional implications: Introduction to the special issue. Instructional Science. 38. 209-215. https://doi.org/10.1007/s11251-009-9102-0. 
 
 Katt, J., Murdock, J., Butler, J., & Pryor, B. (2008). Establishing best practices for the use of PowerPoint™ as a presentation aid. Human Communication, 11(2), 189–196.
 
