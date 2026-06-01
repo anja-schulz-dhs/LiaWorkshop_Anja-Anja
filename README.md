@@ -21,6 +21,7 @@ Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenpers
 
 * Kriterien für gelungene Input- und Selbstlernphasen auf die eigene Lehre beziehen.
 * Ausgehend von grundlegenden Prinzipien der Gestaltung aktivierender Lehr-Lernmaterialien konkrete Anpassungsbedarfe für die Materialien in Ihrer eigenen Lehre ableiten.
+  
 
 __Kontaktinfos__
 
@@ -83,14 +84,14 @@ Deckt sich das mit Ihren Erfahrungen bezüglich Ihres eigenen Lernens?
 
 Diese Darstellung trifft man in dieser oder leicht abgewandelter Form häufig in Büchern und Texten über lernwirksames Lehren. Intuitiv klingt das im ersten Moment sehr einleuchtend. Denkt man etwas intensiver darüber nach, fängt man zunehmend an zu zweifeln, ob sich solche pauschalen Aussagen über das Lernen als reliabel erweisen. Zwei der Aussagen aus der Grafik sollen im Folgenden mit Erkenntnissen aus wissenschaftlichen Studien der Lehr-Lern-Forschung kontrastiert werden.
 
->[!TIP] Frage 1: Werden gehörte Texte wirklich besser erinnert als gelesene?
+__Frage 1: Werden gehörte Texte wirklich besser erinnert als gelesene?__
 
 Antwort: Diese Aussage lässt sich so pauschal nicht halten, da dieser Effekt (auch als Modalitätseffekt bekannt) nur unter bestimmten Bedingungen auftritt:
 Wenn Lernende mit einer Kombination aus visuellem Material (z. B. einer Grafik) und Text lernen sollen, führt eine Kombination aus Grafik und Audio zu einem besseren Lernerfolg als die Kombination aus derselben Grafik und geschriebenem Text (Ginns, 2005). Dies gilt jedoch nicht für lange oder sehr komplexe Texte. Diese werden besser erinnert und verstanden, wenn sie dem Lernenden nicht auditiv, sondern als geschriebener Text zur Verfügung gestellt werden (vgl. Leahy & Sweller, 2016).
 
 ---
 
->[!TIP] Frage 2: Die untere Ebene in der Darstellung („Simulation the Real Experience“, „Doing the Real Thing“) korrespondiert eng mit konstruktivistischen sowie handlungsorientierten Ansätzen des Lehrens und Lernens, wie etwa dem entdeckenden Lernen. Sind diese für den Lernerfolg wirklich besser als das vermeintlich passive Lernen während der direkten Instruktion (z.B. durch einen Vortrag)?
+__Frage 2: Die untere Ebene in der Darstellung („Simulation the Real Experience“, „Doing the Real Thing“) korrespondiert eng mit konstruktivistischen sowie handlungsorientierten Ansätzen des Lehrens und Lernens, wie etwa dem entdeckenden Lernen. Sind diese für den Lernerfolg wirklich besser als das vermeintlich passive Lernen während der direkten Instruktion (z.B. durch einen Vortrag)?__
 
 Antwort: Die Ergebnisse von Studien deuten darauf hin, dass die didaktische Unterstützung der Lernenden entscheidenden Anteil für den Erfolg oder Misserfolg von Lernprozessen hat. In einer Meta-Analyse konnten Alfieri, Brooks, Aldrich & Tenenbaum (2011) z.B. zeigen, dass Formen des entdeckenden Lernens ohne didaktische Unterstützung in der Regel weniger Lernerfolg nach sich ziehen als direkte Instruktion. Besonders effektiv sind Lernprozesse immer dann, wenn handlungsorientierte Formen des Lernens um didaktische Anleitung und Unterstützung der Lernenden ergänzt werden.
 
@@ -160,7 +161,7 @@ Und wie kann man die Komplexität von Aufgaben und Inhalten gut anpassen? Einige
 
 ### (5) Kleine Änderungen große Wirkung
 
-Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große Wirkung erzielen. Die Wirkung von Lehr-Lernmethoden hängt jedoch davon ab, ob sie zu den Lernzielen, den Studierenden und nicht zuletzt zu Ihnen als Lehrperson passen. Wir haben für Sie auf den folgenden Seiten auf der Basis der Ergebnisse von Schneider & Preckel (2017) Tipps zur Anpassung Ihrer Lehre zusammengestellt.
+Schon mit kleinen Änderungen auf der Mikroebene des Lehrens können Sie große Wirkung erzielen. Die Wirkung von Lehr-Lernmethoden hängt jedoch davon ab, ob sie zu den Lernzielen, den Studierenden und nicht zuletzt zu Ihnen als Lehrperson passen. Wir haben für Sie auf den folgenden Seiten auf der Basis der Ergebnisse von Schneider & Preckel (2017) Tipps zu kleinen (und einigen wenigen größeren) Änderungen zusammengestellt.
 
 ---
 
