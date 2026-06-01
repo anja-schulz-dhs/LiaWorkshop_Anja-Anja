@@ -14,10 +14,6 @@ Dieses Selbstlernangebot ist Bestandteil des Online-Workshops "Lehre aktivierend
 | -------- | ------ | ------- |
 | Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen & Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien | Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die kleinen Aufgaben ein. |
 
-__Inhaltliche Schwerpunkte__ 
-
-* Grundlagen der lernwirksamen Gestaltung von Input- und Selbstlernphasen
-* Gestaltungsprinzipien für aktivierende Lehr- und Lernmaterialien
 
 __Lernziele__
 
@@ -25,10 +21,6 @@ Durch die Bearbeitung des Selbstlernangebots nehmen Sie selbst die Lernendenpers
 
 * Kriterien für gelungene Input- und Selbstlernphasen auf die eigene Lehre beziehen.
 * Ausgehend von grundlegenden Prinzipien der Gestaltung aktivierender Lehr-Lernmaterialien konkrete Anpassungsbedarfe für die Materialien in Ihrer eigenen Lehre ableiten.
-
-__Zeitbedarf__
-
-Planen Sie etwa 90 Minuten für die Rezeption der Inhalte und die kleinen Aufgaben ein.
 
 __Kontaktinfos__
 
@@ -91,14 +83,14 @@ Deckt sich das mit Ihren Erfahrungen bezüglich Ihres eigenen Lernens?
 
 Diese Darstellung trifft man in dieser oder leicht abgewandelter Form häufig in Büchern und Texten über lernwirksames Lehren. Intuitiv klingt das im ersten Moment sehr einleuchtend. Denkt man etwas intensiver darüber nach, fängt man zunehmend an zu zweifeln, ob sich solche pauschalen Aussagen über das Lernen als reliabel erweisen. Zwei der Aussagen aus der Grafik sollen im Folgenden mit Erkenntnissen aus wissenschaftlichen Studien der Lehr-Lern-Forschung kontrastiert werden.
 
-Frage 1: Werden gehörte Texte wirklich besser erinnert als gelesene?
+>[!TIP] Frage 1: Werden gehörte Texte wirklich besser erinnert als gelesene?
 
 Antwort: Diese Aussage lässt sich so pauschal nicht halten, da dieser Effekt (auch als Modalitätseffekt bekannt) nur unter bestimmten Bedingungen auftritt:
 Wenn Lernende mit einer Kombination aus visuellem Material (z. B. einer Grafik) und Text lernen sollen, führt eine Kombination aus Grafik und Audio zu einem besseren Lernerfolg als die Kombination aus derselben Grafik und geschriebenem Text (Ginns, 2005). Dies gilt jedoch nicht für lange oder sehr komplexe Texte. Diese werden besser erinnert und verstanden, wenn sie dem Lernenden nicht auditiv, sondern als geschriebener Text zur Verfügung gestellt werden (vgl. Leahy & Sweller, 2016).
 
 ---
 
-Frage 2: Die untere Ebene in der Darstellung („Simulation the Real Experience“, „Doing the Real Thing“) korrespondiert eng mit konstruktivistischen sowie handlungsorientierten Ansätzen des Lehrens und Lernens, wie etwa dem entdeckenden Lernen. Sind diese für den Lernerfolg wirklich besser als das vermeintlich passive Lernen während der direkten Instruktion (z.B. durch einen Vortrag)?
+>[!TIP] Frage 2: Die untere Ebene in der Darstellung („Simulation the Real Experience“, „Doing the Real Thing“) korrespondiert eng mit konstruktivistischen sowie handlungsorientierten Ansätzen des Lehrens und Lernens, wie etwa dem entdeckenden Lernen. Sind diese für den Lernerfolg wirklich besser als das vermeintlich passive Lernen während der direkten Instruktion (z.B. durch einen Vortrag)?
 
 Antwort: Die Ergebnisse von Studien deuten darauf hin, dass die didaktische Unterstützung der Lernenden entscheidenden Anteil für den Erfolg oder Misserfolg von Lernprozessen hat. In einer Meta-Analyse konnten Alfieri, Brooks, Aldrich & Tenenbaum (2011) z.B. zeigen, dass Formen des entdeckenden Lernens ohne didaktische Unterstützung in der Regel weniger Lernerfolg nach sich ziehen als direkte Instruktion. Besonders effektiv sind Lernprozesse immer dann, wenn handlungsorientierte Formen des Lernens um didaktische Anleitung und Unterstützung der Lernenden ergänzt werden.
 
