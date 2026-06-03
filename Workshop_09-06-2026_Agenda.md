@@ -19,6 +19,7 @@ attribute: Lehre aktivierend gestalten mit LiaScript
 
 
 # Lehre aktivierend gestalten mit LiaScript
+---
 
 __Herzlich Willkommen zum Online-Workshop!__
 
@@ -29,29 +30,50 @@ __Workshopleitung:__
 - [Dr. Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) | [eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA)](https://www.esalsa.ovgu.de/)
 - [Prof. Dr. Sebastian Zug](mailto:Sebastian.Zug@informatik.tu-freiberg.de) | [TU Bergakademie Freiberg](https://tu-freiberg.de/soro)
 
----
 
 __Termin:__ 09.06.2026 | 09:00-12:15 Uhr
 
 
-# Ablauf
-
-| Phase | Zeit   | Ziele      |
-| -------- | -------- | ------------ |
-| 0     | 90 min | __Erleben__ - Sie erkunden einen LiaScript-Kurs aus der Lernenden-Perspektive  |
-| 1      | 10 min | __Fragen stellen__ - Haben Sie inhaltliche Fragen zum Selbstlernkurs?   |
-| 2      | 15 min | __Reflektieren 1__ - Was hat Ihnen aus Lernendenperspektive an LiaScript gefallen, was nicht?   | 
-| 3       | 15 min | __Verstehen__ - Sie lernen die Methodik der Beschreibungssprache und die dahinterliegende Philosophie kennen.   |
-|        | 10 min  | 🫖 __PAUSE __|
-| 4      | 20 min  | __Anwenden 1__ - Sie bauen nun im ersten Schritt angeleitet erste Inhalte in LiaScript auf. |
-| 5      | 10 min  | __Fragen stellen__ - Haben Sie Fragen? |
-| 6      | 40 min  | __Anwenden 2__ - Sie arbeiten an Ihrem eigenen Material. |
-|        | 10 min  | 🫖 __PAUSE__ |
-| 7      | 30 min | __Reflektieren 2__ - Sie stellen Ihren Kurs kurz vor. Was hat Ihnen aus Lehrendenperspektive gefallen, was nicht?  |
-| 8      | 15 min | __Verbreiten__ - Zum Schluss erkunden Sie, wie Sie Ihre Kurse mit Lehrenden, Lernenden oder der LiaScript-Community teilen können.   |
-| 9      |  5 min  | __Feedback__ - Sie geben uns Feedback und unterstützen uns dabei, den Workshop weiterzuentwickeln. |
-
+# Ablauf des Workshops
 ---
+
+| Phase | Zeit  | Fokus / Ziele                                                                                                                          |
+| :---: | ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 0     | 90min | __Erleben__ - Sie erkunden einen LiaScript-Kurs aus der Lernenden-Perspektive  |
+| 1     | 10min | __Fragen stellen 1__ - Haben Sie inhaltliche Fragen zum Selbstlernkurs?   |
+| 2     | 15min | __Reflektieren 1__ - Was hat Ihnen aus Lernendenperspektive an LiaScript gefallen, was nicht?   | 
+| 3     | 15min | __Verstehen__ - Sie lernen die Methodik der Beschreibungssprache und die dahinterliegende Philosophie kennen.   |
+|       | 10min  | 🫖 __PAUSE__|
+| 4     | 20min  | __Anwenden 1__ - Im ersten Schritt bauen Sie angeleitet erste Inhalte in LiaScript auf. |
+| 5     | 10min  | __Fragen stellen 2__ - Haben Sie Fragen? |
+| 6     | 40min  | __Anwenden 2__ - Im nächsten Schritt arbeiten Sie selbständig an Ihrem eigenen Lehr-Lernmaterial. |
+|       | 10min  | 🫖 __PAUSE__ |
+| 7     | 30min | __Reflektieren 2__ - Sie stellen Ihre Materialien kurz vor. Was hat Ihnen aus Lehrendenperspektive gefallen, was nicht?  |
+| 8     | 15min | __Verbreiten__ - Zum Schluss erkunden Sie, wie Sie Ihre Inhalte mit Lehrenden, Lernenden oder der LiaScript-Community teilen können.   |
+| 9     |  5min  | __Feedback__ - Sie geben uns Feedback und unterstützen uns dabei, den Workshop weiterzuentwickeln. |
+
+
+>ALTERNATIVE FÜR GGF. BESSERE ÜBERSICHTLICHKEIT
+
+| Phase | Zeit  | Fokus / Ziele                                                                                                                          |
+| :---: | ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 0     | 90min | __Erleben__ - Sie erkunden einen LiaScript-Kurs aus der Lernenden-Perspektive  |
+| 1     | 10min | __Begrüßung & Einstieg__ - Sie kommen im werden begrüßt und orientieren sich im Online-Raum   |
+| 2     | 10min | __Fragen stellen__ - Haben Sie inhaltliche Fragen zum Selbstlernkurs?   |
+| 2     | 15min | __Reflektieren 1__ - Was hat Ihnen aus Lernendenperspektive an LiaScript gefallen, was nicht?   | 
+| 3     | 15min | __Verstehen__ - Sie lernen die Methodik der Beschreibungssprache und die dahinterliegende Philosophie kennen.   |
+|       | 10min  | 🫖 __PAUSE__|
+| 4     | 20min  | __Anwenden 1__ - Im ersten Schritt bauen Sie angeleitet erste Inhalte in LiaScript auf. |
+| 5     | 10min  | __Fragen stellen__ - Haben Sie Fragen? |
+| 6     | 40min  | __Anwenden 2__ - Im nächsten Schritt arbeiten Sie selbständig an Ihrem eigenen Lehr-Lernmaterial. |
+|       | 10min  | 🫖 __PAUSE__ |
+| 7     | 30min | __Reflektieren 2__ - Sie stellen Ihre Materialien kurz vor. Was hat Ihnen aus Lehrendenperspektive gefallen, was nicht?  |
+| 8     | 15min | __Verbreiten__ - Zum Schluss erkunden Sie, wie Sie Ihre Inhalte mit Lehrenden, Lernenden oder der LiaScript-Community teilen können.   |
+| 9     |  5min  | __Feedback__ - Sie geben uns Feedback und unterstützen uns dabei, den Workshop weiterzuentwickeln. |
+
+
+
+
 ## Fragen stellen zu den Inhalten des Selbstlernkurses
 
 ## Reflektieren 1: Was hat Ihnen an der gestalterischen Umsetzung mit LiaScript gefallen und was nicht?
