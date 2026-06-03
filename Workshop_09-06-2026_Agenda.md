@@ -65,7 +65,7 @@ __Termin:__ 09.06.2026 | 09:00-12:15 Uhr
 |       | 10min  | 🫖 __PAUSE__ |
 | 4     | 30min | __Reflexion & Austausch__ - Sie stellen Ihre Materialien kurz vor. Was hat Ihnen aus Lehrendenperspektive gefallen, was nicht?  |
 | 5     | 15min | __Verbreiten__ - Zum Schluss erkunden Sie, wie Sie Ihre Inhalte mit Lehrenden, Lernenden oder der LiaScript-Community teilen können.   |
-| 6     |  10min  | __Feedback__ - Sie geben uns Feedback und unterstützen uns dabei, den Workshop weiterzuentwickeln. |
+| 6     |  10min  | __Feedback & Abschluss__ - Bevor wir Sie aus dem Workshop verabschieden geben Sie uns Feedback und unterstützen uns dabei, den Workshop weiterzuentwickeln. |
 
 
 
