@@ -1,0 +1,711 @@
+% =====================================================================
+%  LiaScript / Markdown CheatSheet — A4, doppelseitig
+%  Workshop "Interaktive OER für die Bibliothekspraxis", BiblioCon 2026
+%  Compile:  pdflatex cheatsheet.tex   (zweimal für korrekte Boxen)
+% =====================================================================
+\documentclass[a4paper,landscape,9pt]{extarticle}
+
+% --- Layout ----------------------------------------------------------
+\usepackage[landscape,margin=0.9cm,top=1.0cm,bottom=0.7cm]{geometry}
+\usepackage{multicol}
+\setlength{\columnsep}{8pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% --- Sprache & Schrift ----------------------------------------------
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{libertine}
+\usepackage[varqu,varl,scaled=0.92]{inconsolata}
+
+% --- Farben ----------------------------------------------------------
+\usepackage{xcolor}
+\definecolor{mdblue}{HTML}{1F4E79}
+\definecolor{mdblueLt}{HTML}{E8EEF5}
+\definecolor{liagreen}{HTML}{2E6B3D}
+\definecolor{liagreenLt}{HTML}{E8F0E9}
+\definecolor{codebg}{HTML}{F6F6F4}
+\definecolor{rulegray}{HTML}{D0D0D0}
+\definecolor{muted}{HTML}{606060}
+
+% --- Pakete ----------------------------------------------------------
+\usepackage[most]{tcolorbox}
+\usepackage{listings}
+\usepackage{qrcode}
+\usepackage{fontawesome5}
+\usepackage{array}
+\usepackage[normalem]{ulem}
+\usepackage{hyperref}
+\hypersetup{hidelinks}
+
+% --- Listings: Markdown/LiaScript-Quellcode --------------------------
+\lstdefinelanguage{lia}{
+  morecomment=[l]{\#},
+  morecomment=[s]{<!--}{-->},
+  sensitive=true
+}
+\lstset{
+  basicstyle=\ttfamily\scriptsize,
+  breaklines=true,
+  breakatwhitespace=true,
+  showstringspaces=false,
+  keepspaces=true,
+  columns=fullflexible,
+  upquote=true,
+  literate=%
+    {ä}{{\"a}}1 {ö}{{\"o}}1 {ü}{{\"u}}1
+    {Ä}{{\"A}}1 {Ö}{{\"O}}1 {Ü}{{\"U}}1
+    {ß}{{\ss}}1 {„}{{\glqq}}1 {“}{{\grqq}}1,
+  frame=none,
+  xleftmargin=0pt,
+  aboveskip=0pt,
+  belowskip=0pt
+}
+
+% --- Karten-Vorlage --------------------------------------------------
+%  Zwei Varianten: mdcard (blau, Markdown) und liacard (grün, LiaScript)
+%  Innen: links Quellcode, rechts Wirkung — getrennt durch \tcblower.
+\tcbset{
+  cheatbase/.style={
+    enhanced,
+    sidebyside,
+    sidebyside align=top,
+    lefthand width=0.46\linewidth,
+    segmentation style={solid, rulegray, line width=0.3pt},
+    colback=white,
+    boxrule=0.3pt,
+    arc=2pt,
+    left=4pt,right=4pt,top=2pt,bottom=2pt,middle=4pt,
+    before skip=3pt, after skip=3pt,
+    breakable=false,
+    fonttitle=\sffamily\bfseries\footnotesize,
+    coltitle=white
+  }
+}
+
+\newtcolorbox{mdcard}[1]{cheatbase, colframe=mdblue!75,  colbacktitle=mdblue,   title=#1}
+\newtcolorbox{liacard}[1]{cheatbase, colframe=liagreen!75, colbacktitle=liagreen, title=#1}
+
+% Karte für die ganze Spaltenbreite (z. B. Mini-Kurs am Ende)
+\newtcolorbox{liawide}[1]{
+  enhanced,
+  colback=white,
+  colframe=liagreen!75,
+  boxrule=0.3pt, arc=2pt,
+  left=4pt,right=4pt,top=2pt,bottom=2pt,
+  before skip=3pt, after skip=0pt,
+  breakable=false,
+  fonttitle=\sffamily\bfseries\footnotesize,
+  coltitle=white, colbacktitle=liagreen, title=#1
+}
+
+% Info-Box ohne sidebyside (für Tools/Templates-Spalten unten)
+\tcbset{
+  infobase/.style={
+    enhanced, colback=white,
+    boxrule=0.3pt, arc=2pt,
+    left=5pt,right=5pt,top=3pt,bottom=3pt,
+    before skip=3pt, after skip=0pt,
+    breakable=false,
+    fonttitle=\sffamily\bfseries\footnotesize, coltitle=white
+  }
+}
+\newtcolorbox{mdinfo}[1]{infobase, colframe=mdblue!75,    colbacktitle=mdblue,   title=#1}
+\newtcolorbox{liainfo}[1]{infobase, colframe=liagreen!75, colbacktitle=liagreen, title=#1}
+
+% Kleine Hilfsmacros für die "Wirkung"-Spalte
+\newcommand{\prevtxt}[1]{{\small #1}}
+\newcommand{\prevsm}[1]{{\footnotesize\color{muted} #1}}
+
+\pagestyle{empty}
+\begin{document}
+
+% =====================================================================
+% SEITE 1 — MARKDOWN
+% =====================================================================
+\noindent\begin{tcolorbox}[
+  enhanced, frame hidden, sharp corners,
+  colback=mdblue, coltext=white,
+  left=12pt, right=8pt, top=4pt, bottom=4pt,
+  before skip=0pt, after skip=4pt,
+  width=\linewidth,
+  borderline west={4pt}{-4pt}{mdblue!55}
+]
+\begin{minipage}[c]{0.66\linewidth}
+  {\sffamily\fontsize{26}{28}\selectfont\bfseries Markdown}\hspace{0.4em}%
+  {\sffamily\large\color{white!75} — die Basis}\\[2pt]
+  {\sffamily\footnotesize\itshape\color{white!90} Was jeder Markdown-Editor versteht — Grundlage für alle LiaScript-Dokumente.}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.20\linewidth}\raggedright
+  {\sffamily\scriptsize\color{white!85}\faGraduationCap~~Hands-on Lab~$\cdot$~BiblioCon 2026}\\[2pt]
+  {\sffamily\bfseries\normalsize Seite 1\,/\,2}\\[1pt]
+  {\sffamily\scriptsize\color{white!75} Markdown-Grundlagen}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.10\linewidth}\centering
+  {\color{black}\colorbox{white}{\hspace{1pt}\qrcode[height=1.55cm,nolinks]{https://liascript.github.io/LiveEditor/}\hspace{1pt}}}\\[1pt]
+  {\sffamily\scriptsize\color{white!90}\faEdit~Live-Editor}
+\end{minipage}
+\end{tcolorbox}
+
+% --- Tag für Aufgabenbezug (klein, oben rechts in der Titelzeile) ---
+\newcommand{\aufg}[1]{\hfill{\sffamily\scriptsize\color{white!85}\faTasks~A#1}}
+
+\begin{multicols}{3}
+
+% =====================================================================
+% Block A — Textauszeichnung & Struktur (Aufgaben 2-4)
+% =====================================================================
+
+% --- A2a. Textauszeichnung ------------------------------------------
+\begin{mdcard}{Textauszeichnung\aufg{2}}
+\begin{lstlisting}[language=lia]
+**fett**, *kursiv*,
+~~durchgestrichen~~,
+`Quellcode`
+\end{lstlisting}
+\tcblower
+\prevtxt{\textbf{fett}, \textit{kursiv},
+\sout{durchgestrichen}, \texttt{Quellcode}}
+\end{mdcard}
+
+% --- A2b. Absätze & Trennlinie --------------------------------------
+\begin{mdcard}{Absätze \& Trennlinie\aufg{2}}
+\begin{lstlisting}[language=lia]
+Erster Absatz.
+
+Zweiter Absatz nach
+einer Leerzeile.
+
+---
+\end{lstlisting}
+\tcblower
+\prevtxt{Erster Absatz.\\[3pt]
+Zweiter Absatz nach einer Leerzeile.\\[2pt]
+\textcolor{rulegray}{\hrulefill}}
+\end{mdcard}
+
+% --- A3. Überschriften ----------------------------------------------
+\begin{mdcard}{Überschriften\aufg{3}}
+\begin{lstlisting}[language=lia]
+# Kapitel
+## Abschnitt
+### Unterabschnitt
+#### Detail
+\end{lstlisting}
+\tcblower
+{\large\bfseries Kapitel}\par\vspace{1pt}
+{\normalsize\bfseries Abschnitt}\par\vspace{1pt}
+{\small\bfseries Unterabschnitt}\par\vspace{1pt}
+{\footnotesize\bfseries Detail}
+\end{mdcard}
+
+% --- A4. Listen -----------------------------------------------------
+\begin{mdcard}{Listen\aufg{4}}
+\begin{lstlisting}[language=lia]
+- erstens
+- zweitens
+
+  - eingerueckt
+
+- drittens
+
+1. eins
+2. zwei
+\end{lstlisting}
+\tcblower
+\prevtxt{%
+$\bullet$ erstens\\
+$\bullet$ zweitens\\[2pt]
+\hspace*{1em}$\circ$ eingerückt\\[2pt]
+$\bullet$ drittens\\[3pt]
+1. eins\\
+2. zwei\\[2pt]
+{\scriptsize\color{muted}Untergeordnete Listen um \textbf{2 Zeichen} einrücken.}}
+\end{mdcard}
+
+% =====================================================================
+% Block B — Tabellen, Code & Formeln (Aufgaben 5-6)
+% =====================================================================
+
+% --- A5. Tabellen ---------------------------------------------------
+\begin{mdcard}{Tabellen\aufg{5}}
+\begin{lstlisting}[language=lia]
+| Operator | Wirkung      |
+|:---------|:------------:|
+| AND      | verkleinert  |
+| OR       | vergroessert |
+| NOT      | schliesst aus|
+\end{lstlisting}
+\tcblower
+\prevtxt{%
+\renewcommand{\arraystretch}{1.05}%
+\begin{tabular}{|l|c|}\hline
+\textbf{Operator} & \textbf{Wirkung}\\\hline
+AND & verkleinert\\
+OR  & vergrößert\\
+NOT & schließt aus\\\hline
+\end{tabular}\\[2pt]
+{\scriptsize\color{muted}\texttt{:--} links, \texttt{:--:} zentriert, \texttt{--:} rechts}}
+\end{mdcard}
+
+% --- A6a. Inline-Code & Codeblock -----------------------------------
+\begin{mdcard}{Inline-Code \& Codeblock\aufg{6}}
+\begin{lstlisting}[language=lia]
+Operatoren wie `AND`
+und `OR` als Code.
+
+```python
+print("Hallo")
+```
+\end{lstlisting}
+\tcblower
+\prevtxt{Operatoren wie \texttt{\small AND}
+und \texttt{\small OR} als Code.\\[3pt]
+\colorbox{codebg}{\parbox{0.85\linewidth}{\ttfamily\scriptsize print("Hallo")}}}
+\end{mdcard}
+
+% --- A6b. Mathematik ------------------------------------------------
+\begin{mdcard}{Mathematische Formeln\aufg{6}}
+\begin{lstlisting}[language=lia]
+Inline: $A \land B$
+
+Block:
+$$\neg A \lor (B \land C)$$
+\end{lstlisting}
+\tcblower
+\prevtxt{Inline: $A \land B$\\[3pt]
+Block:\\
+$\displaystyle \neg A \lor (B \land C)$\\[3pt]
+{\scriptsize\color{muted}\texttt{\textbackslash land}~$\land$,\,
+\texttt{\textbackslash lor}~$\lor$,\,
+\texttt{\textbackslash neg}~$\neg$}}
+\end{mdcard}
+
+% =====================================================================
+% Block C — Links, Bilder, Hinweise (Aufgaben 7-8)
+% =====================================================================
+
+% --- A7a. Links ------------------------------------------------------
+\begin{mdcard}{Links\aufg{7}}
+\begin{lstlisting}[language=lia]
+[Beschreibung](https://...)
+
+<https://example.org>
+\end{lstlisting}
+\tcblower
+\prevtxt{\textcolor{mdblue}{\underline{Beschreibung}}\\[2pt]
+\textcolor{mdblue}{\underline{https://example.org}}\\[3pt]
+{\scriptsize\color{muted}Sprechende Beschreibung erleichtert die Orientierung.}}
+\end{mdcard}
+
+% --- A7b. Bilder -----------------------------------------------------
+\begin{mdcard}{Bilder\aufg{7}}
+\begin{lstlisting}[language=lia]
+![Alt-Text](pfad/bild.png)
+
+![Venn-Diagramm AND/OR](
+  https://.../venn.svg)
+\end{lstlisting}
+\tcblower
+\prevtxt{\fbox{\rule{0pt}{1.2em}\hspace{1.2em}{\scriptsize\color{muted}Bild}\hspace{1.2em}}\\[2pt]
+{\scriptsize\color{muted}\textit{Alt-Text in eckigen Klammern — wichtig für Barrierefreiheit.}}}
+\end{mdcard}
+
+% --- A8. Zitate & Hinweise -----------------------------------------
+\begin{mdcard}{Zitate \& Hinweise\aufg{8}}
+\begin{lstlisting}[language=lia]
+> Ein einfaches Zitat.
+
+> [!NOTE]    blau
+> [!TIP]     gruen
+> [!IMPORTANT] lila
+> [!WARNING] orange
+> [!CAUTION] rot
+\end{lstlisting}
+\tcblower
+\prevtxt{%
+\textcolor{rulegray}{\rule{1pt}{1.1em}}\hspace{4pt}\textit{Ein einfaches Zitat.}\\[2pt]
+\textcolor{mdblue}{\rule{1pt}{1.0em}}\hspace{3pt}{\scriptsize\textbf{NOTE}\,/\,\textbf{TIP}\,/\,\textbf{IMPORTANT}}\\
+\hspace*{8pt}{\scriptsize\textbf{WARNING}\,/\,\textbf{CAUTION}}\\
+\hspace*{8pt}{\scriptsize Folgezeilen = Inhalt der Box.}}
+\end{mdcard}
+
+% =====================================================================
+% Block D — Referenz-Karten (in den Aufgaben nicht zwingend gebraucht)
+% =====================================================================
+
+% --- R1. Aufgabenliste / Checkboxen ---------------------------------
+\begin{mdcard}{Aufgabenliste}
+\begin{lstlisting}[language=lia]
+- [x] erledigt
+- [ ] offen
+- [ ] noch offen
+\end{lstlisting}
+\tcblower
+\prevtxt{%
+\faCheckSquare~erledigt\\
+\faSquare~offen\\
+\faSquare~noch offen}
+\end{mdcard}
+
+% --- R2. Fußnoten ---------------------------------------------------
+\begin{mdcard}{Fußnoten}
+\begin{lstlisting}[language=lia]
+Wichtig[^1] zum Lernen.
+
+[^1]: Quelle: ...
+\end{lstlisting}
+\tcblower
+\prevtxt{Wichtig\textsuperscript{\textcolor{mdblue}{1}} zum Lernen.\\[3pt]
+{\scriptsize \textsuperscript{1}~Quelle: \dots}}
+\end{mdcard}
+
+% --- R3. Definitionslisten ------------------------------------------
+\begin{mdcard}{Definitionen}
+\begin{lstlisting}[language=lia]
+OER
+: Open Educational
+  Resources
+
+AND
+: Boole'scher Operator
+  fuer Schnittmenge.
+\end{lstlisting}
+\tcblower
+\prevtxt{\textbf{OER}\\
+\hspace*{1em}Open Educational Resources\\[3pt]
+\textbf{AND}\\
+\hspace*{1em}Boole'scher Operator für Schnittmenge.}
+\end{mdcard}
+
+% --- R4. HTML & Sonderzeichen ---------------------------------------
+\begin{mdcard}{HTML \& Sonderzeichen}
+\begin{lstlisting}[language=lia]
+<u>unterstrichen</u>
+<br>  Zeilenumbruch
+\* kein Listenpunkt
+\end{lstlisting}
+\tcblower
+\prevtxt{\underline{unterstrichen}\\
+{\scriptsize\color{muted}(Zeilenumbruch)}\\
+*~kein Listenpunkt\\[2pt]
+{\scriptsize\color{muted}Backslash escapt Markdown-Sonderzeichen.}}
+\end{mdcard}
+
+\end{multicols}
+
+% --- Untere Zeile: Werkzeuge & Editoren (volle Breite) -------------
+\noindent
+\begin{mdinfo}{\faToolbox~~Werkzeuge \& Editoren für Markdown}
+\footnotesize
+\begin{minipage}[t]{0.24\linewidth}
+\textbf{\color{mdblue}Lokale Editoren}\\[1pt]
+$\bullet$~VS Code \textit{(+ Markdown All in One)}\\
+$\bullet$~Obsidian, Typora, Marktext
+\end{minipage}\hfill
+\begin{minipage}[t]{0.22\linewidth}
+\textbf{\color{mdblue}Online \& kollaborativ}\\[1pt]
+$\bullet$~dillinger.io, stackedit.io\\
+$\bullet$~hackmd.io \textit{(kollaborativ)}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.24\linewidth}
+\textbf{\color{mdblue}Konvertieren \& Qualität}\\[1pt]
+$\bullet$~\texttt{pandoc} → HTML, PDF, DOCX, EPUB\\
+$\bullet$~\texttt{markdownlint}, \texttt{prettier}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.25\linewidth}
+\textbf{\color{mdblue}Versionierung}\\[1pt]
+$\bullet$~Git \& GitHub/GitLab rendern Markdown direkt\\
+$\bullet$~Tabellen: \texttt{tablesgenerator.com/markdown}
+\end{minipage}
+\end{mdinfo}
+
+\vfill
+{\sffamily\scriptsize\color{muted}
+\faInfoCircle~Live ausprobieren: \textbf{liascript.github.io/LiveEditor}\hfill
+\faGithub~Quellcode: \textbf{github.com/LiaPlayground/Bibliocon2026}}
+
+\newpage
+
+% =====================================================================
+% SEITE 2 — LIASCRIPT
+% =====================================================================
+\noindent\begin{tcolorbox}[
+  enhanced, frame hidden, sharp corners,
+  colback=liagreen, coltext=white,
+  left=12pt, right=8pt, top=4pt, bottom=4pt,
+  before skip=0pt, after skip=4pt,
+  width=\linewidth,
+  borderline west={4pt}{-4pt}{liagreen!55}
+]
+\begin{minipage}[c]{0.66\linewidth}
+  {\sffamily\fontsize{26}{28}\selectfont\bfseries LiaScript}\hspace{0.4em}%
+  {\sffamily\large\color{white!75} — die Erweiterungen}\\[2pt]
+  {\sffamily\footnotesize\itshape\color{white!90} Alles, was Markdown allein nicht kann: Quiz, Animationen, ausführbarer Code, Sprache.}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.20\linewidth}\raggedright
+  {\sffamily\scriptsize\color{white!85}\faGraduationCap~~Hands-on Lab~$\cdot$~BiblioCon 2026}\\[2pt]
+  {\sffamily\bfseries\normalsize Seite 2\,/\,2}\\[1pt]
+  {\sffamily\scriptsize\color{white!75} Erweiterungen \& Interaktion}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.10\linewidth}\centering
+  {\color{black}\colorbox{white}{\hspace{1pt}\qrcode[height=1.55cm,nolinks]{https://github.com/LiaPlayground/Bibliocon2026}\hspace{1pt}}}\\[1pt]
+  {\sffamily\scriptsize\color{white!90}\faGithub~Workshop-Repo}
+\end{minipage}
+\end{tcolorbox}
+
+% --- Tag für Aufgabenbezug (grün, oben rechts im Karten-Titel) -----
+\newcommand{\aufglia}[1]{\hfill{\sffamily\scriptsize\color{white!85}\faTasks~A#1}}
+
+\begin{multicols}{3}
+
+% =====================================================================
+% Block A — Kursrahmen (Referenz, ohne direkten Aufgaben-Bezug)
+% =====================================================================
+
+% --- YAML-Header -----------------------------------------------------
+\begin{liacard}{YAML-Header\aufglia{1}}
+\begin{lstlisting}[language=lia]
+<!--
+author:   Maria Muster
+language: de
+narrator: Deutsch Female
+import:   https://github.com/
+          LiaTemplates/Pyodide
+-->
+\end{lstlisting}
+\tcblower
+\prevsm{Steht ganz oben im Dokument.\\
+Definiert Autor:in, Sprache, Stimme
+und externe Bausteine (\textit{Imports}).}
+\end{liacard}
+
+% =====================================================================
+% Block B — LiaScript-Erweiterungen (Aufgaben 9-11)
+% =====================================================================
+
+% --- A9a. Medien abspielbar -----------------------------------------
+\begin{liacard}{Medien abspielbar\aufglia{9}}
+\begin{lstlisting}[language=lia]
+!?[Titel](https://www.youtube
+.com/watch?v=VIDEO_ID)
+
+!?[Audio](datei.mp3)
+\end{lstlisting}
+\tcblower
+\prevsm{\faYoutube~YouTube, Vimeo, MP4
+und MP3 werden direkt eingebettet.\\[2pt]
+\textbf{!?} statt \textbf{!} = abspielbar.}
+\end{liacard}
+
+% --- A9b. Eingebettete Ressource ------------------------------------
+\begin{liacard}{Eingebettete Ressource\aufglia{9}}
+\begin{lstlisting}[language=lia]
+??[Katalog](https://kxp.k10plus.de)
+
+??[Spezifikation](
+  https://dublincore.org/...)
+\end{lstlisting}
+\tcblower
+\prevsm{\faWindowMaximize~Erkennt automatisch
+das Format (YouTube, PDF, GeoGebra,
+oEmbed, \dots) -- iframe nur als
+Fallback.\\[2pt]
+\textbf{??} statt \textbf{?} = eingebettet
+statt nur verlinkt.}
+\end{liacard}
+
+% --- A10. Animation / Click-Reveal ----------------------------------
+\begin{liacard}{Animation \& Click-Reveal\aufglia{10}}
+\begin{lstlisting}[language=lia]
+Sofort sichtbar.
+
+{{1}}
+Erst nach einem Klick.
+
+{{2}}
+Nach dem zweiten Klick.
+\end{lstlisting}
+\tcblower
+\prevsm{Sofort sichtbar.\\
+{\color{rulegray}---}\\
+\faMousePointer~nach 1. Klick: \textit{\dots}\\
+\faMousePointer~nach 2. Klick: \textit{\dots}}
+\end{liacard}
+
+% --- A11. Sprecher-Text ---------------------------------------------
+\begin{liacard}{Sprecher-Text (TTS)\aufglia{11}}
+\begin{lstlisting}[language=lia]
+## Folie
+         --{{0}}--
+Dieser Text wird vorgelesen,
+sobald die Folie erscheint.
+\end{lstlisting}
+\tcblower
+\prevsm{\faVolumeUp~Wird automatisch
+gesprochen.\\
+\texttt{\{\{0\}\}}~=~beim Öffnen,
+\texttt{\{\{1\}\}}~=~nach 1.~Klick~\dots\\[2pt]
+{\footnotesize Stimme im Header: \texttt{narrator:}}}
+\end{liacard}
+
+% =====================================================================
+% Block C — Quizze (Aufgaben 12-13)
+% =====================================================================
+
+% --- A12. Freitext --------------------------------------------------
+\begin{liacard}{Quiz: Freitext\aufglia{12}}
+\begin{lstlisting}[language=lia]
+Welcher Operator verkleinert
+die Treffermenge?
+[[AND]]
+[[?]] Beide Begriffe muessen
+      vorkommen.
+\end{lstlisting}
+\tcblower
+\prevsm{Welcher Operator verkleinert die Treffermenge?\\[2pt]
+\fbox{\strut\hspace{6em}}\\[3pt]
+\faQuestionCircle~Hinweis (\texttt{[[?]]}, klappbar)\\[2pt]
+{\footnotesize Mehrere gültige Antworten: weitere \texttt{[[\dots]]} anhängen.}}
+\end{liacard}
+
+% --- A13a. Single-Choice --------------------------------------------
+\begin{liacard}{Quiz: Single-Choice\aufglia{13}}
+\begin{lstlisting}[language=lia]
+- [( )] falsch
+- [(X)] richtig
+- [[?]] Hinweis
+*******************
+
+Bravo, alles richtig!
+
+*******************
+\end{lstlisting}
+\tcblower
+\prevsm{$\circ$~falsch\\
+$\bullet$~\textbf{richtig}\\
+\faQuestionCircle~Hinweis (klappbar)\\[3pt]
+{\footnotesize\color{liagreen}\faCheck~\textit{Bravo, alles richtig!}}\\[2pt]
+{\footnotesize Lösungsblock nach \texttt{*****}\,---\,erscheint erst bei korrekter Antwort.}}
+\end{liacard}
+
+% --- A13b. Multiple-Choice ------------------------------------------
+\begin{liacard}{Quiz: Multiple-Choice\aufglia{13}}
+\begin{lstlisting}[language=lia]
+- [[X]] vergroessert Treffer
+- [[X]] verknuepft Synonyme
+- [[ ]] schliesst Begriffe aus
+- [[X]] ist Vereinigungsmenge
+\end{lstlisting}
+\tcblower
+\prevsm{\faCheckSquare~vergrößert Treffer\\
+\faCheckSquare~verknüpft Synonyme\\
+\faSquare~schließt Begriffe aus\\
+\faCheckSquare~ist Vereinigungsmenge\\[2pt]
+{\footnotesize \texttt{[[X]]} = beliebig viele richtig.}}
+\end{liacard}
+
+% =====================================================================
+% Block D — Diagramme, Zitation & Templates (Aufgaben 14-15)
+% =====================================================================
+
+% --- A14. Diagramme (Mermaid) ---------------------------------------
+\begin{liacard}{Diagramme (Mermaid)\aufglia{14}}
+\begin{lstlisting}[language=lia]
+```mermaid @mermaid
+graph TD
+A --> B((OR))
+B --> C[Bibliothek]
+B --> D[Lesesaal]
+```
+\end{lstlisting}
+\tcblower
+\prevsm{\faProjectDiagram~Mermaid, ABC-Musik,
+Plot, ASCII-Art --- alles inline.\\[2pt]
+{\footnotesize \textbf{Header:} \texttt{import:}\\
+\texttt{.../liaScript/mermaid\_template}}}
+\end{liacard}
+
+% --- A15. Zitation & BibTeX -----------------------------------------
+\begin{liacard}{Zitation \& BibTeX\aufglia{15}}
+\begin{lstlisting}[language=lia]
+Siehe @cite{gantert2016}.
+
+```bib
+@book{gantert2016,
+  author = {Klaus Gantert},
+  title  = {Bibl. Grundwissen},
+  year   = {2016}
+}
+```
+\end{lstlisting}
+\tcblower
+\prevsm{Siehe \textcolor{liagreen}{[Gantert 2016]}.\\[3pt]
+{\footnotesize BibTeX-Block am Ende des Dokuments —
+LiaScript erzeugt automatisch das Literaturverzeichnis.}}
+\end{liacard}
+
+% --- Code ausführen (Pyodide) — Referenz aus Phase 1 ----------------
+\begin{liacard}{Code ausführen}
+\begin{lstlisting}[language=lia]
+```python
+zahlen = [1,2,3,4,5]
+print(sum(zahlen))
+```
+@Pyodide.eval
+\end{lstlisting}
+\tcblower
+\prevsm{\colorbox{codebg}{\parbox{0.85\linewidth}{\ttfamily\scriptsize zahlen = [1,2,3,4,5]\\print(sum(zahlen))}}\\[2pt]
+\faPlay~\textbf{Run}~~\textcolor{liagreen}{\texttt{> 15}}\\[2pt]
+{\footnotesize Setzt \texttt{Pyodide}-Import voraus.}}
+\end{liacard}
+
+\end{multicols}
+
+% --- Untere Zeile: LiaScript-Templates (volle Breite) ---------------
+\noindent
+\begin{liainfo}{\faPuzzlePiece~~LiaScript-Templates — im Header per \texttt{import:} einbinden (Auswahl aus \texttt{github.com/LiaTemplates})}
+\footnotesize
+\begin{minipage}[t]{0.24\linewidth}
+\textbf{\color{liagreen}\faTerminal~~Code ausführen}\\[1pt]
+$\bullet$~\texttt{Pyodide}~–~Python\\
+$\bullet$~\texttt{Skulpt}~–~Python (leichter)\\
+$\bullet$~\texttt{Lua}~–~Lua\\
+$\bullet$~\texttt{JSCPP}~–~C++\\
+$\bullet$~\texttt{Tau-Prolog}~–~Prolog
+\end{minipage}\hfill
+\begin{minipage}[t]{0.24\linewidth}
+\textbf{\color{liagreen}\faChartBar~~Visualisieren}\\[1pt]
+$\bullet$~\texttt{mermaid\_template}~–~Diagramme\\
+$\bullet$~\texttt{JSXGraph}~–~Mathematik\\
+$\bullet$~\texttt{Vega}~–~Datenvisualisierung\\
+$\bullet$~\texttt{Tikz-Jax}~–~Tikz-Grafiken\\
+$\bullet$~\texttt{ABCjs}~–~Musiknotation
+\end{minipage}\hfill
+\begin{minipage}[t]{0.24\linewidth}
+\textbf{\color{liagreen}\faDatabase~~Daten \& Bibliothek}\\[1pt]
+$\bullet$~\texttt{citations}~–~BibTeX/CSL\\
+$\bullet$~\texttt{Wikimedia}~–~Commons-Einbettung\\
+$\bullet$~\texttt{Comunica}~–~SPARQL / Linked Data\\
+$\bullet$~\texttt{AlaSQL}~/~\texttt{SQLite}~–~SQL\\
+$\bullet$~\texttt{Random}~–~Quiz-Banken
+\end{minipage}\hfill
+\begin{minipage}[t]{0.24\linewidth}
+\textbf{\color{liagreen}\faGithub~~Übersicht}\\[1pt]
+$\bullet$~\texttt{github.com/LiaTemplates}\\
+$\bullet$~\texttt{github.com/LiaTemplates/Index}\\
+$\bullet$~\texttt{github.com/LiaPlayground}\\
+$\bullet$~Live-Editor:\\
+\hspace*{0.6em}\texttt{liascript.github.io/LiveEditor}
+\end{minipage}
+\end{liainfo}
+
+\vspace{4pt}
+{\sffamily\scriptsize\color{muted}
+\faInfoCircle~Live-Editor: \textbf{liascript.github.io/LiveEditor}\hfill
+\faBook~Doku: \textbf{liascript.github.io}\hfill
+\faGithub~\textbf{github.com/LiaScript} \quad
+CC-BY-SA 4.0 — Sebastian Zug, BiblioCon 2026}
+
+\end{document}

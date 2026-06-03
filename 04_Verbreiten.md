@@ -1,0 +1,143 @@
+<!--
+author:   Sebastian Zug, André Dietrich, Anja Hawlitschek und Anja Schulz
+
+email:    sebastian.zug@informatik.tu-freiberg.de
+
+version:  0.1.0
+
+language: de
+
+narrator: Deutsch Male
+
+mode:     Presentation
+
+date:     22/05/2026
+
+comment:  Phase 4 des Hands-on Lab "Interaktive OER für die
+          Bibliothekspraxis – Lernmaterialien mit LiaScript kollaborativ
+          erstellen" auf der Bibliocon 2026 (Freitag, 22.05.2026).
+          Verbreiten und Disseminierung eigener Kurse - 15 Minuten.
+
+repository: https://github.com/LiaPlayground/Bibliocon2026
+
+attribute: LiaScript im Bibliotheksalltag
+           von Sebastian Zug, André Dietrich,
+           Anja Hawlitschek und Anja Schulz
+           ist lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+link:     ../style.css
+
+-->
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Bibliocon2026/main/LiaScript_BiblioCon_Workshop/04_Verbreiten.md)
+
+# Verbreiten von LiaScript-Kursen
+
+> <h2>Phase 4 des OER BiblioCon-Workshops</h2>
+>
+> <div style="height: 2.5em;"></div>
+>
+> <h4>Prof. Dr. Sebastian Zug, TU Bergakademie Freiberg</h4>
+> <h4>Dr. André Dietrich, TU Bergakademie Freiberg</h4>
+> <h4>Dr. Anja Hawlitschek, Otto-von-Guericke-Universität Magdeburg</h4>
+> <h4>Dr. Anja Schulz, Hochschuldidaktik Sachsen</h4>
+>
+> <h4>22. Mai 2026</h4>
+
+--------------------------------------------
+
+## Worum geht es in diesen 15 Minuten?
+
+Sie haben in [Phase 3](03_Anwenden.md) Ihren eigenen Kurs gebaut — jetzt geht es darum, ihn aus dem LiveEditor herauszubekommen und mit anderen zu teilen. Konkret klären wir:
+
+- Wie kommt Ihr Kurs aus dem LiveEditor zu einer Kollegin in einem anderen Haus?
+- Welcher Weg passt zu welchem Szenario — schnelle Vorschau, vollständiger Kurs, LMS-Integration?
+- Was bleibt von den 5V-Freiheiten in jedem Verbreitungsweg erhalten?
+
+> [!NOTE]
+> Viele der Schritte, die Sie in [Phase 3](03_Anwenden.md) selbst durchgeführt haben, übernehmen in entsprechenden Editoren KIs. Das heißt: Sie müssen nicht mehr wissen, *wie* man Markdown schreibt, um einen interaktiven Kurs zu erstellen. Sie müssen nur noch wissen, *was* Sie vermitteln wollen — und die KI erledigt den Rest.
+
+## Vier Verbreitungswege im Überblick
+
+In [Phase 2](02_Verstehen.md) haben wir festgehalten: Ein LiaScript-Kurs ist eine einzelne Markdown-Datei, die im Browser ausgeführt wird. Diese Eigenschaft eröffnet vier sehr unterschiedliche Verbreitungswege — von der niedrigschwelligen URL bis zum vollwertigen SCORM-Paket.
+
+| Weg                 | Was wird geteilt?              | Wofür geeignet?                                          |
+| ------------------- | ------------------------------ | -------------------------------------------------------- |
+| **Data-URI**        | Ein Link, der den Kurs enthält | Schnelle Vorschau, kurze Materialien, Versand per Mail   |
+| **ZIP-Export**      | Alle Dateien als Archiv        | Vollständige Kurse mit Bildern, lokale Nutzung           |
+| **Git-Repository**  | Quelle auf GitHub/GitLab       | Kollaborative Entwicklung, Versionierung, dauerhafter Link |
+| **SCORM-Paket**     | LMS-fähiges Lernpaket          | Integration in Moodle, OPAL, ILIAS — inkl. Lernstand     |
+
+## 1. Verbreitung per Data-URI
+
+> [!TIP]
+> **Definition** Eine Data-URI ist ein Link, der den vollständigen Kursinhalt direkt in der URL transportiert — keine zusätzliche Datei, kein Server, kein Hosting nötig.
+
+Rufen Sie im LiveEditor das Menü auf und lassen Sie sich eine entsprechende URL generieren. Diese URL können Sie per E-Mail, Chat oder QR-Code weitergeben — beim Öffnen erscheint der vollständige Kurs im LiaScript-Player.
+
+> [!NOTE]
+> **Worauf Sie achten sollten:** Data-URIs werden mit zunehmender Kurslänge sehr lang. Für kurze Materialien (wenige Seiten Text, keine eingebetteten Bilder) ein eleganter Weg — für umfangreichere Kurse stoßen Sie an die URL-Längen­grenzen mancher Mailprogramme und Browser.
+
+## 2. Verbreitung per ZIP-Datei
+
+Im LiaLiveEditor können Sie Ihren Kurs als ZIP-Datei exportieren. Diese Archivdatei enthält alle notwendigen Dateien: die Markdown-Quelle, eingebettete Bilder, lokal referenzierte Ressourcen. Die ZIP-Datei können Sie dann beliebig verbreiten — per Mail, über einen Cloudspeicher, in einem Repositorium.
+
+> [!IMPORTANT]
+> **So öffnen die Empfängerinnen und Empfänger das ZIP:** Die ZIP-Datei wird **nicht entpackt**, sondern direkt per Drag & Drop in den LiveEditor gezogen — entweder auf [liascript.github.io/LiveEditor](https://liascript.github.io/LiveEditor/) oder in das eigene lokale LiveEditor-Fenster. Der Editor liest das Archiv ein, stellt die Quelle her und schaltet anschließend in den Player-Modus.
+
+> [!NOTE]
+> **Worauf Sie achten sollten:** Ein direktes Laden per URL (also `liascript.github.io/course/?<zip-url>`) funktioniert *nicht* — der Player erwartet an dieser Stelle eine Markdown-Datei, kein Archiv. Wenn Sie also Cloudspeicher oder Mail nutzen, geben Sie immer auch den Hinweis weiter: *ZIP herunterladen, dann in den LiveEditor ziehen*.
+
+> [!IMPORTANT]
+> **Der entscheidende Vorteil:** Empfängerinnen und Empfänger erhalten die *Quelle* — also den vollen Markdown-Text. Damit greifen alle fünf V-Freiheiten aus [Phase 2](02_Verstehen.md): verwahren, verwenden, verarbeiten, vermischen, verbreiten.
+
+## 3. Verbreitung über GitHub oder GitLab
+
+Der schmalste Bauplan eines LiaScript-Kurses ist eine einzige Markdown-Datei — und genau das macht Git-Plattformen wie **GitHub** oder **GitLab** zum natürlichen Zuhause für Ihre Materialien. Sie legen den Kurs als Datei in ein Repository, und der LiaScript-Player rendert ihn direkt aus der **Raw-URL** des Repositorys.
+
+> [!TIP]
+> **Das Muster:** Hängen Sie die Raw-URL Ihrer Markdown-Datei an den Player-Pfad an:
+>
+> `https://liascript.github.io/course/?` + Raw-URL
+>
+> Genau dieses Muster nutzt auch der Badge oben auf jeder Workshop-Phase — schauen Sie sich den Link einmal genauer an.
+
+> [!NOTE]
+> **Worauf Sie achten sollten:** Sie brauchen die *Raw-Ansicht* der Datei (auf GitHub den Button „Raw", auf GitLab den Link „Raw" bzw. den `/-/raw/`-Pfad), nicht die hübsch gerenderte Vorschau im Repository.
+
+### Was Sie dadurch gewinnen
+
+- **Versionierung:** Jede Änderung ist nachvollziehbar — Sie können jederzeit zu einer früheren Fassung zurückkehren.
+- **Kollaboration:** Kolleginnen aus anderen Häusern können per *Pull Request* Verbesserungen vorschlagen, ohne dass Sie ihnen Schreibrechte geben müssen.
+- **Dauerhafter Link:** Die URL Ihres Kurses ändert sich nicht — auch wenn Sie Inhalte aktualisieren. Lehrende, die den Link in ihre Moodle-Seite einbinden, müssen nichts nachpflegen.
+- **Tag-basierte Stabilität:** Wenn Sie auf einen *Tag* statt auf `main` verlinken (siehe [Phase 2, `import:`](02_Verstehen.md)), bekommen Lernende eine eingefrorene Fassung — auch wenn Sie parallel weiterarbeiten.
+
+> [!IMPORTANT]
+> **Das ist der OER-Königsweg:** Repository = Quelle + Historie + Lizenz + Zusammenarbeitsplattform in einem. Die fünf V-Freiheiten greifen hier vollständig — und das *kollaborativ*, nicht nur als einseitige Weitergabe.
+
+> [!TIP]
+> Den Quelltext dieses Workshops finden Sie unter [github.com/LiaPlayground/Bibliocon2026](https://github.com/LiaPlayground/Bibliocon2026) — ein Beispiel, wie ein Repository einen kompletten Mehr-Phasen-Kurs strukturiert.
+
+## 4. Export als SCORM-Paket
+
+Mit dem LiaScript Exporter können Sie Ihren Kurs als **SCORM-Paket** exportieren. Dieses Paket lässt sich in jedes LMS hochladen, das SCORM unterstützt — also in Moodle, OPAL, ILIAS und vergleichbare Systeme.
+
+> [!NOTE]
+> **Warum das wichtig ist:** SCORM ist der Standard, mit dem Lernmanagementsysteme Inhalte einlesen *und gleichzeitig Lernstand erfassen* — also etwa, ob ein Quiz bearbeitet wurde, welche Antworten gegeben wurden, ob ein Kurs als „abgeschlossen" gilt. Genau diese Anbindung an die LMS-Verwaltung bekommt Ihr LiaScript-Kurs mit dem SCORM-Export — ohne dass der Inhalt seine Markdown-Quelle verliert.
+
+> [!TIP]
+> Auf dem Konferenz-Repository finden Sie im Ordner [exports/](exports/) bereits fertige SCORM-Pakete der Workshop-Phasen — als Vorlage und zum Ausprobieren in Ihrem eigenen LMS.
+
+## Zusammengefasst
+
+> [!TIP]
+> 1. **Data-URI:** Ein Link — ideal für kurze Materialien und schnelle Vorschau.
+> 2. **ZIP-Export:** Die vollständige Quelle als Archiv — ideal für OER-Weiternutzung ohne Online-Anbindung.
+> 3. **Git-Repository:** Quelle plus Historie plus Lizenz — ideal für gemeinschaftliche Pflege und stabile Links.
+> 4. **SCORM-Paket:** Die LMS-Integration — ideal, wenn Anmeldung, Tracking und Notenvergabe gefragt sind.
+>
+> **Die OER-Pointe bleibt erhalten:** In allen vier Wegen reist der Markdown-Quelltext mit. Wer Ihren Kurs erhält, kann ihn anpassen, weiterentwickeln und in eigenen Kontexten wiederverwenden — genau das macht ihn zur echten Open Educational Resource.
+
+## Lizenz
+
+Dieses Material steht unter [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).

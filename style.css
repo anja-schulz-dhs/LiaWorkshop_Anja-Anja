@@ -1,0 +1,42 @@
+/* ---------------------------------------------------------------
+ * Bibliocon 2026 — Hands-on Lab
+ * Gemeinsames Stylesheet für den Hauptkurs und das Demo-Modul.
+ * ------------------------------------------------------------- */
+
+/* --- Layout: Zweispalter für Titelblätter ---------------------- */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    gap: 20px;
+}
+
+.flex-child {
+    flex: 1;
+    margin-right: 20px;
+}
+
+@media (max-width: 600px) {
+    .flex-child {
+        flex: 100%;
+        margin-right: 0;
+    }
+}
+
+/* --- Hervorhebung: offene Autoren-Notizen / TODOs -------------- */
+.todo-note {
+    background: #fdecea;
+    border-left: 4px solid #c0392b;
+    padding: 0.6em 1em;
+    color: #8e2a1e;
+}
+
+/* --- Klickbares Venn-Diagramm im Recherche-Abschnitt ----------- */
+.boole-venn a {
+    cursor: pointer;
+    transition: fill-opacity 0.2s ease;
+}
+
+.boole-venn a:hover circle {
+    fill-opacity: 0.85;
+}
