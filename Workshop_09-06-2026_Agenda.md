@@ -20,7 +20,10 @@ attribute: Lehre aktivierend gestalten mit LiaScript
 
 # Herzlich Willkommen zum Online-Workshop "Lehre aktivierend gestalten mit LiaScript"!
 
-__Workshopleitung:__ [Dr. Anja Schulz](mailto:anja.schulz@hd-sachsen.de) ([HDS](https://www.hd-sachsen.de/), [Dr. Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) ([eSALSA](https://www.esalsa.ovgu.de/)), [Prof. Dr. Sebastian Zug](mailto:Sebastian.Zug@informatik.tu-freiberg.de) ([TU Bergakademie Freiberg](https://tu-freiberg.de/soro)
+__Workshopleitung:__ 
+- [Dr. Anja Schulz](mailto:anja.schulz@hd-sachsen.de) ([Hochschuldidaktik Sachsen](https://www.hd-sachsen.de/))
+- [Dr. Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) ([eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA)](https://www.esalsa.ovgu.de/))
+- [Prof. Dr. Sebastian Zug](mailto:Sebastian.Zug@informatik.tu-freiberg.de) ([TU Bergakademie Freiberg](https://tu-freiberg.de/soro))
 
 __Termin:__ 09.06.2026 | 09:00-12:15 Uhr
 
