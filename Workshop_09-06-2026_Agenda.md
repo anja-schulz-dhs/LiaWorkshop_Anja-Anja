@@ -1,3 +1,23 @@
+<!--
+author:   Sebastian Zug, Anja Hawlitschek und Anja Schulz
+
+version:  0.1.0
+
+language: de
+
+narrator: Deutsch Male
+
+mode:     Presentation
+
+date:     03/06/2026
+
+attribute: Lehre aktivierend gestalten mit LiaScript
+           von Anja Schulz, Anja Hawlitschek und Sebastian Zug           
+           ist lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+-->
+
+
 # Herzlichen Willkommen zum Workshop "Lehre aktivierend gestalten mit LiaScript"!
 
 ![](Medien/da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
