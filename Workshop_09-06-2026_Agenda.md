@@ -27,11 +27,12 @@ __Workshopleitung:__
 - [Dr. Anja Hawlitschek](mailto:anja.hawlitschek@ovgu.de) | [eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA)](https://www.esalsa.ovgu.de/)
 - [Prof. Dr. Sebastian Zug](mailto:Sebastian.Zug@informatik.tu-freiberg.de) | [TU Bergakademie Freiberg](https://tu-freiberg.de/soro)
 
+---
+
 __Termin:__ 09.06.2026 | 09:00-12:15 Uhr
 
 
-## Ablauf
-
+# Ablauf
 
 | Phase | Zeit   | Ziele      |
 | -------- | -------- | ------------ |
@@ -82,3 +83,11 @@ Ziel: Sie erstellen Ihr erstes
 ## Verbreiten: Kurse mit Lehrenden, Lernenden oder der LiaScript-Community teilen
 
 ## Feedback für uns
+
+# Herzlichen Dank für Ihre Teilnahme! 🙏
+
+_Der gemeinsame Online-Workshop entstand in Kooperation der [Hochschuldidaktik Sachsen](https://www.hd-sachsen.de/), der [eService-Agentur der Hochschulen im Land Sachsen-Anhalt (eSALSA) an der Universität Magdeburg](https://www.esalsa.ovgu.de/) und der [Professur für Softwaretechnologie und Robotik der TU Bergakademie Freiberg](https://tu-freiberg.de/soro)._
+
+---
+
+![](Medien/Logos)
