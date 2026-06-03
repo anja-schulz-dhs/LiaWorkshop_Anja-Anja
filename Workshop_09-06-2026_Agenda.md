@@ -1,7 +1,10 @@
-# Workshop: Lehre aktivierend gestalten mit LiaScript
+# Herzlichen Willkommen zum Workshop "Lehre aktivierend gestalten mit LiaScript"!
+
 ![](Medien/da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
-09.06.2026 | 09:00-12:15 Uhr | Workshopleitung:
-Dr. Anja Schulz (HDS), Dr. Anja Hawlitschek (eSALSA), Prof. Dr. Sebastian Zug (TU-BAF)
+
+09.06.2026 | 09:00-12:15 Uhr | 
+
+Workshopleitung: Dr. Anja Schulz (HDS), Dr. Anja Hawlitschek (eSALSA), Prof. Dr. Sebastian Zug (TU-BAF)
 
 ## Ablauf
 
