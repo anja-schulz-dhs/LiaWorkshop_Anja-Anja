@@ -74,10 +74,10 @@ __Termin:__ 09.06.2026 | 09:00-12:15 Uhr
 
 | Phase          | Material                                                                                                                                                                                |
 | :------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Erleben**    | [Selbstlernangebot "Gestaltung lernwirksamer Lehr-Lernaktivitäten und Lehr-Lernmaterialien"](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_Anja-Anja/refs/heads/main/README.md#1) |
-| **Verstehen**  | [LiaScriptVortragMotivation]([https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Bibliocon2026/main/LiaScript_BiblioCon_Workshop/02_Verstehen.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_HDS-eSALSA/refs/heads/main/02_Verstehen.md#1)) als OER                         |
-| **Anwenden**   | im LiaScript Live Editor                          |
-| **Verbreiten** | [LiaScriptVortragDissemination](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_HDS-eSALSA/refs/heads/main/04_Verbreiten.md#1)                          |
+| **0 Erleben**    | [Selbstlernangebot "Gestaltung lernwirksamer Lehr-Lernaktivitäten und Lehr-Lernmaterialien"](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_Anja-Anja/refs/heads/main/README.md#1) |
+| **2/3 Verstehen**  | [LiaScriptVortragMotivation](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_HDS-eSALSA/refs/heads/main/02_Verstehen.md#1) als OER                         |
+| **3/4 Anwenden**   | im LiaScript Live Editor                          |
+| **5/8 Verbreiten** | [LiaScriptVortragDissemination](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_HDS-eSALSA/refs/heads/main/04_Verbreiten.md#1)                          |
 
 
 
