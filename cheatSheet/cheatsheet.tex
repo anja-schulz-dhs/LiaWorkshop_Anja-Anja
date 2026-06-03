@@ -150,6 +150,8 @@
 
 % --- Tag für Aufgabenbezug (klein, oben rechts in der Titelzeile) ---
 \newcommand{\aufg}[1]{\hfill{\sffamily\scriptsize\color{white!85}\faTasks~A#1}}
+\newcommand{\aufm}[1]{\hfill{\sffamily\scriptsize\color{white!85}\faTasks~M#1}}
+\newcommand{\aufl}[1]{\hfill{\sffamily\scriptsize\color{white!85}\faTasks~L#1}}
 
 \begin{multicols}{3}
 
@@ -157,8 +159,10 @@
 % Block A — Textauszeichnung & Struktur (Aufgaben 2-4)
 % =====================================================================
 
-% --- A2a. Textauszeichnung ------------------------------------------
-\begin{mdcard}{Textauszeichnung\aufg{2}}
+%%% --- A2a. Textauszeichnung ------------------------------------------
+% --- M1. Textauszeichnung ------------------------------------------
+%\begin{mdcard}{Textauszeichnung\aufg{2}}
+\begin{mdcard}{Textauszeichnung\aufm{1}}
 \begin{lstlisting}[language=lia]
 **fett**, *kursiv*,
 ~~durchgestrichen~~,
@@ -169,8 +173,10 @@
 \sout{durchgestrichen}, \texttt{Quellcode}}
 \end{mdcard}
 
-% --- A2b. Absätze & Trennlinie --------------------------------------
-\begin{mdcard}{Absätze \& Trennlinie\aufg{2}}
+%%% --- A2b. Absätze & Trennlinie --------------------------------------
+% --- M2 Absätze & Trennlinie --------------------------------------
+%\begin{mdcard}{Absätze \& Trennlinie\aufg{2}}
+\begin{mdcard}{Absätze \& Trennlinie\aufm{2}}
 \begin{lstlisting}[language=lia]
 Erster Absatz.
 
@@ -185,8 +191,10 @@ Zweiter Absatz nach einer Leerzeile.\\[2pt]
 \textcolor{rulegray}{\hrulefill}}
 \end{mdcard}
 
-% --- A3. Überschriften ----------------------------------------------
-\begin{mdcard}{Überschriften\aufg{3}}
+%%% --- A3. Überschriften ----------------------------------------------
+% --- M3. Überschriften ----------------------------------------------
+%\begin{mdcard}{Überschriften\aufg{3}}
+\begin{mdcard}{Überschriften\aufm{3}}
 \begin{lstlisting}[language=lia]
 # Kapitel
 ## Abschnitt
@@ -200,8 +208,10 @@ Zweiter Absatz nach einer Leerzeile.\\[2pt]
 {\footnotesize\bfseries Detail}
 \end{mdcard}
 
-% --- A4. Listen -----------------------------------------------------
-\begin{mdcard}{Listen\aufg{4}}
+%%% --- A4. Listen -----------------------------------------------------
+% --- M4 Listen -----------------------------------------------------
+%\begin{mdcard}{Listen\aufg{4}}
+\begin{mdcard}{Listen\aufm{4}}
 \begin{lstlisting}[language=lia]
 - erstens
 - zweitens
@@ -228,8 +238,10 @@ $\bullet$ drittens\\[3pt]
 % Block B — Tabellen, Code & Formeln (Aufgaben 5-6)
 % =====================================================================
 
-% --- A5. Tabellen ---------------------------------------------------
-\begin{mdcard}{Tabellen\aufg{5}}
+%%% --- A5. Tabellen ---------------------------------------------------
+% --- M5 Tabellen ---------------------------------------------------
+%\begin{mdcard}{Tabellen\aufg{5}}
+\begin{mdcard}{Tabellen\aufm{5}}
 \begin{lstlisting}[language=lia]
 | Operator | Wirkung      |
 |:---------|:------------:|
@@ -249,8 +261,10 @@ NOT & schließt aus\\\hline
 {\scriptsize\color{muted}\texttt{:--} links, \texttt{:--:} zentriert, \texttt{--:} rechts}}
 \end{mdcard}
 
-% --- A6a. Inline-Code & Codeblock -----------------------------------
-\begin{mdcard}{Inline-Code \& Codeblock\aufg{6}}
+%%% --- A6a. Inline-Code & Codeblock -----------------------------------
+% --- M6 Inline-Code & Codeblock -----------------------------------
+%\begin{mdcard}{Inline-Code \& Codeblock\aufg{6}}
+\begin{mdcard}{Inline-Code \& Codeblock\aufm{6}}
 \begin{lstlisting}[language=lia]
 Operatoren wie `AND`
 und `OR` als Code.
@@ -265,8 +279,10 @@ und \texttt{\small OR} als Code.\\[3pt]
 \colorbox{codebg}{\parbox{0.85\linewidth}{\ttfamily\scriptsize print("Hallo")}}}
 \end{mdcard}
 
-% --- A6b. Mathematik ------------------------------------------------
-\begin{mdcard}{Mathematische Formeln\aufg{6}}
+%%% --- A6b. Mathematik ------------------------------------------------
+% --- M7 Mathematik ------------------------------------------------
+%\begin{mdcard}{Mathematische Formeln\aufg{6}}
+\begin{mdcard}{Mathematische Formeln\aufm{7}}
 \begin{lstlisting}[language=lia]
 Inline: $A \land B$
 
@@ -286,8 +302,10 @@ $\displaystyle \neg A \lor (B \land C)$\\[3pt]
 % Block C — Links, Bilder, Hinweise (Aufgaben 7-8)
 % =====================================================================
 
-% --- A7a. Links ------------------------------------------------------
-\begin{mdcard}{Links\aufg{7}}
+%%% --- A7a. Links ------------------------------------------------------
+% --- M8 Links ------------------------------------------------------
+%\begin{mdcard}{Links\aufg{7}}
+\begin{mdcard}{Links\aufm{8}}
 \begin{lstlisting}[language=lia]
 [Beschreibung](https://...)
 
@@ -299,8 +317,10 @@ $\displaystyle \neg A \lor (B \land C)$\\[3pt]
 {\scriptsize\color{muted}Sprechende Beschreibung erleichtert die Orientierung.}}
 \end{mdcard}
 
-% --- A7b. Bilder -----------------------------------------------------
-\begin{mdcard}{Bilder\aufg{7}}
+%%% --- A7b. Bilder -----------------------------------------------------
+% --- M9 Bilder -----------------------------------------------------
+%\begin{mdcard}{Bilder\aufg{7}}
+\begin{mdcard}{Bilder\aufm{9}}
 \begin{lstlisting}[language=lia]
 ![Alt-Text](pfad/bild.png)
 
@@ -312,8 +332,10 @@ $\displaystyle \neg A \lor (B \land C)$\\[3pt]
 {\scriptsize\color{muted}\textit{Alt-Text in eckigen Klammern — wichtig für Barrierefreiheit.}}}
 \end{mdcard}
 
-% --- A8. Zitate & Hinweise -----------------------------------------
-\begin{mdcard}{Zitate \& Hinweise\aufg{8}}
+%%% --- A8. Zitate & Hinweise -----------------------------------------
+% --- M10 Zitate & Hinweise -----------------------------------------
+%\begin{mdcard}{Zitate \& Hinweise\aufg{8}}
+\begin{mdcard}{Zitate \& Hinweise\aufm{10}}
 \begin{lstlisting}[language=lia]
 > Ein einfaches Zitat.
 
@@ -335,8 +357,10 @@ $\displaystyle \neg A \lor (B \land C)$\\[3pt]
 % Block D — Referenz-Karten (in den Aufgaben nicht zwingend gebraucht)
 % =====================================================================
 
-% --- R1. Aufgabenliste / Checkboxen ---------------------------------
-\begin{mdcard}{Aufgabenliste}
+%%% --- R1. Aufgabenliste / Checkboxen ---------------------------------
+% --- M11 Aufgabenliste / Checkboxen ---------------------------------
+%\begin{mdcard}{Aufgabenliste}
+\begin{mdcard}{Aufgabenliste\aufm{11}}
 \begin{lstlisting}[language=lia]
 - [x] erledigt
 - [ ] offen
@@ -349,8 +373,10 @@ $\displaystyle \neg A \lor (B \land C)$\\[3pt]
 \faSquare~noch offen}
 \end{mdcard}
 
-% --- R2. Fußnoten ---------------------------------------------------
-\begin{mdcard}{Fußnoten}
+%%% --- R2. Fußnoten ---------------------------------------------------
+% --- M12 Fußnoten ---------------------------------------------------
+%\begin{mdcard}{Fußnoten}
+\begin{mdcard}{Fußnoten\aufm{12}}
 \begin{lstlisting}[language=lia]
 Wichtig[^1] zum Lernen.
 
@@ -362,7 +388,9 @@ Wichtig[^1] zum Lernen.
 \end{mdcard}
 
 % --- R3. Definitionslisten ------------------------------------------
-\begin{mdcard}{Definitionen}
+% --- M13 Definitionslisten ------------------------------------------
+%\begin{mdcard}{Definitionen}
+\begin{mdcard}{Definitionen\aufm{13}}
 \begin{lstlisting}[language=lia]
 OER
 : Open Educational
@@ -379,8 +407,10 @@ AND
 \hspace*{1em}Boole'scher Operator für Schnittmenge.}
 \end{mdcard}
 
-% --- R4. HTML & Sonderzeichen ---------------------------------------
-\begin{mdcard}{HTML \& Sonderzeichen}
+%%% --- R4. HTML & Sonderzeichen ---------------------------------------
+% --- M14 HTML & Sonderzeichen ---------------------------------------
+%\begin{mdcard}{HTML \& Sonderzeichen}
+\begin{mdcard}{HTML \& Sonderzeichen\aufm{14}}
 \begin{lstlisting}[language=lia]
 <u>unterstrichen</u>
 <br>  Zeilenumbruch
@@ -464,8 +494,10 @@ $\bullet$~Tabellen: \texttt{tablesgenerator.com/markdown}
 % Block A — Kursrahmen (Referenz, ohne direkten Aufgaben-Bezug)
 % =====================================================================
 
-% --- YAML-Header -----------------------------------------------------
-\begin{liacard}{YAML-Header\aufglia{1}}
+%%% --- YAML-Header -----------------------------------------------------
+% --- L1 YAML-Header -----------------------------------------------------
+%\begin{liacard}{YAML-Header\aufglia{1}}
+\begin{liacard}{YAML-Header\aufgl{1}}
 \begin{lstlisting}[language=lia]
 <!--
 author:   Maria Muster
@@ -485,8 +517,10 @@ und externe Bausteine (\textit{Imports}).}
 % Block B — LiaScript-Erweiterungen (Aufgaben 9-11)
 % =====================================================================
 
-% --- A9a. Medien abspielbar -----------------------------------------
-\begin{liacard}{Medien abspielbar\aufglia{9}}
+%%% --- A9a. Medien abspielbar -----------------------------------------
+% --- L2 Medien abspielbar -----------------------------------------
+%\begin{liacard}{Medien abspielbar\aufglia{9}}
+\begin{liacard}{Medien abspielbar\aufgl{2}}
 \begin{lstlisting}[language=lia]
 !?[Titel](https://www.youtube
 .com/watch?v=VIDEO_ID)
@@ -499,8 +533,10 @@ und MP3 werden direkt eingebettet.\\[2pt]
 \textbf{!?} statt \textbf{!} = abspielbar.}
 \end{liacard}
 
-% --- A9b. Eingebettete Ressource ------------------------------------
-\begin{liacard}{Eingebettete Ressource\aufglia{9}}
+%%% --- A9b. Eingebettete Ressource ------------------------------------
+% --- L3 Eingebettete Ressource ------------------------------------
+%\begin{liacard}{Eingebettete Ressource\aufglia{9}}
+\begin{liacard}{Eingebettete Ressource\aufgl{3}}
 \begin{lstlisting}[language=lia]
 ??[Katalog](https://kxp.k10plus.de)
 
@@ -516,8 +552,10 @@ Fallback.\\[2pt]
 statt nur verlinkt.}
 \end{liacard}
 
-% --- A10. Animation / Click-Reveal ----------------------------------
-\begin{liacard}{Animation \& Click-Reveal\aufglia{10}}
+%%% --- A10. Animation / Click-Reveal ----------------------------------
+% --- L4 Animation / Click-Reveal ----------------------------------
+%\begin{liacard}{Animation \& Click-Reveal\aufglia{10}}
+\begin{liacard}{Animation \& Click-Reveal\aufgl{4}}
 \begin{lstlisting}[language=lia]
 Sofort sichtbar.
 
@@ -534,8 +572,10 @@ Nach dem zweiten Klick.
 \faMousePointer~nach 2. Klick: \textit{\dots}}
 \end{liacard}
 
-% --- A11. Sprecher-Text ---------------------------------------------
-\begin{liacard}{Sprecher-Text (TTS)\aufglia{11}}
+%%% --- A11. Sprecher-Text ---------------------------------------------
+% --- L5 Sprecher-Text ---------------------------------------------
+%\begin{liacard}{Sprecher-Text (TTS)\aufglia{11}}
+\begin{liacard}{Sprecher-Text (TTS)\aufgl{5}}
 \begin{lstlisting}[language=lia]
 ## Folie
          --{{0}}--
@@ -554,8 +594,10 @@ gesprochen.\\
 % Block C — Quizze (Aufgaben 12-13)
 % =====================================================================
 
-% --- A12. Freitext --------------------------------------------------
-\begin{liacard}{Quiz: Freitext\aufglia{12}}
+%%% --- A12. Freitext --------------------------------------------------
+% --- L6 Freitext --------------------------------------------------
+%\begin{liacard}{Quiz: Freitext\aufglia{12}}
+\begin{liacard}{Quiz: Freitext\aufgl{6}}
 \begin{lstlisting}[language=lia]
 Welcher Operator verkleinert
 die Treffermenge?
@@ -570,8 +612,10 @@ die Treffermenge?
 {\footnotesize Mehrere gültige Antworten: weitere \texttt{[[\dots]]} anhängen.}}
 \end{liacard}
 
-% --- A13a. Single-Choice --------------------------------------------
-\begin{liacard}{Quiz: Single-Choice\aufglia{13}}
+%%% --- A13a. Single-Choice --------------------------------------------
+% --- L7 Single-Choice --------------------------------------------
+%\begin{liacard}{Quiz: Single-Choice\aufglia{13}}
+\begin{liacard}{Quiz: Single-Choice\aufgl{7}}
 \begin{lstlisting}[language=lia]
 - [( )] falsch
 - [(X)] richtig
@@ -590,8 +634,10 @@ $\bullet$~\textbf{richtig}\\
 {\footnotesize Lösungsblock nach \texttt{*****}\,---\,erscheint erst bei korrekter Antwort.}}
 \end{liacard}
 
-% --- A13b. Multiple-Choice ------------------------------------------
-\begin{liacard}{Quiz: Multiple-Choice\aufglia{13}}
+%%% --- A13b. Multiple-Choice ------------------------------------------
+% --- L8 Multiple-Choice ------------------------------------------
+%\begin{liacard}{Quiz: Multiple-Choice\aufglia{13}}
+\begin{liacard}{Quiz: Multiple-Choice\aufgl{8}}
 \begin{lstlisting}[language=lia]
 - [[X]] vergroessert Treffer
 - [[X]] verknuepft Synonyme
@@ -610,8 +656,10 @@ $\bullet$~\textbf{richtig}\\
 % Block D — Diagramme, Zitation & Templates (Aufgaben 14-15)
 % =====================================================================
 
-% --- A14. Diagramme (Mermaid) ---------------------------------------
-\begin{liacard}{Diagramme (Mermaid)\aufglia{14}}
+%%% --- A14. Diagramme (Mermaid) ---------------------------------------
+% --- L9 Diagramme (Mermaid) ---------------------------------------
+%\begin{liacard}{Diagramme (Mermaid)\aufglia{14}}
+\begin{liacard}{Diagramme (Mermaid)\aufgl{9}}
 \begin{lstlisting}[language=lia]
 ```mermaid @mermaid
 graph TD
@@ -627,8 +675,10 @@ Plot, ASCII-Art --- alles inline.\\[2pt]
 \texttt{.../liaScript/mermaid\_template}}}
 \end{liacard}
 
-% --- A15. Zitation & BibTeX -----------------------------------------
-\begin{liacard}{Zitation \& BibTeX\aufglia{15}}
+%%% --- A15. Zitation & BibTeX -----------------------------------------
+% --- L10 Zitation & BibTeX -----------------------------------------
+%\begin{liacard}{Zitation \& BibTeX\aufglia{15}}
+\begin{liacard}{Zitation \& BibTeX\aufgl{10}}
 \begin{lstlisting}[language=lia]
 Siehe @cite{gantert2016}.
 
@@ -646,8 +696,10 @@ Siehe @cite{gantert2016}.
 LiaScript erzeugt automatisch das Literaturverzeichnis.}}
 \end{liacard}
 
-% --- Code ausführen (Pyodide) — Referenz aus Phase 1 ----------------
-\begin{liacard}{Code ausführen}
+%%% --- Code ausführen (Pyodide) — Referenz aus Phase 1 ----------------
+% --- L 11 Code ausführen (Pyodide) — Referenz aus Phase 1 ----------------
+%\begin{liacard}{Code ausführen}
+\begin{liacard}{Code ausführen\aufgl{11}}
 \begin{lstlisting}[language=lia]
 ```python
 zahlen = [1,2,3,4,5]
