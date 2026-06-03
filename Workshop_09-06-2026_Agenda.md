@@ -18,7 +18,9 @@ attribute: Lehre aktivierend gestalten mit LiaScript
 -->
 
 
-# Herzlich Willkommen zum Online-Workshop "Lehre aktivierend gestalten mit LiaScript"!
+# Lehre aktivierend gestalten mit LiaScript
+
+__Herzlich Willkommen zum Online-Workshop!__
 
 ![](Medien/da7c5d51e404feed80f7b43f1c56b4ea8ae6fede.png)
 
