@@ -88,12 +88,6 @@ __Termin:__ 09.06.2026 | 09:00-12:15 Uhr
 
 ## Verstehen: Methodik der Beschreibungssprache und die dahinterliegende Philosophie
 
-
----
-
-## Anwenden 2 - Weiterarbeiten am eigenen Material
-
-
 ## Reflektieren 2 - Stellen Sie Ihren Kurs kurz vor. Was hat Ihnen aus Lehrendenperspektive gefallen, was nicht?
 
 ## Verbreiten: Kurse mit Lehrenden, Lernenden oder der LiaScript-Community teilen
