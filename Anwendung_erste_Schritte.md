@@ -1,6 +1,6 @@
 # Phase Anwenden - Erste Schritte 
 
-![](Medien/Hand checklist on board. Orange color with flower.jpg)
+![](Medien/task.jpg)
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
 <br>
