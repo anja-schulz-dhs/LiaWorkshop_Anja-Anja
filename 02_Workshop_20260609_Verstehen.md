@@ -151,17 +151,17 @@ __Formatierter Text__
 
 Eine zentrale Voraussetzung für den Lernerfolg ist **kognitive Aktivierung**.
 
-$Lernerfolg$ — einfach in `$...$` setzen.
+Mathematik — einfach in `$...$` setzen.
 
 Die Lernwirksamkeit einer Lehrveranstaltung ist
 $L = \frac{\text{lernrelevante Aktivität}}{\text{gesamte Aktivität}}$
 
 __Tabellen__ — wie in Markdown gewohnt:
 
-| Lehr-Lernform                      | Besonders lernwirksam für ...      |
-| ---------------------------------- |:----------------------------------:|
-| direkte Instruktion                | Lernende mit wenig Vorwissen  |
-| konstruktivistische Methoden       | Lernende mit viel Vorwissen   |
+| Methode          | Lernende mit    |
+| -----------------|:---------------:|
+| Instruktion      | wenig Vorwissen |
+| Konstruktivismus | viel Vorwissen  |
 
 ```
 
