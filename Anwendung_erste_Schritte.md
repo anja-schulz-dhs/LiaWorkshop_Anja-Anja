@@ -5,7 +5,7 @@
 
 <br>
 
->[!NOTE] Ziel: Nach Anleitung und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript (20 Minuten).
+>Ziel: Nach Anleitung und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript (20 Minuten).
 
 __Arbeitsschritte:__
 
