@@ -6,6 +6,7 @@
 <br>
 
 >Ziel: Nach Anleitung und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
+
 >Zeit: 20 Minuten
 
 <br>
