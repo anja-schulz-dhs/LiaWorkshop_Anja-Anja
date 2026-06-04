@@ -5,7 +5,8 @@
 
 <br>
 
->Ziel: Nach Anleitung und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript (20 Minuten).
+>Ziel: Nach Anleitung und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
+>Zeit: 20 Minuten
 
 <br>
 
@@ -21,3 +22,5 @@ __Arbeitsschritte:__
 5. Versuchen Sie diese Seite mit Hervorhebungen visuell zu strukturieren.
 6. Zum Abschluss soll es noch um ein paar spezifischere Funktionalitäten gehen. Generieren Sie eine neue Seite und fügen Sie eine Tabelle und ein Quiz Ihrer Wahl ein.
 7. Sie haben noch Zeit? Probieren Sie andere Funktionalitäten aus, die sich interessant anhören! Finden Sie z. B. heraus, wie der "Graph" funktioniert?
+
+>Bei Fragen melden Sie sich jederzeit gern im Zoom-Raum bei uns!
