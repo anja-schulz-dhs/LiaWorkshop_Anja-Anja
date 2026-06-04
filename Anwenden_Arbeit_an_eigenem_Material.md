@@ -8,5 +8,11 @@
 
 __Aufgabenstellung:__ 
 
+Am Ende der vorgelagerten asynchronen Lernphase unseres Workshops hatten wir Sie im Rahmen der Transferaufgabe darum gebeten, ein eigenes Lehr-Lernmaterial oder ein Thema aus Ihrer Lehre auszuwählen, das Sie gern in LiaScript umsetzen oder überarbeiten möchten (z. B.  eine Präsentation für eine Vorlesung, Selbstlernmaterial, Übungsaufgaben). 
 
-Nutzen Sie gern weiterhin unser [CheatSheet](cheatSheet/cheatsheet.pdf)!
+Nun ist die Zeit gekommen, mit LiaScript an diesem Material zu arbeiten und erste Umsetzungen zu entwickeln.
+
+Berücksichtigen Sie dabei die Prinzipien zur lernwirksamen Gestaltung von Lehre, die für Sie bei der Weiterentwicklung/Neuentwicklung besonders wichtig waren!
+
+
+>Nutzen Sie gern weiterhin unser [CheatSheet](cheatSheet/cheatsheet.pdf)!
