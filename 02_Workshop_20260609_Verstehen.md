@@ -193,7 +193,8 @@ Klicken Sie sich durch:
 {{1}} Erst kommt diese Zeile,
 {{2}} dann diese,
 {{3}} und schließlich diese.
-```
+
+---
 
 > [!NOTE]
 > **Vergleich zum LMS-Ansatz:** Ein Moodle-Quiz lebt *in* Moodle. Verlassen Sie das System, ist die Aufgabe weg. Ein LiaScript-Quiz lebt im Markdown-Text — und reist überall mit.
@@ -215,7 +216,7 @@ Sie lehren in einem Studiengang, in dem auch Programmierfähigkeiten wichtig sin
 __Sprachausgabe__ — einfach per Tag:
 
 > {{|> Deutsch Female}}
-> Willkommen zur Bibliothekseinführung!
+> Willkommen zur Einführungsveranstaltung!
 
 __Templates__ 
 
