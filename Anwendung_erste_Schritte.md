@@ -3,7 +3,11 @@
 ![](Medien/task.jpg)
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
+<br>
+
 >Ziel: Nach Anleitung und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript (20 Minuten).
+
+<br>
 
 __Arbeitsschritte:__
 
