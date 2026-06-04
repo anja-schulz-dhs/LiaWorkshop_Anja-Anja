@@ -149,20 +149,21 @@ Markdown kennen Sie wahrscheinlich schon aus GitHub-READMEs, aus der Nextcloud, 
 
 __Formatierter Text__
 
-Recherchekompetenz ist eine **Schlüsselkompetenz**.
+**Kognitive Aktivierung** ist eine zentrale Voraussetzung für den Lernerfolg.
 
-__Mathematik__ — einfach in `$...$` setzen:
+__Lernerfolg__ — einfach in `$Lernerfolg$` setzen:
 
-Die Trefferquote ist $P = \frac{\text{relevant}}{\text{gefunden}}$.
+Die Lernwirksamkeit einer Lehrveranstaltung ist
+$L = \frac{\text{lernrelevante Aktivität}}{\text{gesamte Aktivität}}$
 
 __Tabellen__ — wie in Markdown gewohnt:
 
-| Operator | Wirkung      |
-| -------- |:------------:|
-| AND      | verkleinert  |
-| OR       | vergrößert   |
-| NOT      | wählerisch   |
-```
+| Lehr-Lernform                      | Besonders lernwirksam für ...      |
+| ---------------------------------- |:----------------------------------:|
+| direkte Instruktion                | Lernende mit wenig Vorwissen  |
+| konstruktivistische Methoden       | Lernende mit viel Vorwissen   |
+
+---
 
 > [!NOTE]
 > **Warum das für OER zentral ist:** Wer den Quelltext hat, hat alles. Es gibt keine proprietäre Datei, kein Layout, das beim Export verloren geht — der Markdown-Text *ist* das Material.
