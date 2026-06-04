@@ -149,9 +149,9 @@ Markdown kennen Sie wahrscheinlich schon aus GitHub-READMEs, aus der Nextcloud, 
 
 __Formatierter Text__
 
-**Kognitive Aktivierung** ist eine zentrale Voraussetzung für den Lernerfolg.
+Eine zentrale Voraussetzung für den Lernerfolg ist **kognitive Aktivierung**.
 
-__Lernerfolg__ — einfach in `$Lernerfolg$` setzen:
+$Lernerfolg$ — einfach in `$...$` setzen.
 
 Die Lernwirksamkeit einer Lehrveranstaltung ist
 $L = \frac{\text{lernrelevante Aktivität}}{\text{gesamte Aktivität}}$
