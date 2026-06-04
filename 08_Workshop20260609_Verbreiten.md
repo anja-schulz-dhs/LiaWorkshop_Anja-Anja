@@ -13,14 +13,12 @@ mode:     Presentation
 
 date:     22/05/2026
 
-comment:  Phase 4 des Hands-on Lab "Interaktive OER für die
-          Bibliothekspraxis – Lernmaterialien mit LiaScript kollaborativ
-          erstellen" auf der Bibliocon 2026 (Freitag, 22.05.2026).
+comment:  Phase 8 des Workshops "Lehre aktivierend gestalten mit LiaScript" (09.06.2026).
           Verbreiten und Disseminierung eigener Kurse - 15 Minuten.
 
 repository: https://github.com/LiaPlayground/Bibliocon2026
 
-attribute: LiaScript im Bibliotheksalltag
+attribute: Lehre aktivierend gestalten mit LiaScript
            von Sebastian Zug, André Dietrich,
            Anja Hawlitschek und Anja Schulz
            ist lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -29,37 +27,36 @@ link:     ../style.css
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Bibliocon2026/main/LiaScript_BiblioCon_Workshop/04_Verbreiten.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)]()
 
 # Verbreiten von LiaScript-Kursen
 
-> <h2>Phase 4 des OER BiblioCon-Workshops</h2>
+> <h2>Phase 8 des Workshops "Lehre aktivierend gestalten mit LiaScript"</h2>
 >
 > <div style="height: 2.5em;"></div>
 >
 > <h4>Prof. Dr. Sebastian Zug, TU Bergakademie Freiberg</h4>
-> <h4>Dr. André Dietrich, TU Bergakademie Freiberg</h4>
 > <h4>Dr. Anja Hawlitschek, Otto-von-Guericke-Universität Magdeburg</h4>
 > <h4>Dr. Anja Schulz, Hochschuldidaktik Sachsen</h4>
 >
-> <h4>22. Mai 2026</h4>
+> <h4>09.06.2026</h4>
 
 --------------------------------------------
 
 ## Worum geht es in diesen 15 Minuten?
 
-Sie haben in [Phase 3](03_Anwenden.md) Ihren eigenen Kurs gebaut — jetzt geht es darum, ihn aus dem LiveEditor herauszubekommen und mit anderen zu teilen. Konkret klären wir:
+Sie haben in Phase 6 Ihren eigenen Kurs gebaut — jetzt geht es darum, ihn aus dem LiveEditor herauszubekommen und mit anderen zu teilen. Konkret klären wir:
 
 - Wie kommt Ihr Kurs aus dem LiveEditor zu einer Kollegin in einem anderen Haus?
 - Welcher Weg passt zu welchem Szenario — schnelle Vorschau, vollständiger Kurs, LMS-Integration?
 - Was bleibt von den 5V-Freiheiten in jedem Verbreitungsweg erhalten?
 
 > [!NOTE]
-> Viele der Schritte, die Sie in [Phase 3](03_Anwenden.md) selbst durchgeführt haben, übernehmen in entsprechenden Editoren KIs. Das heißt: Sie müssen nicht mehr wissen, *wie* man Markdown schreibt, um einen interaktiven Kurs zu erstellen. Sie müssen nur noch wissen, *was* Sie vermitteln wollen — und die KI erledigt den Rest.
+> Viele der Schritte, die Sie in Phase 6 selbst durchgeführt haben, übernehmen in entsprechenden Editoren KIs. Das heißt: Sie müssen nicht mehr wissen, *wie* man Markdown schreibt, um einen interaktiven Kurs zu erstellen. Sie müssen nur noch wissen, *was* Sie vermitteln wollen — und die KI erledigt den Rest.
 
 ## Vier Verbreitungswege im Überblick
 
-In [Phase 2](02_Verstehen.md) haben wir festgehalten: Ein LiaScript-Kurs ist eine einzelne Markdown-Datei, die im Browser ausgeführt wird. Diese Eigenschaft eröffnet vier sehr unterschiedliche Verbreitungswege — von der niedrigschwelligen URL bis zum vollwertigen SCORM-Paket.
+In [Phase 3](03_Workshop_20260609_Verstehen.md) haben wir festgehalten: Ein LiaScript-Kurs ist eine einzelne Markdown-Datei, die im Browser ausgeführt wird. Diese Eigenschaft eröffnet vier sehr unterschiedliche Verbreitungswege — von der niedrigschwelligen URL bis zum vollwertigen SCORM-Paket.
 
 | Weg                 | Was wird geteilt?              | Wofür geeignet?                                          |
 | ------------------- | ------------------------------ | -------------------------------------------------------- |
@@ -89,7 +86,7 @@ Im LiaLiveEditor können Sie Ihren Kurs als ZIP-Datei exportieren. Diese Archivd
 > **Worauf Sie achten sollten:** Ein direktes Laden per URL (also `liascript.github.io/course/?<zip-url>`) funktioniert *nicht* — der Player erwartet an dieser Stelle eine Markdown-Datei, kein Archiv. Wenn Sie also Cloudspeicher oder Mail nutzen, geben Sie immer auch den Hinweis weiter: *ZIP herunterladen, dann in den LiveEditor ziehen*.
 
 > [!IMPORTANT]
-> **Der entscheidende Vorteil:** Empfängerinnen und Empfänger erhalten die *Quelle* — also den vollen Markdown-Text. Damit greifen alle fünf V-Freiheiten aus [Phase 2](02_Verstehen.md): verwahren, verwenden, verarbeiten, vermischen, verbreiten.
+> **Der entscheidende Vorteil:** Empfängerinnen und Empfänger erhalten die *Quelle* — also den vollen Markdown-Text. Damit greifen alle fünf V-Freiheiten aus [Phase 3](03_Workshop_20260609_Verstehen.md) auf: verwahren, verwenden, verarbeiten, vermischen, verbreiten.
 
 ## 3. Verbreitung über GitHub oder GitLab
 
@@ -110,13 +107,13 @@ Der schmalste Bauplan eines LiaScript-Kurses ist eine einzige Markdown-Datei —
 - **Versionierung:** Jede Änderung ist nachvollziehbar — Sie können jederzeit zu einer früheren Fassung zurückkehren.
 - **Kollaboration:** Kolleginnen aus anderen Häusern können per *Pull Request* Verbesserungen vorschlagen, ohne dass Sie ihnen Schreibrechte geben müssen.
 - **Dauerhafter Link:** Die URL Ihres Kurses ändert sich nicht — auch wenn Sie Inhalte aktualisieren. Lehrende, die den Link in ihre Moodle-Seite einbinden, müssen nichts nachpflegen.
-- **Tag-basierte Stabilität:** Wenn Sie auf einen *Tag* statt auf `main` verlinken (siehe [Phase 2, `import:`](02_Verstehen.md)), bekommen Lernende eine eingefrorene Fassung — auch wenn Sie parallel weiterarbeiten.
+- **Tag-basierte Stabilität:** Wenn Sie auf einen *Tag* statt auf `main` verlinken (siehe [Phase 2, `import:`](02_Verstehen.md)) [Phase 3, `import:`](03_Workshop_20260609_Verstehen.md), bekommen Lernende eine eingefrorene Fassung — auch wenn Sie parallel weiterarbeiten.
 
 > [!IMPORTANT]
 > **Das ist der OER-Königsweg:** Repository = Quelle + Historie + Lizenz + Zusammenarbeitsplattform in einem. Die fünf V-Freiheiten greifen hier vollständig — und das *kollaborativ*, nicht nur als einseitige Weitergabe.
 
 > [!TIP]
-> Den Quelltext dieses Workshops finden Sie unter [github.com/LiaPlayground/Bibliocon2026](https://github.com/LiaPlayground/Bibliocon2026) — ein Beispiel, wie ein Repository einen kompletten Mehr-Phasen-Kurs strukturiert.
+> Den Quelltext dieses Workshops finden Sie unter [????) — ein Beispiel, wie ein Repository einen kompletten Mehr-Phasen-Kurs strukturiert.
 
 ## 4. Export als SCORM-Paket
 
