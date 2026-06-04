@@ -163,7 +163,7 @@ __Tabellen__ — wie in Markdown gewohnt:
 | direkte Instruktion                | Lernende mit wenig Vorwissen  |
 | konstruktivistische Methoden       | Lernende mit viel Vorwissen   |
 
----
+```
 
 > [!NOTE]
 > **Warum das für OER zentral ist:** Wer den Quelltext hat, hat alles. Es gibt keine proprietäre Datei, kein Layout, das beim Export verloren geht — der Markdown-Text *ist* das Material.
@@ -195,7 +195,7 @@ Klicken Sie sich durch:
 {{2}} dann diese,
 {{3}} und schließlich diese.
 
----
+```
 
 > [!NOTE]
 > **Vergleich zum LMS-Ansatz:** Ein Moodle-Quiz lebt *in* Moodle. Verlassen Sie das System, ist die Aufgabe weg. Ein LiaScript-Quiz lebt im Markdown-Text — und reist überall mit.
