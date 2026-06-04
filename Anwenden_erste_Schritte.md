@@ -6,8 +6,9 @@
 <br>
 
 >Ziel: Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
+>
 >💡 Eine weitere Hilfe finden Sie ganz unten auf dieser Seite.
-
+>
 >Zeit: 20 Minuten
 
 <br>
@@ -31,12 +32,10 @@ Sie brauchen mehr Unterstützung? Wenn Sie auf die nächste Seite klicken, könn
  
 {{1}}
 >**Hilfe zur Umsetzung**
-
 >- Aufgabenschritt 2: M2-M3
 >- Aufgabenschritt 4: M4
 >- Aufgabenschritt 5: M1, M10
 >- Aufgabenschritt 6: M5, L6-L8
-
->Bei Fragen melden Sie sich jederzeit gern im Zoom-Raum bei uns!
+>Bei Fragen melden Sie sich auch jederzeit gern im Zoom-Raum bei uns!
 
 ---
