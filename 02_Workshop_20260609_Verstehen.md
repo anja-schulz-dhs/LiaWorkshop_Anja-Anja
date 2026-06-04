@@ -178,15 +178,12 @@ Im [Selbstlernkurs in Phase 0](https://liascript.github.io/course/?https://raw.g
 
 __Quiz mit Erklärung__
 
-Welches sind aus Ihrer Sicht relevante Faktoren, um den Lernerfolg Ihrer Studierenden zu fördern?
-- [[ ]]Inputs dürfen nicht länger als 10 bis 15 Minuten sein, um die Aufmerksamkeitsspanne nicht zu überschreiten.
-- [[X]]in Inputphasen sollten aktivierende Elemente integriert werden.
-- [[X]]Ziele von Lernaktivitäten sollten klar kommuniziert werden.
+Welches sind relevante Faktoren, um den Lernerfolg Ihrer Studierenden zu fördern?
 - [[ ]]Studierende merken sich Inhalte aus Vorträgen besonders schlecht, besser für den Lernerfolg ist es, wenn sie Dinge tun können.
 - [[X]]die Aktivierung des Vorwissens unterstützt Studierende bei der kognitiven Verarbeitung.
 - [[X]]je nach Vorwissen benötigen Studierende unterschiedlich viel didaktische Unterstützung.
 **************
-Sehr gut, Sie haben die Lernmythen richtig identifiziert!
+Sehr gut, Sie haben einen Lernmythos richtig identifiziert!
 **************
 
 __Animationsstufen__
