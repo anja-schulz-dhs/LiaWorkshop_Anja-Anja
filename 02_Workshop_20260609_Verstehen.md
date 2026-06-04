@@ -13,16 +13,14 @@ mode:     Presentation
 
 date:     22/05/2026
 
-comment:  Phase 2 des Hands-on Lab "Interaktive OER für die
-          Bibliothekspraxis – Lernmaterialien mit LiaScript kollaborativ
-          erstellen" auf der Bibliocon 2026 (Freitag, 22.05.2026).
-          Konzepte hinter LiaScript - 10 Minuten.
+comment:  Phase 2 des Workshops "Lehre interaktiv gestalten mit LiaScript" (09.06.2026).
+          Idee und Konzepte hinter LiaScript - 15 Minuten.
 
 repository: https://github.com/LiaPlayground/Bibliocon2026
 
 import:    https://raw.githubusercontent.com/LiaTemplates/LiveEdit-Embeddings/refs/tags/0.0.1/README.md
 
-attribute: LiaScript im Bibliotheksalltag
+attribute: "Idee und Konzepte hinter LiaScript"
            von Sebastian Zug, André Dietrich,
            Anja Hawlitschek und Anja Schulz
            ist lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -31,26 +29,25 @@ link:     ../style.css
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Bibliocon2026/main/LiaScript_BiblioCon_Workshop/02_Verstehen.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)]()
 
-# Konzepte hinter LiaScript
+# Idee und Konzepte hinter LiaScript
 
-> <h2>Phase 2 des OER BiblioCon-Workshops</h2>
+> <h2>Phase 2 des Workshops "Interaktive Lehre mit LiaScript</h2>
 >
 > <div style="height: 2.5em;"></div>
 >
 > <h4>Prof. Dr. Sebastian Zug, TU Bergakademie Freiberg</h4>
-> <h4>Dr. André Dietrich, TU Bergakademie Freiberg</h4>
 > <h4>Dr. Anja Hawlitschek, Otto-von-Guericke-Universität Magdeburg</h4>
 > <h4>Dr. Anja Schulz, Hochschuldidaktik Sachsen</h4>
 >
-> <h4>22. Mai 2026</h4>
+> <h4>09.06.2026</h4>
 
 --------------------------------------------
 
-## Worum geht es in diesen 10 Minuten?
+## Worum geht es in diesen 15 Minuten?
 
-Sie haben in [Phase 1](01_Erleben.md) erlebt, *was* mit LiaScript möglich ist — Quizze, ausführbarer Code, eingebettete Diagramme, Videos, alles in *einer* Seite. Jetzt geht es um das *Warum*:
+Sie haben in [Phase 0](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_Anja-Anja/refs/heads/main/README.md#1) einiges davon aus Lernendenperspektive kennengelernt, *was* mit LiaScript möglich ist — Quizze, eingebundene Videos, Tabellen, alles in *einer* Seite. Später haben Sie die Möglichkeit alles das - und wenn Sie es wollen noch mehr (z.B. Einbindung von ausführbarem Code, eingebettete Diagramme) - selber umzusetzen. Jetzt geht es jedoch erstmal um das *Warum*:
 
 - Welches Problem löst LiaScript eigentlich?
 - Warum reicht ein Lernmanagementsystem (Moodle, OPAL, ILIAS) nicht aus?
@@ -58,7 +55,7 @@ Sie haben in [Phase 1](01_Erleben.md) erlebt, *was* mit LiaScript möglich ist �
 
 ## Ausgangspunkt
 
->  <!-- Style="color:green" -->__Bibliothekarinnen und Bibliothekare möchten motivierende, interaktive Schulungsmaterialien anbieten — und mit Kolleginnen und Kollegen anderer Häuser teilen.__
+>  <!-- Style="color:green" -->__Lehrende möchten motivierende, interaktive Lehr-Lernmaterialien anbieten — und mit Kolleginnen und Kollegen anderer Hochschulen und mit ihren Studierenden teilen.__
 
                   {{0-1}}
 ********************************************
@@ -70,7 +67,7 @@ Sie haben in [Phase 1](01_Erleben.md) erlebt, *was* mit LiaScript möglich ist �
 + Bestehende Inhalte sind **nicht auf das eigene Haus zugeschnitten** — und lassen sich nur schwer anpassen.
 + Materialien aus Moodle/OPAL lassen sich **kaum aus dem System lösen** und in andere Kontexte überführen.
 
-> Welche weiteren Hemmnisse kennen Sie aus Ihrer Schulungspraxis?
+> Welche weiteren Hemmnisse kennen Sie aus Ihrer Lehrpraxis?
 
 ********************************************
 
@@ -127,7 +124,7 @@ Eine '''Bibliothek''' (von [[Altgriechische Sprache|altgriechisch]]
 [[Information]] vermittelt.
 ```
 
-Für **Lehr-/Schulungsmaterial** hat Wikitext aber entscheidende Schwächen:
+Für **Lehr-Lernmaterial** hat Wikitext aber entscheidende Schwächen:
 
 + keine **Interaktivität** (keine Quizze, kein ausführbarer Code, keine Lernstandserfassung),
 + keine **Lernpfad-Strukturen** (Animationen, gestufte Aufdeckung, Selbsttests),
@@ -141,7 +138,7 @@ Für **Lehr-/Schulungsmaterial** hat Wikitext aber entscheidende Schwächen:
 > [!IMPORTANT]
 > **LiaScript ist Markdown — erweitert um genau die Elemente, die für interaktive Lehre fehlen.**
 
-Markdown kennen Sie wahrscheinlich schon aus GitHub-READMEs, aus Obsidian oder aus dem Wikipedia-Editor. LiaScript nimmt diese vertraute Textsprache und ergänzt sie um **drei Kernkonzepte**.
+Markdown kennen Sie wahrscheinlich schon aus GitHub-READMEs, aus der Nextcloud, aus Obsidian oder aus dem Wikipedia-Editor. LiaScript nimmt diese vertraute Textsprache und ergänzt sie um **drei Kernkonzepte**.
 
 ### Konzept 1 — Trennung von Inhalt und Darstellung
 
@@ -174,18 +171,23 @@ __Tabellen__ — wie in Markdown gewohnt:
 
 > __Quizze, Animationen, Selbsttests sind keine Plugins — sie sind Teil der Auszeichnungssprache selbst.__
 
-In [Phase 1](01_Erleben.md) haben Sie drei Quiz-Formate gesehen (Einfachauswahl, Zahleneingabe, Mehrfachauswahl). Im Quelltext sind das **drei Zeilen Markdown** — keine Plugin-Installation, keine ID-Vergabe, keine Datenbank.
+Im [Selbstlernkurs in Phase 0](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_Anja-Anja/refs/heads/main/README.md#1) haben Sie bereits das MC-Quiz-Format ausprobiert. Im Quelltext sind das **wenige Zeilen Markdown** — keine Plugin-Installation, keine ID-Vergabe, keine Datenbank.
 
 ```markdown @embed.style(height: 600px; min-width: 100%; border: 1px black solid)
 # Lehre lebt von Interaktion
 
 __Quiz mit Erklärung__
 
-Welcher Boole'sche Operator verkleinert die Treffermenge?
-
-- [( )] OR
-- [(X)] AND
-- [( )] Beide
+Welches sind aus Ihrer Sicht relevante Faktoren, um den Lernerfolg Ihrer Studierenden zu fördern?
+- [[ ]]Inputs dürfen nicht länger als 10 bis 15 Minuten sein, um die Aufmerksamkeitsspanne nicht zu überschreiten.
+- [[X]]in Inputphasen sollten aktivierende Elemente integriert werden.
+- [[X]]Ziele von Lernaktivitäten sollten klar kommuniziert werden.
+- [[ ]]Studierende merken sich Inhalte aus Vorträgen besonders schlecht, besser für den Lernerfolg ist es, wenn sie Dinge tun können.
+- [[X]]die Aktivierung des Vorwissens unterstützt Studierende bei der kognitiven Verarbeitung.
+- [[X]]je nach Vorwissen benötigen Studierende unterschiedlich viel didaktische Unterstützung.
+**************
+Sehr gut, Sie haben die Lernmythen richtig identifiziert!
+**************
 
 __Animationsstufen__
 
@@ -203,7 +205,7 @@ Klicken Sie sich durch:
 
 > __Was der Browser kann, kann LiaScript. Und der Browser kann heute erstaunlich viel.__
 
-Erinnern Sie sich an den Python-Code in [Phase 1](01_Erleben.md)? Da lief **echtes Python** — im Browser, ohne Installation, ohne Server. Das ist kein LiaScript-Feature im engeren Sinn, sondern moderner Browser-Standard (WebAssembly, Pyodide). LiaScript bindet diese Fähigkeiten nur konsequent ein:
+Sie lehren in einem Studiengang, in dem auch Programmierfähigkeiten wichtig sind bzw. sind selber programmieraffin? Auch Code lässt sich in LiaScript ausführen — im Browser, ohne Installation, ohne Server. Das ist kein LiaScript-Feature im engeren Sinn, sondern moderner Browser-Standard (WebAssembly, Pyodide). LiaScript bindet diese Fähigkeiten nur konsequent ein:
 
 + **Code ausführen** — Python, JavaScript, C++, R, SQL, ...
 + **Sprachausgabe** — Texte vorlesen lassen (Barrierearmut)
