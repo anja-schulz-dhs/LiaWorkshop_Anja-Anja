@@ -24,7 +24,7 @@ __Arbeitsschritte:__
 4. Stellen Sie nun das Lernmaterial, dass Sie mit LiaScript erstellen wollen, auf der zweiten Seite kurz vor! Bauen Sie dafür einen Text mit Aufzählung oder ein anderes Inhaltselement Ihrer Wahl ein.
 5. Versuchen Sie diese Seite mit Hervorhebungen visuell zu strukturieren. 
 6. Zum Abschluss soll es noch um ein paar spezifischere Funktionalitäten gehen. Generieren Sie eine neue Seite und fügen Sie eine Tabelle und ein Quiz Ihrer Wahl zur Aktivierung Ihrer Lernenden ein. 
-7. Sie haben noch Zeit? Probieren Sie andere Funktionalitäten aus, die sich interessant anhören! Finden Sie z.B. heraus, wie der "Graph" funktioniert? 
+7. Sie haben noch Zeit? Probieren Sie andere Funktionalitäten aus, die sich interessant anhören! Sie könnten zum Beispiel versuchen Content zu erstellen, der sich erst nach einem weiteren Klick zeigt oder ein kurzes Video einzubetten oder ausführbaren Code einzubinden.  
 
 ---
 💡
