@@ -75,7 +75,7 @@ __Termin:__ 09.06.2026 | 09:00-12:15 Uhr
 | **0 Erleben**    | [Selbstlernangebot "Gestaltung lernwirksamer Lehr-Lernaktivitäten und Lehr-Lernmaterialien"](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_Anja-Anja/refs/heads/main/README.md#1) |
 | **1/2 Reflektieren**  | [TaskcardsBoard](https://uni-leipzig.taskcards.app/#/board/677796ea-0e93-4909-8a04-0842a2d487d4/view?token=ce2a513d-1c31-41f0-8f10-57e318e34fde)                       |
 | **2/3 Verstehen**  | [LiaScriptVortragMotivation](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_HDS-eSALSA/refs/heads/main/02_Verstehen.md#1) als OER                         |
-| **3/4 Anwenden**   | [Anleitung "erste Schritte"], [CheatSheet] und [Aufgabenstellung zur Arbeit am eigenen Lehr-Lernmaterial] im [LiaScript Live Editor](https://liascript.github.io/LiveEditor/)                          |
+| **3/4 Anwenden**   | [Anleitung "erste Schritte"], [CheatSheet](cheatSheet/cheatsheet.pdf) und [Aufgabenstellung zur Arbeit am eigenen Lehr-Lernmaterial] im [LiaScript Live Editor](https://liascript.github.io/LiveEditor/)                          |
 | **5/8 Verbreiten** | [LiaScriptVortragDissemination](https://liascript.github.io/course/?https://raw.githubusercontent.com/anja-schulz-dhs/LiaWorkshop_HDS-eSALSA/refs/heads/main/04_Verbreiten.md#1)                          |
 
 
