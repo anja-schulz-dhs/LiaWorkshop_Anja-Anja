@@ -13,7 +13,7 @@ mode:     Presentation
 
 date:     22/05/2026
 
-comment:  Phase 2 des Workshops "Lehre interaktiv gestalten mit LiaScript" (09.06.2026).
+comment:  Phase 3 ("Verstehen") des Workshops "Lehre interaktiv gestalten mit LiaScript" (09.06.2026).
           Idee und Konzepte hinter LiaScript - 15 Minuten.
 
 repository: https://github.com/LiaPlayground/Bibliocon2026
@@ -33,7 +33,7 @@ link:     ../style.css
 
 # Idee und Konzepte hinter LiaScript
 
-> <h2>Phase 2 des Workshops "Interaktive Lehre mit LiaScript</h2>
+> <h2>Phase 3 ("Verstehen") des Workshops "Interaktive Lehre mit LiaScript</h2>
 >
 > <div style="height: 2.5em;"></div>
 >
