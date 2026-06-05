@@ -25,7 +25,7 @@ __Typische Anwendungsfälle__
 - Sie möchten Kolleg*innen einen Entwurf zeigen aber nicht gemeinsam daran arbeiten (Szenario "Arbeitsansicht teilen").
 
 
-![Nutzung LiveEditor für zwei Szenarios](20ee8cb04f622a70d92f9a9cc2f78ad0d88a362c.png)
+![Nutzung LiveEditor für zwei Szenarios](Medien/LiveEditor_Szenarien.png)
 
 
 ---
