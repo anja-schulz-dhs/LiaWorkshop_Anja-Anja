@@ -10,6 +10,8 @@
 
 <br>
 
+---
+
 >Ziel: Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
 >
 >💡 Eine weitere Hilfe finden Sie ganz unten auf dieser Seite.
