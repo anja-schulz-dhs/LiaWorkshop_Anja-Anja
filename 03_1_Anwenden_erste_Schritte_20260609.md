@@ -7,6 +7,7 @@
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
 <br>
+<br>
 
 >__Ziel:__ Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
 >
