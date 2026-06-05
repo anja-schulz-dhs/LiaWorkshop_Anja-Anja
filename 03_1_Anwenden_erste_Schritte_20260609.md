@@ -8,9 +8,8 @@
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
 
-<br>
+<br/>
 
----
 
 >Ziel: Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
 >
@@ -35,7 +34,7 @@ __Arbeitsschritte:__
 
 ---
 💡
-Sie brauchen mehr Unterstützung? Wenn Sie auf die nächste Seite klicken, können Sie sich anzeigen lassen, wo Sie für die einzelnen Aufgabenschritt auf dem "CheatSheet" Lösungen finden! 
+Sie brauchen mehr Unterstützung? Wenn Sie auf die nächste Seite klicken, können Sie sich anzeigen lassen, wo Sie für die einzelnen Aufgabenschritte auf dem "CheatSheet" Lösungen finden! 
  
 {{1}}
 >**Hilfe zur Umsetzung**
@@ -44,6 +43,6 @@ Sie brauchen mehr Unterstützung? Wenn Sie auf die nächste Seite klicken, könn
 >- Aufgabenschritt 5: M1, M10
 >- Aufgabenschritt 6: M5, L6-L8
 >  
->Bei Fragen melden Sie sich auch jederzeit gern im Zoom-Raum bei uns!
+>Bei Fragen melden Sie sich auch jederzeit gern bei uns im Zoom-Raum!
 
 ---
