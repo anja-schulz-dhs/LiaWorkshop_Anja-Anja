@@ -2,8 +2,11 @@
 
 <img src="Medien/task.jpg" width="300"/>
 
+<br>
+
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
+<br>
 
 >__Ziel:__ Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
 >
@@ -26,6 +29,7 @@ __Arbeitsschritte:__
 6. Zum Abschluss soll es noch um ein paar spezifischere Funktionalitäten gehen. Generieren Sie eine neue Seite und fügen Sie eine Tabelle und ein Quiz Ihrer Wahl zur Aktivierung Ihrer Lernenden ein. 
 7. Sie haben noch Zeit? Probieren Sie andere Funktionalitäten aus, die sich interessant anhören! Sie könnten zum Beispiel versuchen Content zu erstellen, der sich erst nach einem weiteren Klick zeigt oder ein kurzes Video einzubetten oder ausführbaren Code einzubinden.  
 
+---
 
 >Bei Fragen melden Sie sich auch jederzeit gern bei uns im Zoom-Raum!
 
