@@ -1,5 +1,8 @@
 # Phase Anwenden - Arbeit an Ihrem eigenen Lehr-Lern-Material
 
+<img src="Medien/task.jpg" width="250"/>
+
+<a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
 >Ziel: Nun arbeiten Sie selbständig mit LiaScript an Ihrem eigenen Lehr-Lern-Material weiter. 
 
