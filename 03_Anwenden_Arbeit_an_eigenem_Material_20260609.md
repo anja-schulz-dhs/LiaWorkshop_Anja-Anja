@@ -1,4 +1,4 @@
-# Phase Anwenden - Arbeit an Ihrem eigenen Lehr-Lern-Material
+# Phase 3 "Anwenden" - Arbeit am eigenen Lehr-Lern-Material
 
 <img src="Medien/task.jpg" width="250"/>
 
