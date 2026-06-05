@@ -1,7 +1,9 @@
 # Phase Anwenden - Erste Schritte 
 
-![](Medien/task.jpg)
+<img src="Medien/task.jpg" width="250"/>
+
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
+
 
 <br>
 
