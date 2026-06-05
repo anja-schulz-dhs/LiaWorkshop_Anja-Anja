@@ -4,10 +4,13 @@
 
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
->Ziel: Nun arbeiten Sie selbständig mit LiaScript an Ihrem eigenen Lehr-Lern-Material weiter. 
+<br>
 
->Zeit: 40 Minuten
+>__Ziel:__ Nun arbeiten Sie selbständig mit LiaScript an Ihrem eigenen Lehr-Lern-Material weiter. 
 
+>__Zeit:__ 40 Minuten
+
+<br>
 
 __Aufgabenstellung:__ 
 
@@ -18,4 +21,4 @@ Nun ist die Zeit gekommen, mit LiaScript an diesem Material zu arbeiten und erst
 Berücksichtigen Sie dabei bitte die Prinzipien zur lernwirksamen Gestaltung von Lehre, die für Sie bei der Weiterentwicklung/Neuentwicklung besonders wichtig waren.
 Nutzen Sie auch gern weiterhin unser [CheatSheet](cheatSheet/cheatsheet.pdf).
 
->Bei Fragen melden Sie sich jederzeit gern im Zoom-Raum bei uns!
+>Bei Fragen melden Sie sich wieder jederzeit gern bei uns im Zoom-Raum!
