@@ -7,7 +7,6 @@
 <br>
 
 >__Ziel:__ Nun arbeiten Sie selbständig mit LiaScript an Ihrem eigenen Lehr-Lern-Material weiter. 
-
 >__Zeit:__ 40 Minuten
 
 <br>
