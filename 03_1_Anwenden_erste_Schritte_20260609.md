@@ -5,11 +5,11 @@
 <a href="https://www.vecteezy.com/vector-art/1222315-hand-holding-pencil-on-checklist">hand-holding-pencil-on-checklist Vectors by Vecteezy</a>
 
 
->Ziel: Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
+>__Ziel:__ Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
 >
 >💡 Eine weitere Hilfe finden Sie ganz unten auf dieser Seite.
 >
->Zeit: 20 Minuten
+>__Zeit:__ 20 Minuten
 
 <br>
 
@@ -26,6 +26,9 @@ __Arbeitsschritte:__
 6. Zum Abschluss soll es noch um ein paar spezifischere Funktionalitäten gehen. Generieren Sie eine neue Seite und fügen Sie eine Tabelle und ein Quiz Ihrer Wahl zur Aktivierung Ihrer Lernenden ein. 
 7. Sie haben noch Zeit? Probieren Sie andere Funktionalitäten aus, die sich interessant anhören! Sie könnten zum Beispiel versuchen Content zu erstellen, der sich erst nach einem weiteren Klick zeigt oder ein kurzes Video einzubetten oder ausführbaren Code einzubinden.  
 
+
+>Bei Fragen melden Sie sich auch jederzeit gern bei uns im Zoom-Raum!
+
 ---
 💡
 Sie brauchen mehr Unterstützung? Wenn Sie auf die nächste Seite klicken, können Sie sich anzeigen lassen, wo Sie für die einzelnen Aufgabenschritte auf dem "CheatSheet" Lösungen finden! 
@@ -36,7 +39,5 @@ Sie brauchen mehr Unterstützung? Wenn Sie auf die nächste Seite klicken, könn
 >- Aufgabenschritt 4: M4
 >- Aufgabenschritt 5: M1, M10
 >- Aufgabenschritt 6: M5, L6-L8
->  
->Bei Fragen melden Sie sich auch jederzeit gern bei uns im Zoom-Raum!
 
 ---
