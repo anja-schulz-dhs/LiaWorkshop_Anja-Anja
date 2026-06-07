@@ -22,7 +22,7 @@ Nun ist die Zeit gekommen, mit LiaScript an diesem Material zu arbeiten und erst
 | Hilfeform               | Link                                                                                                                                                       |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CheatSheet              | [Kurzübersicht der Markdown und LiaScript Syntax](cheatSheet/cheatsheet.pdf)                                                                               |
-| Templates               | [Darstellung der Templates für die fachspezifische Inhalte](https://liascript.github.io/templates/)                                                        |
+| Templates               | [Darstellung der Templates für fachspezifische Inhalte](https://liascript.github.io/categories/template/)                                                        |
 | Liascript Dokumentation | [Umfangreiche Dokumentation der LiaScript Syntax](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1) |
 
 Berücksichtigen Sie dabei bitte die Prinzipien zur lernwirksamen Gestaltung von Lehre, die für Sie bei der Weiterentwicklung/Neuentwicklung besonders wichtig waren.
