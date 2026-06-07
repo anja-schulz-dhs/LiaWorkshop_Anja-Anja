@@ -32,23 +32,23 @@ __Typische Anwendungsfälle__
 
 ## Wann eignet sich GitHub (oder GitLab)?
 
-GitHub ist für nichtinformatikaffine Menschen etwas gewöhnungsbedürftig. Ein Git-Repository ist jedoch unerlässlich, wenn mehr wollen als der LiveEditor momentan ermöglicht.
+GitHub ist für nichtinformatikaffine Menschen etwas gewöhnungsbedürftig. Ein Git-Repository ist jedoch unerlässlich, wenn Sie mehr wollen als der LiveEditor momentan ermöglicht.
 
 __Typische Anwendungsfälle__
 
 - Entwicklung im Team
 - Bereitstellung für Studierende
-- langfristige Nutzung und Notwendigkeit der Versionenverwaltung
+- langfristige Nutzung und Notwendigkeit der Versionsverwaltung
 
 
 __So gehen Sie vor:__ 
-> Keine Panik: Mit Unterstützung durch KI, schaffen Sie das selbst dann, wenn Ihre einzige Lösung für Computerprobleme "Neustart" ist (funktioniert ja auch meistens)! 
+> Keine Panik: Mit Unterstützung durch KI schaffen Sie das selbst dann, wenn Ihre einzige Lösung für Computerprobleme sonst "Neustart" ist (funktioniert ja auch meistens)! 
 
 1. Erstellen Sie ein Repository auf GitHub oder GitLab.
-2. Laden Sie die Ihre Inhalte aus dem LiveEditor als .zip runter (unter "Menu") und in Ihrem Repository wieder hoch.
+2. Laden Sie die Inhalte aus dem LiveEditor als .zip runter (unter "Menu") und in Ihrem Repository wieder hoch.
 3.  Verlinken Sie ggf. Medien neu.
 4. Stellen Sie das Repository auf "public". 
-5. Gehen Sie auf Ihre Markdown-Datei im Repository. Klicken Sie auf "Raw". Kopieren Sie die Raw-URL. Fügen Sie diese unter [https://liascript.github.io/](https://liascript.github.io/) ein und gehen Sie auf "Open Course". Voila, ihr LiaScript-Kurs ist fertig! Natürlich sollten Sie nun nochmal alles prüfen und ggf. anpassen, falls sich Fehler eingeschlichen haben (Bearbeiten einer Datei in GitHub können Sie mit dem kleinen Stift-Symbol aktivieren!). Wenn Sie etwas im Repository verändern, müssen Sie lediglich die Seite Ihres LiaScript-Kurses aktualisieren. 
+5. Gehen Sie auf Ihre Markdown-Datei im Repository. Klicken Sie auf "Raw". Kopieren Sie die Raw-URL. Fügen Sie diese unter [https://liascript.github.io/](https://liascript.github.io/) ein und gehen Sie auf "Open Course". Voila, Ihr LiaScript-Kurs ist fertig! Natürlich sollten Sie nun nochmal alles prüfen und ggf. anpassen, falls sich Fehler eingeschlichen haben (Bearbeiten einer Datei in GitHub können Sie mit dem kleinen Stift-Symbol aktivieren!). Wenn Sie etwas im Repository verändern, müssen Sie lediglich die Seite Ihres LiaScript-Kurses aktualisieren. 
 
 
 ---
