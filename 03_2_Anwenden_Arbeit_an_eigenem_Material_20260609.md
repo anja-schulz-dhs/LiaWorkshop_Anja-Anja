@@ -19,7 +19,12 @@ Am Ende der vorgelagerten asynchronen Lernphase unseres Workshops hatten wir Sie
 
 Nun ist die Zeit gekommen, mit LiaScript an diesem Material zu arbeiten und erste Umsetzungen zu entwickeln!
 
-Berücksichtigen Sie dabei bitte die Prinzipien zur lernwirksamen Gestaltung von Lehre, die für Sie bei der Weiterentwicklung/Neuentwicklung besonders wichtig waren.
-Nutzen Sie auch gern weiterhin unser [CheatSheet](cheatSheet/cheatsheet.pdf).
+| Hilfeform               | Link                                                                                                                                                       |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CheatSheet              | [Kurzübersicht der Markdown und LiaScript Syntax](cheatSheet/cheatsheet.pdf)                                                                               |
+| Templates               | [Darstellung der Templates für die fachspezifische Inhalte](https://liascript.github.io/templates/)                                                        |
+| Liascript Dokumentation | [Umfangreiche Dokumentation der LiaScript Syntax](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1) |
 
->Bei Fragen melden Sie sich wieder jederzeit gern bei uns im Zoom-Raum!
+Berücksichtigen Sie dabei bitte die Prinzipien zur lernwirksamen Gestaltung von Lehre, die für Sie bei der Weiterentwicklung/Neuentwicklung besonders wichtig waren.
+
+> Bei Fragen melden Sie sich wieder jederzeit gern bei uns im Zoom-Raum!
