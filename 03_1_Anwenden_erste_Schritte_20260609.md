@@ -22,7 +22,7 @@
 1. Öffnen Sie den Live-Editor: [https://liascript.github.io/LiveEditor](https://liascript.github.io/LiveEditor)
 2. Jetzt können Sie direkt loslegen. Versuchen Sie als erstes eine Überschrift zu generieren. Schauen Sie sich das Ergebnis im "Preview" an. Fügen Sie dann etwas Text ein und trennen Sie zwei Textteile durch einen Absatz. Aktualisieren Sie den Preview mit "Compile". 
 
-    _Sie haben bereits Ihre erstes Material erstellt, das ging schnell, oder?_
+    _Sie haben bereits Ihr erstes Material erstellt, das ging schnell, oder?_
 
 3. Fügen Sie nun eine weitere Überschrift hinzu. Was passiert im Preview?
 4. Stellen Sie nun das Lernmaterial, dass Sie mit LiaScript erstellen wollen, auf der zweiten Seite kurz vor! Bauen Sie dafür einen Text mit Aufzählung oder ein anderes Inhaltselement Ihrer Wahl ein.
