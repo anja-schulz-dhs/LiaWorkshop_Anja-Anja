@@ -1,3 +1,30 @@
+<!--
+author:   Anja Hawlitschek und Anja Schulz
+
+email:    anja.hawlitschek@ovgu.de
+
+version:  0.1.0
+
+language: de
+
+narrator: Deutsch Male
+
+mode:     Presentation
+
+date:     08/06/2026
+
+comment:  Zusatzmaterial des Workshops "Lehre interaktiv gestalten mit LiaScript" (09.06.2026).
+
+
+attribute: "Entscheidungshilfe für LiaScript-Nutzende: LiveEditor versus Git-Repository""
+           von Anja Hawlitschek und Anja Schulz
+           ist lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+-->
+
+
+
 # Entscheidungshilfe für LiaScript-Einsteiger*innen: LiveEditor versus Git-Repository
 
 > Diese Anleitung hilft Ihnen bei der Entscheidung, ob Sie den LiveEditor oder eine Git-basierte Plattform (z.B. GitHub oder GitLab) für Ihr Vorhaben nutzen sollten.
