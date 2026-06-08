@@ -3,11 +3,11 @@
 > Diese Anleitung hilft Ihnen bei der Entscheidung, ob Sie den LiveEditor oder GitHub für Ihr Vorhaben nutzen sollten.
 
 
-| Wenn Sie ... | Nutzen Sie ... |
-|--------------|----------------|
-| LiaScript kennenlernen möchten | LiveEditor |
-| eine Präsentation erstellen möchten | LiveEditor |
-| gemeinsam mit Kolleg*innen entwickeln | GitHub |
+| Wenn Sie ... wollen | Nutzen Sie ... |
+|------------------------|----------------|
+| LiaScript kennenlernen | LiveEditor |
+| eine Präsentation erstellen und zeigen | LiveEditor |
+| gemeinsam mit Kolleg*innen Materialien entwickeln | GitHub |
 | Materialien langfristig pflegen | GitHub |
 | Selbstlernmaterialien bereitstellen | GitHub |
 
