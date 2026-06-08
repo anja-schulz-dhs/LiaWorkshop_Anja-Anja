@@ -11,13 +11,13 @@
 
 >__Ziel:__ Schritt für Schritt und unter Zuhilfenahme unseres [CheatSheets](cheatSheet/cheatsheet.pdf) erstellen Sie erste Inhalte mit LiaScript.
 >
->💡 Eine weitere Hilfe finden Sie ganz unten auf dieser Seite.
+>💡 Eine weitere Hilfe finden Sie ganz unten auf der nächsten Seite.
 >
 >__Zeit:__ 20 Minuten
 
 <br>
 
-__Arbeitsschritte:__
+## Arbeitsschritte
 
 1. Öffnen Sie den Live-Editor: [https://liascript.github.io/LiveEditor](https://liascript.github.io/LiveEditor)
 2. Jetzt können Sie direkt loslegen. Versuchen Sie als erstes eine Überschrift zu generieren. Schauen Sie sich das Ergebnis im "Preview" an. Fügen Sie dann etwas Text ein und trennen Sie zwei Textteile durch einen Absatz. Aktualisieren Sie den Preview mit "Compile". 
